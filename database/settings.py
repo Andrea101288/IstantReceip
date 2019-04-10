@@ -1,0 +1,5 @@
+host = "localhost"
+username = "root"
+passwd = "Jago2009"
+database = "istantReceip"
+charset = "UTF8"

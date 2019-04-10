@@ -1,0 +1,466 @@
+Pasta Fillo
+Pasta Tipo Mezze Maniche
+Pasta Sfoglia
+Pasta Fresca All'uovo
+Pasta Tipo Anelli Siciliani
+Pasta Tipo Anelletti
+Salame A Pasta Grossa (salsiccione)
+Salame A Pasta Fine (ungherese)
+Provatura (formaggio Di Bufala A Pasta Filata Simile Alla Mozzarella)
+Pasta D'acciughe
+Pasta Sfoglia Surgelata
+Pasta Frolla
+Formaggio A Pasta Filata
+Antipasto
+Pasta Lievita
+Burro Di Panna Pastorizzata
+Pasta Tipo Ditali
+Pasta Tipo Ditali (attuppateddi)
+Tahin (pasta Di Grani Di Sesamo)
+Pasta Kataifi
+Pasta Sfoglia Rettangolare
+Patate A Pasta Gialla Lessate
+Pasta Vecchia Condita Con Gocce D'aceto Di Vino
+Pasta Sfoglia (pasta Fillo)
+Pasta Di Riporto (eventuale)
+Pasta Tipo Ditalini
+Patate A Pasta Bianca Grandi
+Pasta Brisée Surgelata
+Pasta Brisée
+Barchette Di Pasta Brisée
+Pasta Sfoglia Fresca O Scongelata
+Pasta Genovese
+Pasta Tipo Bavette
+Pasta Tipo Bavette Di Grano Duro
+Pasta Tipo Penne
+Pasta Tipo Bavette Integrali
+Pasta Tipo Biciclette
+Pasta Tipo Bifore
+Pastella Per Friggere
+Pasta Di Tartufo
+Pastella Per Bignè
+Pasta Tipo Bigoli
+Pasta Tipo Bigoli Di Farina Integrale Di Frumento
+Pasta Tipo Spaghetti
+Pasta Tipo Bigoli All'uovo Freschi
+Pasta Tipo Bigoli Integrali
+Pasta Tipo Bigoli Fatti A Mano
+Pasta Di Datteri
+Pasta Di Mandorle (marzapane)
+Pasta Frolla Surgelata
+Pasta Di Pane
+Pasta Sfoglia Già Pronta
+Pasta Tipo Gnocchetti
+Crema Pasticciera
+Pastis
+Pasta Lievita Per Dolci
+Pasta Di Mandorle
+Pasta Tipo Fettuccine
+Pasta Da Pane Lievitata
+Pasta Brick
+Pasta Di Grano Duro
+Pasta Tipo Tagliolini All'uovo
+Pasta Tipo Bucatini
+Pasta Tipo Bucatini Fatti A Pezzi
+Pasta Tipo Bucatini Spezzettati
+Pasta Frolla Non Dolcificata
+Pasta Tipo Bucatini Integrali
+Foglioline Di Pasta Di Mandorle
+Pasta Tipo Pasta Calamarata
+Calamari (pasta)
+Pasta Sfoglia In Rotolo
+Pasta Da Pane
+Pasta Base Per Pizze (v. Ricetta)
+Pasta Base Per Pizza (v. Ricetta)
+Cannelloni (pasta Tipo Cannelloni)
+Pasta Tipo Pasta All'uovo
+Pasta Per Cannelloni Già Pronta
+Rettangoli Di Pasta Per Cannelloni
+Pasta Per Cannelloni
+Pasta Tipo Lasagne
+Pasta Tipo Pasta All'uovo Fresca
+Pasta Tipo Pasta All'uovo In Sfoglia
+Pasta Tipo Pasta Fresca Per Cannelloni
+Pasta Tipo Cannelloni Da Lessare
+Sfoglia Di Pasta All'uovo
+Pasta Tipo Cannelloni Preconfezionati
+Pasta Fresca Già Pronta
+Pasta Tipo Pasta Verde Per Lasagne
+Latte (se Si Deve Ammorbidire L'impasto)
+Pasta Tipo Lasagnette All'uovo (alte Circa 3 Cm)
+Cannoli Di Pasta Sfoglia
+Pasta Sfoglia Surgelata Di 400 G
+Pasta Di Mandorle Rosa
+Pasta Di Mandorle Bianche
+Pasta Tipo Cannolicchi
+Salsiccia A Pasta Fina
+Pasta Tipo Capellini
+Pasta Sfoglia Arrotolata
+Pasta Tipo Cappelletti
+Sfoglia Di Pasta All'uovo Surgelata
+Pasta Tipo Cappellini
+Pasta Tipo Mezze Penne
+Pasta Sfoglia Pronta
+Pasta Tipo Caramelle
+Pasta Tipo Penne Lisce
+Pasta Tipo Qualsiasi
+Pasta Tipo Fusilli
+Pasta Tipo Spaghetti N. 5
+Pasta Tipo Linguine
+Pasta Tipo Gnocchetti Sardi
+Pasta Tipo Pennette
+Pasta Tipo Penne Rigate
+Pasta Tipo Casarecce
+Lievito Di Pasta Acida
+Pasta Tipo Caserecce Barilla
+Pasta Di Mandorla Verde
+Pasta Tipo Pappardelle
+Pasta Tipo Cavatelli
+Pasta Tipo Cavatelli Freschi
+Pasta Tipo Cavatelli Fatti A Mano
+Pasta Di Salame
+Pasta Tipo Cellentani
+Filopasta Surgelata
+Crema Pasticciera (o Panna Montata)
+Pasta Di Olive
+Tartellette Di Pasta Brisée Salata
+Pasta Sfoglia Già Stesa
+Pasta Di Gamberetti
+Colorante Rosso Per Pasticceria
+Pasta Di Mandorla
+Pasta Tipo Chifferi
+Pasta Tipo Chiocciole
+Pasta Tipo Chioccioline
+Pasta Tipo Vermicelli Fini
+Pasta Di Pane Già Lievitata
+Pasta Tipo Cicerchie
+Pasta Amara
+Pasta Di Nocciola
+Patate A Pasta Bianca E Farinosa
+Pasta Tipo Conchiglie
+Pasta Tipo Conchigliette
+Pasta Formato Conchiglie
+Pasta Tipo Conchiglie Di Pasta Di Semola
+Pasta Tipo Conchiglie Rigate
+Pasta Tipo Conchiglie Grandi
+Pasta Tipo Conchiglioni
+Pasta Tipo Vermicelli
+Crema Pasticciera Già Pronta
+Pasta Tipo Pasta Paglia E Fieno
+Pasta Tipo Tagliolini Secchi All'uovo
+Pasta Fillo A Fogli
+Patate A Pasta Bianca
+Crema Pasticciera Soda
+Pastina
+Pasta Reale
+Crema Pasticciera (v. Ricetta)
+Pesche Mature A Pasta Gialla
+Patata A Pasta Farinosa Grande
+Pasta Per Crepes
+Pasta Tipo Tagliolini All'uovo Freschi
+Fondo Di Pasta Brisée (diametro 22 Cm)
+Fondo Di Pasta Frolla Salata Di 20 Cm
+Pasta Frolla Congelata
+Fondo Di Pasta Brisée
+Pasta Frolla Già Pronta
+Pasta Frolla Pronta
+Pasta Frolla Salata
+Pasta Frolla Da 500 G
+Pastafrolla Surgelata
+Pasta Tipo Tagliatelle
+Pasta Frolla Refrigerata
+Crostatine Di Pasta Brisée Cotte Di 10 Cm
+Tartellette Di Pasta Sfoglia
+Caviale Russo Pastorizzato
+Borsa Pastore
+Patate A Pasta Gialla
+Bignè Vuoti (si Possono Acquistare In Pasticceria)
+Pasta Tipo Ditali Rigati
+Pasta Tipo Ditaloni Artigianali
+Pasta Tipo Ditalini Integrali
+Pasta Tipo Ditaloni
+Pasta Sfoglia Scongelata
+Biscotti Di Pasta Frolla Sbriciolati
+Pasta Margherita
+Pasta Tipo Eliche
+Pasta Sfoglia Fresca
+Birra Non Pastorizzata
+Pasta Tipo Capuntini Fatti A Mano
+Pasta Tipo Pasta Fresca In Sfoglie
+Pasta Per Pizza
+Pasta Tipo Farfalle
+Pasta Tipo Farfalle Fresche Semintegrali
+Pasta Tipo Farfalle (per Insalate Di Pasta)
+Pasta Tipo Farfalline
+Pasta Tipo Farfalline All'uovo
+Pasta Tipo Farfalloni Verdi
+Pasta Tipo Farfalloni
+Pasta Tipo Ditaloni Rigati
+Pasta Tipo Fazzoletti Di Seta (maltagliati Liguri A Quadrettoni)
+Pasta Di Salsicce
+Pasta Di Olive Nere
+Pasta Tipo Fettuccine All'uovo
+Pasta Tipo Fettuccine All'uovo Secche
+Pasta Tipo Tagliatelle All'uovo
+Pasta Tipo Fettuccine Casarecce
+Pasta Tipo Fettuccine All'uovo Fresche
+Pasta Tipo Fettuccine Fresche
+Pasta Sfoglia Surgelata (conf. Da 380 G)
+Pasta Tipo Fili D'angelo
+Pasta Tipo Fili D'oro
+Pastella
+Pasta Da Pane Già Lievitata
+Pasta Per Pane
+Pasta Sfoglia (confezioni Da 400 G)
+Pasta Tipo Fregnacce
+Pasta Tipo Pasta Fregula
+Pasta Frolla Surgelata (confezioni Da 500 G)
+Patate A Pasta Farinosa
+Pasta Tipo Maccheroni
+Pasta Tipo Spaghetti Freddi Con Salsa Di Pomodoro
+Pasta Per Bignè
+Pasta Per Dolci
+Pasta Di Gamberi
+Pasta Tipo Fusilli Bucati
+Pasta Tipo Maccarruni (pasta Tipo Fusilli)
+Pasta Tipo Fusilli Bucati Corti
+Pasta Tipo Fusilli Bucati Lunghi
+Pasta Tipo Fusilli Corti
+Pasta Tipo Fusilli Colorati
+Pasta Tipo Fusilli Semintegrali Da Agricoltura Biologica
+Pasta Tipo Fusilli Lunghi
+Pasta Tipo Spaghetti Di Soia (pacchetti Da 100 G)
+Pasta Tipo Taglierini All'uovo
+Pasta Tipo Garganelli
+Pasta Tipo Garganelli Freschi Confezionati
+Pasta Tipo Gemelli
+Pasta Tipo Spaghettini Cinesi
+Pasta Tipo Gigli (pasta All'uovo)
+Pasta Frolla (confezioni Da 450 G)
+Pasta Tipo Gnocchetti Di Patate Freschi
+Pasta Tipo Gnocchetti Sardi Freschi Di Farina Semi-integrale
+Pasta Tipo Gnocchetti Di Patate
+Pasta Tipo Gnocchi Di Patate
+Pasta Tipo Gnocchetti Freschi Di Farina
+Pasta Tipo Gnocchetti Freschi Di Acqua E Farina
+Pasta Tipo Gnocchetti Sardi (v. Ricetta)
+Pasta Tipo Gnocchetti Sardi Malloreddus
+Pasta Tipo Gnocchi Verdi
+Pasta Tipo Gnocchi
+Pasta Tipo Gnocchi Di Semolino
+Pasta Tipo Gnocchi Di Patate Alle Ortiche Surgelati
+Pasta Tipo Gobbetti
+Pasta Tipo Gobbetti Rigati
+Pasta Tipo Semini
+Pasta Tipo Gramigna
+Pasta Di Tartufo (facoltativo)
+Pasta Tipo Pasta Corta
+Patate A Pasta Gialla (non Farinose)
+Uova Pastaia
+Pasta Tipo Trenette
+Pasta Tipo Ditalini Rigati
+Pasta Tipo Pipe Rigate
+Pasta Tipo Ziti
+Pasta D'olive
+Pasta Tipo Filini
+Pasta Tipo Maccheroni Piccoli
+Pasta Tipo Lagane (tagliatelle Fresche)
+Pasta Tipo Lagane Di Acqua E Farina
+Pasta Di Lasagna
+Pasta Tipo Lasagna Fresca Semintegrale
+Pasta Tipo Lasagne Fresche
+Pasta Tipo Lasagne All'uovo
+Pasta Tipo Pasta Fresca
+Pasta Tipo Lasagne Integrali
+Foglio Di Pasta All'uovo Fresca
+Pasta Tipo Pasta Per Lasagne Fresca
+Sfoglie Di Pasta Fresca
+Pasta Tipo Lasagne Secche
+Pasta Tipo Lasagne All'uovo Secche
+Pasta Tipo Lasagne All'uovo Fresche
+Pasta Tipo Lasagne Di Semola E Acqua
+Pasta Sfoglia Fresca Per Lasagne
+Pasta Tipo Lasagne Di Pasta Fresca
+Pasta Tipo Taglitelle
+Pasta Tipo Lasagne Verdi
+Pasta Tipo Lasagnette
+Tartellette Di Pasta Brisée A Conchiglia
+Acqua Di Cottura Della Pasta
+Pasta Tipo Linguine (o Pasta Tipo Spaghetti)
+Pasta Tipo Linguine (o Trenette)
+Pasta Tipo Linguine Di Farro
+Pasta Tipo Linguine Verdi
+Pasta Tipo Tagliolini
+Pasta Tipo Lolli Al Pettine
+Pasta Lievitata
+Pasta Tipo Maccheroncelli
+Pasta Tipo Maccheroncini
+Pasta Di Grano Duro Di Tipo Artigianale
+Pasta Tipo Maccheroni Cotti Al Dente
+Pasta Tipo Maccheroncini Rigati
+Pasta Tipo Maccheroncini Ritorti
+Pasta Tipo Maccheroncini Gialli Di Zucca
+Pasta Tipo Maccheroncini Gialli
+Pasta Tipo Maccheroncini Verdi
+Pasta Tipo Maccheroncini Rosa
+Pasta Tipo Maccheroncini Marroni
+Pasta Tipo Maccheroncini Rosa Mirtilli
+Pasta Tipo Maccheroncini Verdi Spinaci
+Pasta Tipo Maccheroni Alla Chitarra
+Pasta Tipo Maccheroni Rigati
+Pasta Tipo Rigatoni
+Pasta Tipo Maccheroni Crudi
+Pasta Tipo Maccheroni Cotti Molto Al Dente
+Pasta Tipo Mezzani (o Maltagliati)
+Pasta Di Olive Verdi
+Pasta Tipo Maccheroni Col Ferro Freschi
+Pasta Tipo Maccheroni Fatti In Casa
+Pasta Tipo Maccheroni Spezzati
+Pasta Tipo Bombolotti
+Pasta Tipo Pasta Mista
+Pasta Tipo Mafaldine
+Pasta Fresca
+Pasta Tipo Maltagliati All'uovo
+Pasta Tipo Maltagliati
+Pasta Tipo Maltagliati Di Pasta Fresca
+Pasta Tipo Maltagliati Freschi All'uovo
+Pasta Tipo Losanghe
+Pasta Di Pane Lievitata
+Pasta Miso
+Pasta Tipo Mezze Maniche Rigate
+Pasta Tipo Mezze Penne Rigate
+Pasta Tipo Mezze Reginette
+Pasta Tipo Mezzemaniche
+Pasta Tipo Mezzi Paccheri
+Pasta Tipo Mezzi Ziti Spezzati
+Pasta Tipo Pasta Corta Rigata
+Zucchero (+ Poco Per La Pasta Sfoglia)
+Pasta Sfoglia Surgelata In Rotoli (2 Rotoli)
+Pasta Tipo Pastina All'uovo
+Pasta Tipo Pastina
+Pasta Tipo Pastina Da Minestra
+Pasta Tipo Pastina Gramigna
+Pasta Tipo Spaghetti Sottili
+Pasta Tipo Capelli D'angelo
+Pasta Tipo Quadrucci Freschi
+Pasta Tipo Taglierini Freschi
+Pasta Tipo Pasta All'uovo Secca
+Pasta Tipo Fidelini Sottili
+Pasta Tipo Tagliolini D'acqua E Farina
+Pasta Tipo Spaghettini Spezzati
+Pasta Tipo Pasta Piccola
+Pasta Tipo Spaghetti Spezzati
+Pasta Tipo Vermicelli Spezzati
+Pasta Tipo Tubetti
+Pasta Tipo Quadrucci Freschi Integrali
+Pasta Tipo Tagliolini Freschi
+Pasta Tipo Quadrucci All'uovo
+Pasta Tipo Capellini Spezzati
+Pasta Tipo Stelline
+Pasta Tipo Pastina Fine
+Pasta Tipo Anellini
+Riso (o Pasta Tipo Pasta Corta)
+Pasta Tipo Tortiglioni
+Pasta Tipo Minestrone
+Pasta Tipo Lancette
+Fondi Di Pasta Brisée Cotti (diam. 6 Cm)
+Pasta Di Salsiccia
+Capperi In Pasta
+Pasta Tipo Nastrini
+Pasta Tipo Tagliatelle (nidi)
+Pasta Tipo Nidi Di Tagliatelle
+Pasta Di Arachidi
+Pasta Tipo Nuvole (pasta Secca)
+Pasta Tipo Stracciatella Pugliese
+Pasta Tipo Orecchiette
+Pasta Tipo Orecchiette Baresi Fresche
+Pasta Tipo Orecchiette Pugliesi
+Pasta Tipo Orecchiette Di Grano Arso
+Pasta Tipo Orecchiette Fresche Di Farina Semintegrale
+Pasta Tipo Orecchiette Integrali
+Pasta Tipo Orecchiette Fresche Di Semola E Farina
+Pasta Tipo Paccheri
+Pasta Tipo Paglia E Fieno
+Granatina Per Un Impasto Rosa
+Ostie Da Pasticceria
+Pasta Di Pane Comprata Già Pronta
+Pastina Tipo Stelline
+Pasta Tipo Pastina Tempestina
+Pasta Tipo Pappardelle All'uovo
+Pasta Tipo Pappardelle Secche All'uovo
+Pasta Tipo Pappardelle Fresche
+Pasta Tipo Pappardelle All'uovo Fresche
+Pasta Tipo Pappardelle Bianche E Verdi
+Pasta Tipo Pappardelle Fresche All'uovo
+Pasta Tipo Pappardelle Fresche Semintegrali
+Pasta Al Pomodoro
+Pasta Tipo Sedanini Rigati
+Pasta Tipo Sedani Rigati
+Pasta Tipo Reginette
+Pasta Tipo Pasta Integrale
+Pasta Tipo Sedani
+Pasta Tipo Pasta Rigata
+Pasta Al Basilico
+Pasta Tipo Spaghetti Alla Chitarra
+Pasta Tipo Qualsiasi Cotta Al Dente
+Pasta Tipo Penne Corte
+Pasta Tipo Rigatoni Integrali
+Pasta Tipo Pennette Rigate
+Pasta Tipo Pasta Grossa
+Pasta Tipo Qualsiasi Colorata Alla Barbabietola
+Pasta Tipo Mezzi Rigatoni
+Pasta Tipo Pasta Corta Integrale
+Pasta Formato Sedani Rigati
+Pasta Tipo Gnocchetti Di Zita Lunghi
+Pasta Tipo Pasta Corta Di Grano Duro
+Pasta Tipo Bigoli (o Pasta Tipo Fusilli)
+Pasta Tipo Penne (o Maccheroni)
+Pasta Tipo Pasta Corta Mista
+Pasta Tipo Fazzoletti Di Pasta Fresca All'uovo
+Pasta Tipo Spaghetti (o Maccarruni)
+Pasta Tipo Pasta Corta (tubetti)
+Pasta Tipo Zite
+Pasta Tipo Sedanini All'uovo Freschi
+Pasta Tipo Cannolicchi Rigati
+Pasta Tipo Creste Di Gallo
+Pasta Tipo Torciglioni
+Pasta Tipo Maccaroncelli
+Pasta Tipo Perciatelli
+Pasta Tipo Quadrucci
+Pasta Tipo Spaghetti Spezzettati
+Pasta Tipo Ritagli Di Pasta
+Pasta Tipo Fettuccine (o Pasta Tipo Cannolicchi)
+Pasta Tipo Strozzapreti Spezzati
+Pasta Tipo Tagliatelle All'uovo Fatte In Casa
+Pasta Tipo Tubetti Grandi
+Pasta Tipo Tagliatelle Secche All'uovo
+Pasta Tipo Tagliatelle Di Semola
+Pasta Tipo Tubetti Piccoli
+Pasta Tipo Pasta Corta Grande
+Pasta Tipo Corallini
+Pasta Tipo Pennette Lisce
+Pasta Tipo Panna Corta
+Pasta Tipo Pasta Corta (pasta Tipo Fusilli O Pasta Tipo Farfalle)
+Pasta Tipo Pasta Piccola Quadrata
+Lievito Per Pasticceria
+Pasta Tipo Gemmine
+Pasta Sfoglia Congelata
+Pasta Tipo Maccheroni Di Semola Di Grano Duro
+Pasta Sfoglia Surgelata Da 350 G
+Pasta Tipo Pastina Junior
+Pastina Per L'infanzia
+Patate A Pasta Dura
+Pasta Tipo Tagliatelle Verdi
+Patate A Pasta Soda
+Pasta D'arachidi
+Pere Mature A Pasta Soda
+Pasta Tipo Penne Piccole Rigate
+Pasta Tipo Penne Integrali
+Pasta Tipo Penne (o Mezze Penne)
+Pasta Tipo Penne Medie Lisce
+Pasta Tipo Penne Verdi Agli Spinaci
+Pasta Tipo Penne Grandi
+Pasta Tipo Penne Lisce Medie
+Pasta Tipo Pennoni
+Pasta Sfoglia (o Pasta Frolla)
+Pasta Tipo Tempestina
