@@ -15,8 +15,11 @@
     "expo": "^32.0.0",
     "native-base": "^2.12.1",
     "react": "16.5.0",
+    "react-localization": "^1.0.13",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
-    "react-navigation": "^3.0.9"
+    "react-native-i18n": "git+https://github.com/AlexanderZaytsev/react-native-i18n.git",
+    "react-navigation": "^3.0.9",
+    "upgrade": "^1.1.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
