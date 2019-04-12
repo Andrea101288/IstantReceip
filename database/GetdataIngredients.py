@@ -1,12 +1,15 @@
 from manager import Manager
 import settings
+import time
+import goslate
+gs = goslate.Goslate()
 
 # get datas from txt file to save receips data
 file = open("ricette.txt", "r") 
- 
+file2 = open("IngEn.txt", "w") 
 findI = False
 findMI = False 
-
+stringa = ""
 ingredients = []
 
 # Create a new instance of db manager
@@ -29,28 +32,24 @@ for line in file:
         ingredient = line.split("= ")[1].replace("\n", "")
         if ":" in ingredient:
             continue
-        if  (not manager.contain_ingredient(ingredient)):
+        if  (not manager.contain_ingredient(ingredient)):         
+            stringa = stringa + ingredient + "\n"
             # Insert the new event in the database
-            manager.insert_ingredient(ingredient, 0)
-        ++i
-        if i%100: 
-            time.sleep(1) 
-        continue
-                
-    if "-Ing_Principale" in line:
-        findMI = True
-        continue
-    if findMI:
-        mainIng = line.replace("\n", "")
-        if  (not manager.contain_ingredient(mainIng)):
-            # Insert the new event in the database
-            manager.insert_ingredient(mainIng, 0)
-        findMI = False
-    ++i
-    if i%100: 
-      time.sleep(1)    
-    
+            manager.insert_ingredient(ingredient, "", 0)
+            
+    i = i + 1
+    if i%1000: 
+      time.sleep(1)
+      
+ingTrad = gs.translate(stringa,'en')
+i = 1
+file2.write(stringa)
+print("DONEEEEEEEEEEEEEEE")
+for ing in ingTrad.split("\n"):
+    manager.update("ingredient", "name_en = " + ing + " where id = " + str(i)) 
+    i = i + 1
 print("DONE")
              
 manager.close()  
 file.close()
+file2.close

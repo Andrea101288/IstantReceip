@@ -1,12 +1,11 @@
 from manager import Manager
 import settings
-
+import time
 # get datas from txt file to save receips data
 file = open("ricette.txt", "r") 
  
 findI = False
 findMI = False 
-
 ingredients = []
 
 # Create a new instance of db manager
@@ -20,9 +19,10 @@ i = 0
 
 # seraching for the ingredient names and amount in the text file
 for line in file: 
+    
     if "-Ingredienti" in line:
         findI = True
-        ++i
+        i = i + 1
         continue
     if "-Preparazione" in line:
         findI = False
@@ -34,21 +34,9 @@ for line in file:
             continue
         # Insert the new ingredient in the database
         ing = manager.ingredientByName(ingredient)
-        manager.insert_Receip_ingredient(ing[0], i, amount, "False")
-        continue
-                
-    if "-Ing_Principale" in line:
-        findMI = True
-        continue
-    if findMI:
-        mainIng = line.replace("\n", "")
-        # Insert the new ingredient in the database
-        ing = manager.ingredientByName(mainIng)
-        #print(ing[0])
-        manager.insert_Receip_ingredient(ing[0], i, "", "False")
-        findMI = False
+        manager.insert_Receip_ingredient(ing[0][0], i, amount)
     if i%1000: 
-      time.sleep(2)    
+      time.sleep(.5)    
     
 print("DONE")
              

@@ -2,7 +2,7 @@ import mysql.connector as mysql
 
 
 class Manager:
-    """This class manages all the connection and operations on the ESN database"""
+    """This class manages all the connection and operations on the database"""
 
     def __init__(self, host, username, password, database, charset="UTF8"):
         """Constructor function"""
@@ -51,13 +51,13 @@ class Manager:
             # Close connection
             self.close()
             
-    def insert_ingredient(self, name, calories):
+    def insert_ingredient(self, name, EnName, calories):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
         try:
             # Prepare query                     
-            query = "INSERT INTO ingredient VALUES({0}, '{1}', {2})".format(0, name,  calories)
+            query = "INSERT INTO ingredient VALUES({0}, '{1}', '{2}', {3})".format(0, name, EnName, calories)
             # Execute query
             self.cursor.execute(query)
             self.connection.commit()
@@ -131,13 +131,13 @@ class Manager:
             # Close connection
             self.close()
             
-    def insert_Receip_ingredient(self, idIng, idRec, amount, mainIng):
+    def insert_Receip_ingredient(self, idIng, idRec, amount):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
         try:
             # Prepare query                     
-            query = "INSERT INTO receiptingredients VALUES({0}, {1}, {2}, '{3}', {4})".format(0, idIng,  idRec, amount, mainIng)
+            query = "INSERT INTO receiptingredients VALUES({0}, {1}, {2}, '{3}')".format(0, idIng,  idRec, amount)
             # Execute query
             self.cursor.execute(query)
             self.connection.commit()
@@ -162,6 +162,41 @@ class Manager:
             # Execute query
             self.cursor.execute(query)
             return self.cursor.fetchall()            
+        finally:
+            # Close connection
+            self.close()
+            
+    def update(self, table, par):
+        """Insert events in the database"""
+        # Connect to DB
+        self.connect()
+        try:
+            # Prepare query                     
+            query = "UPDATE "+ table + " SET " + par 
+            
+            # Execute query
+            self.cursor.execute(query)
+            return self.cursor.fetchall()3
+            
+        finally:
+            # Close connection
+            self.close()   
+    
+    def CheckReceipIngredients(ingredients, idRec):
+        """Insert events in the database"""
+        # Connect to DB
+        self.connect()
+        try:
+            # Prepare query                     
+            query = "select idIngredient from receiptingredients where idReceipt = " + str(idRec) 
+            # Execute query
+            res = self.cursor.fetchall()
+            if len(ingredients) < len(res):
+                return False
+            for ing in res:
+                if ing not in ingredients:
+                    return False
+            return True
         finally:
             # Close connection
             self.close()
