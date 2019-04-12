@@ -15,16 +15,14 @@ I18n.translations = {
   it,
 }; 
 
-const curr = I18n.locale
+I18n.locale = Localization.locale
 const currentLocale = I18n.currentLocale();
-console.log(curr)
+
+console.log(I18n.locale)
 console.log(currentLocale)
+console.log(Localization.locale)
 // Is it a RTL language?
 export const isRTL = currentLocale.indexOf('en') === 0 || currentLocale.indexOf('ar') === 0;
-import { NativeModules } from 'react-native';
-const { RNI18n } = NativeModules;
-
-console.log(RNI18n)
 // Allow RTL alignment in RTL languages
 ReactNative.I18nManager.allowRTL(isRTL);
 
