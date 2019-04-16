@@ -56,7 +56,7 @@ class Manager:
         # Connect to DB
         self.connect()
         try:
-            # Prepare query                     
+            # Prepare query 
             query = "INSERT INTO ingredient VALUES({0}, '{1}', '{2}', {3})".format(0, name, EnName, calories)
             # Execute query
             self.cursor.execute(query)
@@ -176,7 +176,7 @@ class Manager:
             
             # Execute query
             self.cursor.execute(query)
-            return self.cursor.fetchall()3
+            return self.cursor.fetchall()
             
         finally:
             # Close connection
