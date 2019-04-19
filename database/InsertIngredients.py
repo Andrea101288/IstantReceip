@@ -3,7 +3,7 @@ import settings
 import time
 
 # get datas from txt file to save receips data
-file = open("IngEnGoogle.txt", "r") 
+file = open("IngEn.txt", "r") 
 findI = False
 findMI = False 
 stringa = ""

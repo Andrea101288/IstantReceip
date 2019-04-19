@@ -34,9 +34,7 @@ for line in file:
             continue
         # Insert the new ingredient in the database
         ing = manager.ingredientByName(ingredient)
-        manager.insert_Receip_ingredient(ing[0][0], i, amount)
-    if i%1000: 
-      time.sleep(.5)    
+        manager.insert_Receip_ingredient(ing[0][0], i, amount)    
     
 print("DONE")
              

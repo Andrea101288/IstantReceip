@@ -6,10 +6,10 @@ gs = goslate.Goslate()
 
 # get datas from txt file to save receips data
 file = open("ricette.txt", "r") 
-file2 = open("IngEn1.txt", "w") 
+file2 = open("IngEn.txt", "w") 
 findI = False
 findMI = False 
-stringa = ""
+stringa = "|"
 ingredients = []
 
 # Create a new instance of db manager
@@ -32,11 +32,11 @@ for line in file:
         ingredient = line.split("= ")[1].replace("\n", "")
         if ":" in ingredient:
             continue
-        if  (not manager.contain_ingredient(ingredient)):         
-        # if(ingredient not in stringa):
-           # stringa = stringa + ingredient + "| "
+        #if  (not manager.contain_ingredient(ingredient)):         
+        if("|"+ingredient+"|" not in stringa):
+           stringa = stringa + ingredient + "|"
            #Insert the new event in the database
-           manager.insert_ingredient(ingredient, "", 0)
+           # manager.insert_ingredient(ingredient, "", 0)
             
 
 stringa = stringa.replace("''", "'")           
@@ -44,12 +44,12 @@ i = 1
 # file2.write(stringa)
 print("DONEEEEEEEEEEEEEEE")
 count = 0
-for s in stringa.split("| "):
-    count += len(s)
-    if count > 25000:
-        count = len(s)
-        i+=1
-        file2 = open("IngEn"+str(i)+".txt", "w")
+for s in stringa.split("|"):
+    # count += len(s)
+    # if count > 25000:
+        # count = len(s)
+        # i+=1
+        # file2 = open("IngEn"+str(i)+".txt", "w")
     file2.write(s+"\n")
 # for ing in ingTrad.split("\n"):
     # manager.update("ingredient", "name_en = " + ing + " where id = " + str(i)) 

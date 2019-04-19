@@ -182,21 +182,83 @@ class Manager:
             # Close connection
             self.close()   
     
-    def CheckReceipIngredients(ingredients, idRec):
+    def CheckIstantReceipIngredients(self, ingredients):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
+        
         try:
-            # Prepare query                     
-            query = "select idIngredient from receiptingredients where idReceipt = " + str(idRec) 
-            # Execute query
-            res = self.cursor.fetchall()
-            if len(ingredients) < len(res):
-                return False
-            for ing in res:
-                if ing not in ingredients:
-                    return False
-            return True
+            foundReceips = []
+            queryRec = "select distinct idReceipt from receiptingredients where " 
+            for ing in ingredients: 
+                queryRec +=  "idIngredient = " + str(ing) + " or "
+            
+            queryRec = queryRec[:-4]
+            print(queryRec)
+            self.cursor.execute(queryRec)
+            receips = self.cursor.fetchall()
+            print(receips)
+            
+            for idRec in receips:            
+                ok = True
+                # Prepare query                     
+                query = "select idIngredient from receiptingredients where idReceipt = " + str(idRec[0]) 
+                # Execute query
+                self.cursor.execute(query)
+                res = self.cursor.fetchall()
+                if len(ingredients) < len(res):
+                    continue
+                #print("receip" + str(idRec[0]))
+                for ing in res:
+                    #print(ing)
+                    if not any(ing[0] == s for s in ingredients):
+                    #if ing not in ingredients:
+                        #print(ing)
+                        ok = False
+                        break
+                if ok:
+                    queryRec = "select name from receipt where id = " + str(idRec[0])
+                    self.cursor.execute(queryRec)
+                    finalResult = self.cursor.fetchall()
+                    foundReceips.append([finalResult[0][0], idRec[0]])
+                    print(foundReceips)
+            return foundReceips
+            
+        # except mysql.Error as e: 
+            # print(e)
+            # return [e, 0] 
+            
+        finally:
+            # Close connection
+            self.close()
+            
+    def CheckAllReceipIngredients(self, ingredients):
+        """Insert events in the database"""
+        # Connect to DB
+        self.connect()
+        
+        try:
+            foundReceips = []
+            queryRec = "select distinct idReceipt, name from receiptingredients where " 
+            for ing in ingredients: 
+                queryRec +=  "idIngredient = " + ing + " or "
+            
+            queryRec = queryRec[:-4]
+            self.cursor.execute(queryRec)
+            receips = self.cursor.fetchall()
+            
+            for idRec in receips:            
+                queryRec = "select name from receips where id = " + idRec[0]
+                self.cursor.execute(queryRec)
+                finalResult = self.cursor.fetchall()
+                foundReceips.append(finalResult[0][0], idRec[0])
+            
+            return foundReceips
+            
+         #except mysql.Error as e: 
+            # print(e[1])        
+            # return [e[1], 0] 
+            
         finally:
             # Close connection
             self.close()
