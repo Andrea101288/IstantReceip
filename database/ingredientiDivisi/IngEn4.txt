@@ -1,3 +1,209 @@
+Burro Alle Acciughe
+Pane Toscano Senza Sale
+Zucchine Con I Fiori
+Ricotta Forte
+Formaggio Grana In Scaglie
+Salsicce Di Carne Di Maiale
+Formaggio Fontina (fette Molto Sottili)
+Pomodori Da Insalata Maturi
+Olive Nere Al Forno
+Paté Di Olive
+Salsa Arissa
+Pane Bruscato
+Fagioli Borlotti Lessati
+Rughetta Selvatica
+Pere Williams
+Pane Siciliano (con Semi Di Sesamo)
+Capperi Sotto Sale Sciacquati Strizzati
+Cipolle Bianche Piccole
+Carpaccio Di Manzo
+Rughetta
+Cernia (fette Sottili)
+Tonno Fresco (tranci Di 300 G)
+Ceci Lessati
+Cipolle Bianche Dolci
+Timo Sbriciolato
+Basilico Sminuzzato
+Pane Casereccio (o Pane Di Segale)
+Ceci
+Farina Di Sesamo
+Melanzane Viola
+Fagioli Cannellini Freschi
+Fagioli Cannellini Lessati
+Fave Fresche
+Formaggio Pecorino In Scaglie
+Arance Rosse
+Gamberi Imperiali
+Formaggio Bruss
+Pollo Lesso
+Insalata Lattuga Romana A Striscioline
+Code Di Mazzancolle
+Brodo Vegetale (o Brodo Di Dado)
+Bottarga Di Tonno In Scaglie
+Cipolle Rosse Piccole
+Sgombro Sott'olio
+Piattoni
+Pomodori Secchi Sott'olio
+Pomodori Tondi Da Sugo
+Prosciutto Di Montagna (pezzi Da 200 G)
+Fichi Non Troppo Grandi
+Melone Tagliato Molto Sottile
+Prosciutto San Daniele Affettato Sottile
+Provatura
+Salame Calabrese Piccante
+Rognoncini Di Vitello
+Pane Integrale
+Sarde Fresche
+Formaggio Scamorza Affumicata
+Tonno Sott'olio Spezzettato
+Crauti
+Piselli Sgranati
+Spinaci Novelli
+Bacon A Cubetti
+Rughetta Selvatica In Foglie
+Filetto Di Cernia
+Tartufi Neri
+Crema Di Semi Di Sesamo (thaini)
+Bottarga Grattugiata
+Menta Fresca Tritata
+Pane Francese
+Miele Tartufato
+Sauternes
+Panettone
+Ovoli
+Fagiolini Lessi
+Pomodori Rossi Da Insalata
+Salame Cacciatorino
+Pane Toscano
+Peperoni Grandi
+Pomodori Rossi, Sodi E Saporiti
+Capperini Selvatici
+Pane Casereccio Di Almeno 1 Giorno
+Fagioli Cannellini
+Peperoni Tagliati A Listarelle
+Zucchine Fritte
+Melanzane Sott'aceto
+Pomodori Tagliati Finemente
+Cipolloni
+Carpaccio Di Salmone Fresco
+Ceci Già Lessati Con Un Rametto Di Rosmarino
+Fiore Di Aglio Orsino
+Ricotta Doppia Crema
+Salame Piccante Calabrese
+Fesa Di Tacchino A Fette
+Cavoletti Di Bruxelles
+Cipolle Rosse Grandi
+Melanzana Piccola
+Cipolla Bianca Piccola Tritata
+Polpa Di Pomodoro A Pezzetti
+Pane Rustico
+Pomodorini Secchi Sott'olio
+Carote Novelle Piccole
+Patate Novelle Piccole
+Taccole
+Pane Francese Tipo Baguette
+Pomodorini A Ciliegia
+Insalata Lattuga (foglie Grandi)
+Carne Trita Di Manzo
+Polenta A Fette Grigliata
+Avanzi Di Formaggi Piccanti E Dolci
+Latte Oppure Siero Di Latte
+Grappa (oppure Acquavite, Rum, Brandy)
+Mandorle Dolci Sgusciate
+Ostia Per Dolci
+Granella Di Nocciole
+Nocciole Spellate
+Pasta Tipo Bucatini
+Guanciale Di Maiale A Fette
+Fiori Di Nasello Findus
+Pane Toscano (mollica)
+Formaggio Parmigiano Grattugiato.
+Guanciale Di Maiale Tagliato A Fette Spesse
+Pomodori Pelati In Scatola
+Formaggio Pecorino Romano Grattugiato
+Pancetta Di Maiale
+Pasta Tipo Bucatini Fatti A Pezzi
+Guanciale Di Maiale Magro Tagliato In Pezzi Grossi
+Pomodori (polpa Molto Asciutta E Tagliata A Filetti Fini)
+Formaggio Pecorino Di Fossa A Scaglie
+Guanciale Di Maiale Affumicato
+Guanciale Di Maiale Molto Magro Tagliato In Pezzi Piuttosto Grossi
+Cipolla Tritata Fine
+Pomodoretti (polpa Molto Asciutta E Tagliata A Filettini Fini)
+Pomodori San Marzano Ben Maturi
+Guanciale Di Maiale Senza Cotenna
+Formaggio Provolone Piccante Grattugiato
+Funghi In Scatola
+Fagioli Borlotti In Scatola
+Guanciale Di Cinta Senese
+Tuorli Di Uova Sode
+Capperi Grandi
+Formaggio Pecorino Sardo Grattugiato
+Formaggio Treccia Di Bufala
+Funghi Porcini Freschi
+Bergamotto
+Paté Di Olive Nere
+Filetti Di Sarde
+Sarde Fresche Deliscate
+Cipolla Rossa Di Tropea
+Peperoncino (facoltativo)
+Pasta Tipo Bucatini Spezzettati
+Vino Vermentino
+Capperi Strizzati E Tritati
+Peperoncini Verdi
+Bucatini
+Finocchietti
+Zafferano In Polvere
+Filetti Di Sarde Sott'olio
+Maggiorana Fresca Tritata
+Salsiccia Ai Semi Di Finocchio
+Mortadella A Dadini
+Zucchine Novelle
+Formaggio Parmigiano A Scaglie
+Peperoncini Piccanti Secchi
+Pasta Frolla Non Dolcificata
+Pomodoro Fresco A Pezzetti
+Chicchi Di Mais Lessati
+Tonno Sott'olio Sbriciolato
+Pasta Tipo Bucatini Integrali
+Broccoli Lessati Al Dente
+Trancio Di Pesce Spada Da 200 G
+Pancetta Coppata
+Zuccherata
+Burro Per Crema Al Burro
+Foglioline Di Pasta Di Mandorle
+Funghetti Di Meringa
+Zucchero A Velo Per Guarnire
+Vino Champagne Ghiacciato
+Zucchero E Burro Per Gli Stampini
+Vino Moscato
+Latte Scarso
+Cioccolata Grattugiata
+Rum (o Cognac)
+Frutti Di Bosco Surgelati
+Colla Di Pesce (12 G)
+Grissini Pestati
+Cachi Maturi
+Wheat Cream
+Acqua (vedi Dosi Su Scatola Wheat Cream)
+Zucchero Scuro (possibilmente Fino)
+Zucchero Per Il Caramello Dello Stampo
+Caffè Ben Forte
+Succo Di Lime (o Succo Di Limoni Verdi)
+Caramello
+Sciroppo Di Lamponi (o D'altra Frutta)
+Biscottini Secchi
+Caffè D'orzo Piuttosto Forte
+Fiocchi Di Agar-agar
+Mandorle Eventualmente Miste A Nocciole
+Agar Agar
+Sciroppo Alla Menta
+Liquore Alla Vaniglia
+Mandorle Dolci Già Pelate
+Pesche Gialle
+Terrina Di Caffè Ristretto
+Pangrattato Per Lo Stampo
+Pane In Cassetta A Fette
 Caffè Piuttosto Forte
 Biscotti Amaretti Interi Per Guarnizione
 Noci (gherigli Per Guarnizione Finale)
@@ -9,6 +215,7 @@ Confettura Di Albicocche
 Biscotti Grattugiati
 Gallettine
 Pezzetti Di Cedro E D'arancia Candita
+Burro E Zucchero
 Mandorle E Cioccolato Fondente
 Carne Di Pollo Tritata
 Prosciutto Crudo Tritato
@@ -19,15 +226,18 @@ Agar Agar In Fiocchi
 Castagne Sbucciate
 Cavolfiore Da 1000 G
 Cioccolata Amara
+Biscottini
 Liquore (o Vino Bianco)
 Codette Di Cioccolato
 Cioccolata In Polvere
 Frutta Di Stagione A Piacere
 Melone Piccolo
 Amarene Sotto Spirito
+Zabaglione
 Mandaranci
 Castagne Marroni
 Cedro Candito, Uvetta Sultanina E Pinoli
+Miglio
 Uvetta Sultanina E Uva Malaga
 Salsa Di Frutta
 Vaniglina Purissima
@@ -68,6 +278,7 @@ Semolino Integrale
 Castagne Cotte (o Mandorle Tostate)
 Sesamo Tostato
 Uva Italia
+Caffè D'orzo
 Miele Morbido
 Fette Biscottate Dolci
 Arancini Canditi
@@ -108,10 +319,12 @@ Erba Cedrata
 Polpa Di Mango
 Salsa Al Chili
 Prosciutto Cotto (fette Da 200 G)
+Rafano
 Pepe Fresco
 Cipollotto Fresco Tagliato Sottile
 Acciughe Diliscate
 Acciughe Pulite
+Spicchi D'aglio
 Burro Fresco Non Salato
 Gusci Di Astice
 Acciughe Tritate Finemente
@@ -129,6 +342,7 @@ Filetto Di Pesce Persico
 Lievito Di Pane
 Farina Di Grano Tenero
 Aroma Di Anice
+Granella Di Zucchero
 Gazzosa Fredda
 Succo D'ananas Toschi
 Succo D'arancia Toschi
@@ -139,12 +353,14 @@ Byrrh
 Burro Fine
 Farina O Maizena
 Cognac Otard
+Amaro
 Bonnekamp
 Liquore Alla Banana
 Liquore Al Mandarino
 Pesce (scorfani, Palombetti, Tracine, Morene, Gronchi, Gallinelle)
 Seppie E Polipetti
 Cicale Di Mare
+Peperoncino Rosso Piccante
 Pomodori Freschi Maturi
 Ciliegina Verde Boero
 Liquore Giallo Dolce
@@ -156,6 +372,7 @@ Pomodori Freschi Pelati Tagliati A Pezzi
 Fette Di Pane Casereccio
 Canocchie (o Granchi)
 Gattuccio
+Scorfano
 Murena
 Mollica Di Pane Grattugiata
 Spicchi D'aglio Tritati Col Prezzemolo
@@ -170,7 +387,9 @@ Caffè Caldo
 Scorza D'arancia Finemente Grattugiata
 Caffè Molto Forte Non Zuccherato
 Caffè Bollente
+Scorza D'arancia Tritata
 Arance (scorza)
+Caffè Molto Forte
 Panna Liquida (o Panna Montata)
 Acquavite Di Ginepro Olandese
 Rum Negrita
@@ -186,6 +405,7 @@ Polvere Di Caffè Finissima
 Arancia (o Limone)
 Caffè Espresso Forte
 Rum Invecchiato
+Brandy Stock
 Liquore Mammuth
 Caffè Espresso Zuccherato
 Caffè Espresso Zuccherato Bollente
@@ -203,11 +423,13 @@ Caffè Crudo
 Artic Silver
 Orzata Sacco
 Papaia Drink Boero
+Cialde
 Caffè Forte Bollente
 Caffè Solubile Istantaneo
 Caffè Ristretto Bollente
 Peperoncino Jalapeno Fresco
 Cipolline Da Cocktail
+Martini Dry
 Scorze Di Arance O Cedro Candito
 Prosciutto Crudo A Dadini
 Yogurth Light
@@ -222,6 +444,7 @@ Crostoni Di Pane Fritto
 Calamari (pasta)
 Calamari Grandi
 Anelli E Ciuffi Di Calamari Surgelati (confezioni Di 300 G)
+Peperoncino Rosso Fresco
 Calamari Svuotati E Spellati
 Calamari Già Svuotati E Spellati
 Insalata Riccia (o Insalata Novella)
@@ -232,6 +455,8 @@ Code Di Gamberoni Sgusciate
 Compressa Di Gelatina Da 50 Cl
 Cuori Di Carciofi Findus
 Vino Passito
+Panino (mollica)
+Calamari Piccoli
 Funghi Porcini Secchi Già Ammollati In Acqua Tiepida
 Polenta Gialla Istantanea
 Acciughetta Salata
@@ -239,6 +464,7 @@ Cozze Già Sgusciate
 Pancarré Ammollato
 Calamari Medi
 Olive Nere Di Gaeta
+Pomodoro Fresco
 Code Di Gamberi Sgusciate
 Gamberetti Già Puliti
 Calamari Freschissimi Da 250 G Ciascuno
@@ -248,6 +474,7 @@ Aglio Finemente Tritato
 Olive Verdi Piccanti
 Patata Piccola
 Calamari Di 250 G
+Olive Bianche
 Cipolline Fresche Tritate
 Olio D'oliva Extra-vergine Aromatizzato All'aglio
 Calamari Non Molto Grandi
@@ -266,6 +493,7 @@ Formaggio Scamorza Tagliato A Dadini
 Liquirizia In Polvere
 Prugna
 Prosciutto Di Parma
+Vitellone
 Uva Bianca E Uva Nera
 Frutti Piccoli Freschi
 Ravanello
@@ -274,6 +502,7 @@ Spalla Di Agnellone
 Insalata Catalogna Pugliese (amarognola)
 Frutta Fresca Tagliata A Dadi
 Pasta Sfoglia In Rotolo
+Pasta Da Pane
 Pasta Base Per Pizze (v. Ricetta)
 Prosciutto Crudo Affettato
 Pasta Base Per Pizza (v. Ricetta)
@@ -294,12 +523,14 @@ Aglio Diviso A Metà
 Avocado Tagliati A Metà
 Pomodoro Sminuzzato
 Sciroppo Di Papaia
+Crema Cacao Stock
 Whisky Scozzese
 Triple Sec Duval
 Cosciotto Di Camoscio
 Vino Barolo (o Vino Nebbiolo)
 Petto Di Camoscio (o Spalla Di Camoscio)
 Fragola Mixybar
+Fettine D'arancia
 Prosciutto Crudo Fresco
 Fiori Di Zucchine
 Blended Whisky
@@ -314,6 +545,7 @@ Paté Di Fegato D'oca
 Gelatina Tritata
 Ovoline Di Bufala
 Formaggio Provoline Di Bufala
+Formaggio Provoline
 Fagianella Arrostita
 Paté Di Foie Gras
 Formaggio Fontina Tagliato A Fette
@@ -322,6 +554,7 @@ Sottilette Di Formaggio
 Pane All'olio
 Prosciutto Cotto Magro
 Prosciutto Crudo San Daniele
+Sgombri
 Formaggini Freschi Tipo Caprini
 Insalatina Verde
 Pane A Cassetta
@@ -332,6 +565,7 @@ Succo D'ananas Fresco
 Porro Tritato
 Formaggio Almkase A Dadini
 Scalogno Affettato Fine
+Pane Bianco Raffermo
 Fegato Di Manzo
 Grasso Di Rognone Di Vitello
 Prezzemolo (o Erba Cipollina)
@@ -345,6 +579,7 @@ Carota Tritata
 Filetti Di Pesce D'acqua Dolce
 Luganega Trentina Fresca
 Formaggio Grana Trentino Grattugiato
+Pane Secco
 Pane Secco Ammollato Nel Latte
 Burro Salato
 Noce Moscato
@@ -356,11 +591,13 @@ Zafferano (facoltativo)
 Vino Cotto
 Miele Raffinato
 Sugo D'agnello (o Ragù Di Maiale)
+Cannelli
 Cannelloni (pasta Tipo Cannelloni)
 Carciofi Grandi
 Peperone Giallo Dolce
 Filetti Di Luccio Di 250 G Ognuno
 Mais Tenero
+Cannelloni
 Olio Di Semi Di Girasoli
 Seitan
 Olio Di Girasole
@@ -375,6 +612,7 @@ Spinaci Lessati Tritati
 Prosciutto Cotto A Dadini
 Rettangoli Di Pasta Per Cannelloni
 Tonno All'olio D'oliva Da 160 G Ognuna
+Pasta Per Cannelloni
 Carne Cotta
 Polpa Di Vitello Tritata
 Pasta Tipo Lasagne
@@ -382,6 +620,7 @@ Farina Di Semola
 Acqua (eventualmente)
 Stracotto Di Manzo
 Formaggio Caciocavallo Grattugiato
+Ragù
 Spinaci Surgelati Tritati
 Filoni Di Vitello
 Polpa Di Maiale Tritata
@@ -394,6 +633,7 @@ Cimette Di Broccoli
 Carne Arrosto Avanzata
 Polpa Di Pollo
 Cervella Di Vitello
+Panino
 Sfoglia Di Pasta All'uovo
 Formaggio Galbanino
 Formaggio Bel Paese
@@ -415,8 +655,10 @@ Zucca Candita Tagliata A Pezzetti
 Scorza D'arancia Candita A Pezzetti
 Cioccolato Fondente Tagliato A Pezzetti
 Cannella Sbriciolata
+Sugna
 Cedro E Cocozzata
 Pasta Tipo Lasagnette All'uovo (alte Circa 3 Cm)
+Formaggini
 Prosciutto Cotto (fette Da 80 G)
 Sedano (80 G)
 Insalatine Miste
@@ -442,6 +684,7 @@ Armagnac Cles Des Ducs
 Filetti Di Sogliola (2000 G)
 Code Di Cicala Di Mare
 Conchiglie Di San Giacomo
+Granchio
 Pomodoro Naturale
 Pepe Dolce
 Zafferano In Ramo
@@ -461,9 +704,11 @@ Sugo Di Pomodoro Passato Al Colino
 Sugo Di Pomodoro Maturo
 Omogeneizzato Di Carne
 Capelunghe
+Code Di Scampi
 Capesante Grandi
 Capesante Piccole
 Conchiglie S. Giacomo
+Insalata Lattuga Romana
 Capesante Con Il Guscio
 Pomodoro Tagliato A Brunoise
 Piccola Cipolla
@@ -479,6 +724,7 @@ Vino Sauternes
 Capesante Fresche Con Le Valve
 Noci Di Capesante Con Il Corallo
 Orzo Perlato
+Carote Novelle
 Zucchine Novelle Piccole
 Carote Grandi
 Scorzonera
@@ -490,6 +736,7 @@ Pomodori Pelati Freschi (o Pomodori Pelati In Scatola)
 Coste Di Sedano
 Zucchina Tagliata A Tocchi
 Melanzana Tagliata A Tocchi
+Aragosta Piccola
 Sedano Bianco (cuori Piccoli)
 Peperoni A Tocchetti
 Melanzana A Tocchetti
@@ -522,13 +769,17 @@ Pasta Tipo Mezze Penne
 Cappello Del Prete
 Ragù D'agnello (o Ragù Di Maiale)
 Mosciame Di Tonno
+Barbabietola
 Galletta Da Marinaio
 Aragosta Grande
+Barbabietola Rossa
 Gallette Integrali
 Cappone Di 4000 G
 Kumquat (mandarini Cinesi)
+Cappone
 Cappone Di 1500 G
 Petto Di Cappone Lesso
+Valeriana
 Sale Di Cervia
 Cappone Di 2000 G
 Salsiccia Di Vitello
@@ -541,12 +792,15 @@ Mollica Di Pane Bagnata Nel Brodo E Strizzata
 Cappone Con Collo, Fegato, Ventriglio, Zampa
 Ginocchio Di Vitello
 Sedano Verde Con Foglie
+Grissini
 Cappone Giovane Di 1000 G
 Mostarda Di Frutta
 Cappone Grande
 Mortadella (fette Da 100 G)
+Pistacchi Spellati
 Cappone Grande Disossato
 Carne Di Maiale E Vitello
+Caffè Espresso
 Mela Renetta
 Mozzarella Di Bufala Da 300 G
 Capretto (spalla)
@@ -564,8 +818,10 @@ Mandorle Tagliate A Lamelle
 Fesa Di Tacchino A Fettine
 Insalatina Mista
 Cetriolo Fresco
+Vino Spumante Chardonnay Carpenè Malvolti
 Mandarine Napoleon
 Vino Prosecco Valdo Freddissimo
+Sciroppo Di Fragola
 Aceto Balsamico Di Modena
 Miele Di Castagno
 Fiori Di Glicine
@@ -576,6 +832,9 @@ Costolette Di Coscia Di Capriolo Da 200 G
 Aceto Di Mele Aromatizzato
 Cosciotto Di Capriolo
 Santoreggia
+Coscia Di Capriolo
+Vino Rosso Forte
+Capriolo
 Carne Di Capriolo
 Rum Giamaica
 Sherry La Ina
@@ -593,8 +852,11 @@ Pasta Tipo Caramelle
 Zucchero A Quadretti
 Panna Non Troppo Densa
 Mortadella Tritata
+Lonza
 Trito Di Vitella
 Farina Rimacinata Di Grano Duro
+Sugo Di Pomodoro
+Formaggio Pecorino Sardo
 Vermouth Dry Noilly Prat
 Grand Marnier Cordon Rouge
 Apricot Marie Brizard
@@ -625,6 +887,7 @@ Fondi Di Carciofo Puliti Del Fieno
 Olive Nere Di Gaeta (facoltativo)
 Capperi (facoltativo)
 Carciofi Del Tipo Senza Spine Grandi
+Patata Lessa
 Peperoncino (o Origano E Mentuccia)
 Scalogni Sminuzzati
 Carciofi Senza Spine
@@ -650,6 +913,7 @@ Carciofi Teneri E Abbastanza Grossi
 Semicotto Semistagionato
 Salsiccia Di Puro Suino
 Pancetta Affumicata (fette Da 100 G)
+Carciofi Riviera
 Olio Di Noce
 Brodo Granulare Magro Knorr
 Acciughe Salate (facoltativo)
@@ -664,6 +928,7 @@ Acciuga Salata Diliscata
 Semi Di Finocchio Secchi
 Carciofi Teneri Senza Le Foglie Dure
 Cardo Di 1000 G
+Salsiccia Fresca
 Cardo Bianco Grande
 Cardi Bianchi
 Cardi Selvatici
@@ -676,6 +941,7 @@ Cardo Gobbo Da 1000 G
 Latte Cagliato
 White Port
 Crema Cacao Marie Brizard
+Mandarinetto
 Cardo Mariano
 Formaggio Provatura
 Funghi Cardoncelli
@@ -683,6 +949,7 @@ Formaggio Caciocavallo Pugliese Grattugiato
 Olio D'oliva Extra-vergine Pugliese
 Pane Pugliese Casereccio
 Wild Turkey Bourbon Whisky
+Four Roses
 Lacer Cream
 Malibu
 Pompelmo Drink Boero
@@ -724,11 +991,14 @@ Cipolle Rosse Affettate Sottilmente
 Cachaga Nuga Ful
 Artic Vodka E Liquirizia
 Brandy Royal Stock
+Carote Piccole
 Prezzemolo (o Coriandolo)
 Cipolle Bianche Grandi
 Semi Di Sesamo Tostati
 Salsa Al Cren (radice Di Rafano)
+Carote Crude
 Carote Tenere
+Noce
 Cipolline Rosolate Nel Burro
 Carote Tagliate A Julienne
 Trito Di Erbe (salvia, Rosmarino)
@@ -753,6 +1023,8 @@ Panino Al Latte Raffermo
 Olio D'oliva Extra-vergine Del Garda
 Carpe Da Porzione
 Carpa Di 800 G
+Carpe
+Carpa
 Carpa Grande
 Carpa Di 1200 G
 Carpa Di 2000 G
@@ -778,7 +1050,9 @@ Radicchio Di Treviso (200 G)
 Fettine Sottilissime Di Controfiletto Di Carne Chianina
 Tartufo Grattugiato
 Scaglie Di Formaggio D'alpeggio Stagionato
+Olio D'oliva Extra-vergine Aromatizzato
 Tartufo Nero Pulito Della Terra E Lavato O L'equivalente In Fettine
+Magatello Di Manzo
 Avocado Non Troppo Maturi
 Carne Di Bue A Fettine Sottili
 Fungo Porcino Medio
@@ -787,10 +1061,12 @@ Formaggio Grana Lodigiano A Lamelle
 Magatello Di Vitellone Affettato
 Funghetti Champignon
 Carciofino Sott'olio
+Manzo A Fettine Sottili
 Bottarga Tenera Di Cefalo Intera
 Pepe Multicolore
 Bresaola Tagliata Sottilissima
 Carne Cruda
+Carne Di Cavallo
 Tartufi O Funghi Porcini (facoltativo)
 Carne Di Cavallo A Fette Molto Sottili
 Salsa Vinaigrette
@@ -801,271 +1077,22 @@ Funghi Porcini Freschi Grandi
 Palamita Tagliata A Fettine Sottili
 Pepe Rosa Del Sichuan
 Pesce Crudo
+Salmone
 Pesce Spada A Fette Molto Sottili
 Pesce Spada Freschissimo Tagliato Sottile
 Polpa Di Manzo (girello) Affettata Sottilissima
+Salmone Fresco
 Insalata Cicorino
 Sedani Rapa Piccoli
 Trota Salmonata Grande
 Fettine Sottilissime Di Polpa Di Vitellone
 Olio D'oliva Extra-vergine Medio Fruttato
+Formaggio Caciocavallo Podolico
 Polipo Freschissimo
 Filetto Di Salmone Fresco
 Paprica In Polvere
 Carré Di Cinghiale
+Carré Di Maiale
 Carré Di Maiale Disossato
 Carré Di Maiale Arrosto
 Quadrato Di Maiale
-Rosmarino In Polvere
-Farina Integrale Di Frumento Setacciata
-Anicini
-Farina Di Frumento Integrale
-Riso Parboiled
-Filetti Di Pesce (fresco O Surgelato)
-Erba Cipollina (o Prezzemolo)
-Fegato Di Vitello A Fette
-Pancetta Affettata
-Vongole Sgusciate E Cotte
-Maggiorana Tritata
-Nasello (fette Da 200 G)
-Pasta Tipo Pennette
-Pollo Cotto Spolpato
-Piselli Lessati
-Funghi Trifolati
-Carote Lessate
-Pesce Persico Da 900 G
-Vino Arneis
-Tartufo D'alba
-Pomodorini Perini
-Pasta Tipo Penne Rigate
-Liquore Di Menta Verde
-Pasta Tipo Casarecce
-Formaggio Parmigiano A Pezzetti
-Formaggio Provolone Semi-piccante
-Lievito Di Pasta Acida
-Pasta Tipo Caserecce Barilla
-Zucca Gialla
-Spinaci Bolliti
-Ripieno Di Salame
-Farina (più Quella Della Spianatoia)
-Formaggio Grana Grattugiato Al Momento
-Formaggio Taleggio Fresco
-Canditi Misti Tagliati A Dadini
-Cioccolato Fondente Da Copertura
-Gelato Pralinato
-Torrone
-Liquore Centerbe
-Pan Di Spagna Di Forma Rettangolare
-Ricotta Dolce
-Frutta Candita Mista (cedro, Arance)
-Pan Di Spagna Freschissimo
-Frutta Candita Mista (arancia, Cedro)
-Pistacchi Sgusciati E Pelati
-Torta Di Pan Di Spagna
-Cedro, Scorzette D'arancia, Cocozzata
-Gelato Allo Zabaglione (v. Ricetta)
-Pasta Di Mandorla Verde
-Glassa Bianca
-Cioccolato A Pezzettini
-Maraschino (o 1 Cucchiaino Di Cannella In Polvere)
-Ciliegie Sotto Spirito (o Confettini)
-Formaggio Pecorino Fresco Grattugiato
-Funghi Pleurotus
-Mozzarelle
-Salvia Frescapane
-Pancetta Magra Fresca
-Fettine Di Spalla Di Vitello
-Acquavite Bianca A 40 Gradi
-Germogli Di Ribes
-Alcool A 40 Gradi
-Sciroppo Di Cassis
-Vino Spumante Brut Montelera
-Tempia Di Maiale
-Verza Grande
-Pasta Tipo Pappardelle
-Pesce Misto (scorfano, Cappone, Muggine, Orata, Anguilla, Seppia, Polipo, Granchi)
-Farina Di Castagne
-Rosmarino Fresco (facoltativo)
-Ramerino
-Uvetta Sultanina (stessa Quantità Dei Pinoli)
-Lievito Bertolini
-Castagne Secche Prive Di Bucce E Pellicine
-Castagne Secche Prive Di Buccia E Pellicine
-Castagne Arrostite
-Cavolini Di Bruxelles
-Marmellata Di Castagne
-Fiocchi Di Riso
-Malto Di Riso
-Marmellata Di Fichi
-Limone Grattugiato
-Rum (30 Cl)
-Liquore Sambuca
-Lievito Pane Degli Angeli
-Crema Di Menta Incolore
-Spezzatino D'agnello Castrato Disossato
-Carne D'agnello Castrato
-Peperoni Gialli Dolci
-Barbabietole Rosse Già Cotte
-Pepe (o Peperoncino Rosso)
-Pancetta Fresca
-Formaggio Parmigiano In Scaglie
-Cime Di Insalata Catalogna
-Mollica Sbriciolata Di Pane Pugliese Raffermo
-Olio D'oliva Pugliese
-Essenza D'anice
-Mandorle Spellate Tostate E Tritate
-Pasta Tipo Cavatelli
-Fiori Di Zucca Chiusi
-Pasta Tipo Cavatelli Freschi
-Verza Da 1000 G
-Pomodori Maturi Sbollentati Pelati
-Pasta Tipo Cavatelli Fatti A Mano
-Piante Tenere Di Zucchine
-Barbi E Cavedani Freschissimi
-Farina Per Infarinare
-Caviale Malossol (o Caviale Beluga)
-Pancarré Leggermente Tostato (fette Tagliate A Metà Per Lungo)
-Burro Di Ottima Qualità
-Limone A Spicchi
-Olive Nere Di Tipo Provenzale O Ligure
-Formaggio Lindenberger Grattugiato
-Formaggino Fresco Tipo Philadelphia
-Cavolfiore Di Circa 1000 G
-Cavolfiore Medio
-Rafano Fresco
-Mandorle Tostate Sgusciate
-Cavolfiori Medi
-Acqua Di Cottura Dei Cavolfiori
-Coriandolo Fresco Tritato Finemente
-Cavolfiore Medio-piccolo
-Semolino Di Grano Duro
-Olive Verdi E Olive Nere
-Cavolfiore Da 1200 G
-Baccalà Da 1200 G
-Cavolfiore Bianco Piccolo
-Cavolfiore Verde Piccolo
-Peperone Rosso In Salamoia
-Cavolfiore Di 800 G Circa
-Cavolfiore Di 500 G Circa
-Taccole (piselli Mangiatutto)
-Mandorle A Lamelle Tostate
-Salsa Vellutata Per Verdure (v. Ricetta)
-Cavolfiore Di 600 G Circa
-Erba Cipollina E Prezzemolo
-Dragoncello E Timo Tritati
-Capperi Di Pantelleria
-Cavolfiore Di 1000 G
-Cavolfiore Di 700 G
-Cavolfiore Da 800 G
-Fegatini Di Maiale
-Finocchiella
-Cavolo Bianco Da 800 G
-Formaggio Gorgonzola Cremoso
-Mandorle Sbucciate E Pelate
-Salsiccia A Metro
-Cavolo Bianco Di 800 G
-Margarina Ammorbidita
-Cavolo Bianco Piccolo
-Pomodori Maturi Grandi
-Mazzetto Guarnito
-Cavolo Cappuccio Di 1000 G
-Brodo Di Manzo Concentrato
-Pasta Di Salame
-Mollica Di Pane Sbriciolata
-Chiodo Di Garofano In Polvere
-Peperoncino Di Caienna
-Foglie Di Cavolo Cappuccio
-Verza Da 1600 G
-Cavolo Verde Di 500 G
-Ginepro (bacche Schiacciate)
-Cavolo Cappuccio Rosso Da 1000 G
-Patate Intere E Sbucciate
-Cavolo Piccolo
-Erbe Aromatiche Secche
-Pangrattato Bianco
-Cavolo Rosso Tritato Grossolanamente
-Aglio Affettato
-Conserva Di Pomodori
-Cavolo Verza Da 1000 G
-Ostriche A Volontà
-Ají Verde Tritato
-Cipolla Rossa Tagliata A Lamelle Sottili
-Ceci Secchi
-Bacon A Dadini
-Cipolline Borretane
-Ceci Lessi
-Guancia Di Maiale
-Formaggio Caciocavallo Molto Stagionato
-Cedri Grandi Maturi
-Liquore Di Cedro (o Altro Liquore)
-Sciroppo D'amarene
-Liquore Al Cedro
-Amarene Snocciolate
-Sciroppo Di Amarene
-Cedrina
-Cefaletti Di 200 G Ognuno
-Cefali Di 300 G Ognuno
-Cefalo Di 1000 G
-Cefali Da 500 G
-Cefali Da Porzione
-Cefalo Da 800 G
-Peperone Tritato
-Pomodoro Pelato Privato Dei Semi
-Peperone Verde Affettato
-Vino Secco
-Cefalo (fette Da 800 G)
-Patate Piccole E Tagliate In Pezzi
-Remy Martin
-Menta Verde Sacco
-Acqua E Ghiaccio
-Vino Monte Lera Brut
-Vodka Azzurra Chazskaja
-Pasta Tipo Cellentani
-Fagioli Borlotti Al Naturale
-Zucchero A Velo Per I Dolci
-Limoncella
-Camomilla
-Pesche Sbucciate
-Anguria Senza Semi
-Carote Lavate E Sbucciate
-Pere Mature Con La Buccia
-Mele Mature Con La Buccia Ed I Torsoli
-Carote Sbucciate
-Mela Sbucciata
-Kiwi Sbucciato
-Vino Champagne Brut Freddo
-Fragole Frullate
-Filetti Di Cernia Di 150 G Ognuno
-Aromi Per Arrosti
-Cernia Di 1000 G
-Cernia Da 1000 G
-Pomodori A Ciliegina
-Olive Verdi (o Olive Nere)
-Cernia Di 2000 G
-Cernia In Trancio
-Pepe Rosso In Grani
-Scampi In Vasetto
-Bosford Gin
-Ciliegie Candite Rosse E Verdi
-Canditi Assortiti
-Dose
-Cervellatina (salsiccia Fresca Napoli)
-Capperi Senza Sale
-Cervelli D'agnello
-Zucchero Liquido
-Coco Lopez
-Polvere Di Caffè Lavazza
-Carne Di Cervo
-Filopasta Surgelata
-Vol-au-vent Grandi
-Piselli In Scatola
-Crema Pasticciera (o Panna Montata)
-Kiwi Ben Maturi
-Fragole Piccole
-Panini All'olio
-Pasta Di Olive
-Tartine Al Latte
-Panini Rotondi All'olio Piccoli
-Salsa Di Pomodoro Piccante
-Carne In Scatola In Gelatina
-Tartellette Di Pasta Brisée Salata

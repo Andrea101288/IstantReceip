@@ -45,11 +45,11 @@ i = 1
 print("DONEEEEEEEEEEEEEEE")
 count = 0
 for s in stringa.split("|"):
-    # count += len(s)
-    # if count > 25000:
-        # count = len(s)
-        # i+=1
-        # file2 = open("IngEn"+str(i)+".txt", "w")
+    count += len(s)
+    if count > 25000:
+        count = len(s)
+        i+=1
+        file2 = open("IngEn"+str(i)+".txt", "w")
     file2.write(s+"\n")
 # for ing in ingTrad.split("\n"):
     # manager.update("ingredient", "name_en = " + ing + " where id = " + str(i)) 

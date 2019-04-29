@@ -182,7 +182,7 @@ class Manager:
             # Close connection
             self.close()   
     
-    def CheckIstantReceipIngredients(self, ingredients):
+    def IstantReceipSearch(self, ingredients):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
@@ -222,6 +222,7 @@ class Manager:
                     finalResult = self.cursor.fetchall()
                     foundReceips.append([finalResult[0][0], idRec[0]])
                     print(foundReceips)
+                    
             return foundReceips
             
         # except mysql.Error as e: 
@@ -232,7 +233,7 @@ class Manager:
             # Close connection
             self.close()
             
-    def CheckAllReceipIngredients(self, ingredients):
+    def ReceipSearch(self, ingredients):
         """Insert events in the database"""
         # Connect to DB
         self.connect()

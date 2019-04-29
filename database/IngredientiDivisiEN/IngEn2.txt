@@ -1,10 +1,87 @@
+Mushrooms in oil
+Whole Chili Pickled
+Artichokes in oil
+Sliced ??Parcarré
+Canned Tomato Pulp
+Extra virgin olive oil
+Cayenne pepper
+Baked Small Beetroot
+Ready-made Russian Salad
+Celery (boiled ribs and let cool)
+Scraped Raw Carrots And Grated Fini
+Sardines in oil
+Sliced ??Boiled Eggs
+Ben Sodi tomatoes
+Green pepper
+Cooked White Onions (boiled or baked)
+Small Black Olives
+Pickled Capers
+Ground Pepper
+Squids
+Clams
+soles
+Squeezed Lemons
+Pickled Peppers
+Small Novel Leeks
+Spicy Robiola Cheese
+Savory Crackers
+Red Pepper (or Sweet Yellow)
+Baked Red Beetroot
+Medium Mature Round Tomatoes
+Ripe Round Tomatoes Scalded in Boiling Water, Peeled, Strained
+Lobster Of About 1000 G
+Artichoke Funds
+Russian salad
+Finely Chopped Smoked Herring
+Large Cucumber Chopped Pickled
+Lightly Toasted Rye Bread
+Green Bananas
+Sliced ??Raw Ham
+Coconut flour
+Bianchetti
+Scallops
+Cap Lettuce Salad
+Artichoke Hearts
+Tomato
+Thin Sliced ??Bacon
+Semi-mature Pecorino cheese
+Chopped Garlic And Parsley
+Freshly ground pepper
+Caviar
+Very fresh butter
+Carp Caviar
+Fresh Bread Crumb
+Hot Toast
+Salmon Caviar
+Bunch Of Smells
+Unsweetened Whipped Cream
+Provatura (Spun-paste Bufala Cheese Similar to Mozzarella)
+Belgium salad
+Shrimps
+Ripe Avocado
+Pink grapefruit
+Mussels
+Cuttlefish
+Polyps
+Shrimps Already Shelled
+Yellow Pepper in Oil
+300 G Red Snapper
+Moscardini (small polyps)
+Boiled egg
+Gherkins
+Pepper in oil
+Tuna in oil
+Mullet of 300 G
 Granny Smith apples
 Spicy Gorgonzola Cheese
+Curled
 Chili Powder
 Tuna Bottarga
 Lemon (optional)
 Black Pepper (optional)
 Potato
+Seafood
+Green peppers
 Very Fresh Tuna
 Very Fresh Salmon
 Very Fresh Swordfish
@@ -18,6 +95,7 @@ Large Ripe Tomatoes
 Ruchetta
 Cerfoglia
 Green apple
+Crabmeat
 Sliced ??Smoked Salmon
 Ketchup
 Sarde
@@ -40,7 +118,9 @@ Anchovy Pasta
 Grapefruits
 Stuffed Olives
 Pink Grapefruits
+Salami
 pickles
+Corn
 Small Spring Onions Cocktail Drain
 Small Champignon Mushrooms in Oil
 Pickled Bell Pepper Dadolini
@@ -55,6 +135,7 @@ Instant Gelatin
 Boiled chicken
 Yellow Bell Pepper in Vinegar
 Pickled Green Pepper
+Artichokes
 Mushrooms in Oil
 Medium Ripened Tomatoes
 150 G Salmon Box
@@ -75,6 +156,8 @@ Watercress
 Crema De Cassis (Black Currant Syrup)
 Peeled Lemons A Vivo
 Fresh Ripe Pineapple
+Sparkling
+Brut Sparkling Wine
 Sesame seeds
 Pomegranate
 Pomegranate syrup (grenadine)
@@ -92,7 +175,10 @@ Lemon (grated peel)
 Melted Butter (for Brushing Lo Strudel)
 Coconut Cream
 Canadian Whiskey
+Cucumber
 Mineral water
+Ginger Ale
+Cider
 Oatmeal
 Apple Liqueur
 Apple juice
@@ -101,10 +187,12 @@ Green Apples
 Raspberry Jam
 Moscato D'asti wine
 Baked Apple Baked
+Applejack
 Milk Or Liquid Cream
 Shortbread
 Punt E Mes
 Carpano White Wine
+Apricot
 Cold Soda
 Iced Brut Sparkling Wine
 Half Apricots in syrup
@@ -115,6 +203,8 @@ Apricot Juice
 Grinded coffee
 Lobsters Of About 600 G Each
 Lobsters (800 G each)
+Lobster
+Fennel
 Lobsters From 600 G Each one
 Tomato Ketchup Sauce
 Cooking cream
@@ -126,11 +216,13 @@ Ciboulette
 Lobster of 900 G
 Algae
 Corn flour
+Martini Bianco
 Small lobsters (300-400 G each)
 Chopped Coriander Leaves
 Gelatine
 Broth Of Nuts
 Lobster Of About 700 G
+broccoli
 White Butter Sauce
 Sepia Ink Bag
 Saffron Sachet
@@ -146,13 +238,16 @@ Lobsters Of 600 G Each
 Court-bouillon Of the lobster
 Grated Emmenthal Cheese
 Lobster Of 1000 G
+Tomato Ketchup
 Whole Boiled Lobster
 Fermo wine
 Live Lobster
 Various Spices
+Brut Champagne Wine
 Lobsters From 800 G Boiled
 Aromatic Mustard
 Pretty Dense Bechamel
+Asparagus Tips
 Aromas (thyme, dill and parsley)
 Lobsters (500-600 G each)
 Small lobsters
@@ -161,11 +256,13 @@ Rubra sauce
 Stuffed Green Olives
 Lemon Sliced
 Sweet Liqueur
+Liquor
 Aurum
 Sweet White Wine
 Drained sour cherries
 Sweet And Juicy Oranges
 Orange (Filtered Juice)
+Yogurth White
 Natural Yogurth
 Blonde Oranges
 Whole Cane Sugar
@@ -182,14 +279,17 @@ Orange Ice Cream
 Skinned Sweet Almonds
 Hard Red Oranges
 Lean Milk
+Big Oranges
 Small Orange
 Fresh Grated Coconut
 Big Orange
 Orange Extract
 Raspberry Juice
+Soda
 Chicken Rags
 Lean Veal A Pezzettini
 Shelled Fresh Peas
+Nut
 Tufted Carrots
 Ribe Rice Boiled In Water And Saffron
 Pesto Genovese
@@ -209,6 +309,7 @@ Meat sauce
 Fresh green peas (or frozen peas)
 Fresh Pecorino Cheese
 Pecorino Sicilian cheese
+Minced meat
 Light Meat Broth
 Vialone rice
 Chopped Meat Pulp
@@ -217,14 +318,17 @@ Original Rice
 Finger biscuits
 Orange (grated rind)
 Butter And Sugar For The Mold
+Orange
 Grapefruit Syrup
 Grated Green Lemon Peel
+Bitter
 Seasonal Fruit A Pezzetti (optional)
 Apricot juice
 Sella Di Coniglio
 Dried Apples
 Dried Nuts
 Pitted Dried Dates
+Taggiasca Olives
 Cinzano Rosé Vermouth
 akvavit
 Gin Gilbey's
@@ -252,10 +356,12 @@ Crumbs Of Crumbs Of Rye Bread
 Smoked Herring Fillets
 Fresh Ground Pepper
 Black bread
+Herring fillets
 Datterino Tomatoes
 Pork loin
 Small Fennel
 Arista Already Cooked
+Boiled Spinach
 Peeled Onions
 Mixed Apples
 Golden apple
@@ -277,9 +383,13 @@ Apple Juice
 Artic Vodka And Peach
 Boer Kiwi Drink
 Brut Marone Cinzano Sparkling Wine
+Raspberry
+Cherry
 Syrup syrup
 Arrosticini Abruzzesi
 Red Tuna
+Pharaoh's Chest
+figs
 White Belgian Salad (White Endive)
 Chicken breasts
 Blonde beer
@@ -300,6 +410,7 @@ Veal Red Head
 Lean Calf
 Skimmed milk
 Magatello Di Vitello
+Margarine
 Hot broth
 Veal Pigtail Roast
 Liver Pate
@@ -311,22 +422,32 @@ Veal Nut
 Veal Rump
 Rolled Veal Roast
 Girello di Vitello
+Fresh Cream
+Odors
 Calf (pieces from 600 G)
 White Wine, Broth
 Veal Roast Meat
 Boiled and Peeled Chestnuts
 Fesa Di Vitello (pieces from 800 G)
+Basil leaves
 Almond Grains
+Provolone cheese
 Thick Sliced ??Cooked Ham
 Goose Of 3000 G
 Dried Chestnuts
 Yellow Peppers
 Kid
+Chicken
+Beef
 Liquid Honey
+Roast Veal
 Walnut Of Elk
+Beef
 Sliced ??Bacon
 Fat Bacon
+Pancetta Magra
 Pork Fillet (or Pork Loin)
+Pork Tenderloin
 Oranges (juice)
 Finely Chopped Orange Peel
 Pork Ham
@@ -337,13 +458,17 @@ Turkey breast
 Slice Of Cooked Ham
 Wet Bread In Milk
 Boneless Pork Back
+Roast pork
 Fresh Grape Juice
+Pork meat
 Caffè Forte
 English sauce
 Mustard
+Pork Loin
 Meat Extract
 Mustard Powder
 Boneless Pork Loin
+Roast beef
 Roast beef
 New Onions
 Beef Tenderloin
@@ -373,13 +498,18 @@ Low-fat milk
 Extended Bacon
 Veal Meat
 Whole milk
+Calf
 Striped Bacon
+Rolled Veal
 Nut For Broth
+Pistachios
 Veal Walnut (pieces from 1000 G)
 Upper Marsala Dry Wine
 Tomato Preserve
+herbs
 Veal Breast
 Veal (pieces from 800 G)
+Bread Croutons
 Spicy Mustard
 Sweet Marsala Wine
 Kernels of peeled nuts
@@ -394,6 +524,7 @@ Round Zucchini
 Whole eggs
 Sliced ??Bacon
 Whole Chicken Breast
+Roasted Red Pepper
 Veal Magatello (or Veal Fish)
 Tuna in Oil Drained
 Farina (or Fecola)
@@ -407,6 +538,7 @@ Cultivated mushrooms
 Big Pork Wurstel
 Buttered spinach
 Long Green Beans (or 16 Normal)
+Medium potatoes
 Royal Chest Of Calf In A Unique Piece
 Slices Of Cooked Ham Of 70 G Each
 Slice Of Bacon Taut Of 70 G Approx
@@ -415,12 +547,15 @@ Pickled cucumbers
 Already Softened Beans
 Soaked Peas
 Chickpea flour
+White Onions
+Boneless Lamb Shoulder
 Sella Di Coniglio (about 800 G)
 Chopped Medium Onion
 Private Seed And Peeled Tomatoes
 Cut Carrots In Cubes
 Washed Boiled Eggs
 Juice of blond oranges
+Hen
 Finely chopped onions
 Shredded Tomatoes
 Striped Pepper
@@ -435,12 +570,16 @@ Artic Vodka And Kiwi
 Tonic Water Schweppes
 Cynar
 Curacao Triple Sec
+Olive
 Brown
 Green Asparagus (800 G)
 Pasteurized Cream Butter
 Camembert cheese
+Melted butter
+Bechamel
 Caciocavallo Podolico Stagionato cheese
 Asparagus (1000 G bunches)
+Sliced ??Cooked Ham
 Mayonnaise Of 2 Eggs
 Boiled Carrot
 Chopped Tarragon
@@ -464,6 +603,7 @@ Slices of bread
 Pinot Chardonnay Cinzano Sparkling Wine
 Gelatin (50 Cl packs)
 Frozen language
+Pickled Pepper
 Natural Tuna
 Stuffed Spanish Green Olives
 Prepared Jelly With A Product On The Market
@@ -498,12 +638,15 @@ Pigeon Broth
 Cutting Vegetable
 Muffato wine
 Boneless Green Olives
+Chicken breast
 Celery Ribs
 Sliced ??Cooked Ham
 Granules of Gelatin
 Mixed Spices
 Boiled turkey
+peas
 Roasted Chicken Breast
+Fat Free Cooked Ham
 Green beans
 Baked Small Beetroot
 Sliced ??Small Grapefruit Slices
@@ -518,6 +661,7 @@ Red pepper
 Lobsters (2500 G)
 Baby carrot
 Porro Mondato
+Lobster
 Beans (better stuffed)
 Ground Pepper On The Moment
 Boiled Lobster Pulp
@@ -527,18 +671,23 @@ Large Yellow Pepper
 Lobsters (800 G each)
 Small spring onion
 Cod
+Lobsters
+Peeled
 800 G lobster Everyone
 Chopped flavors (chervil, basil)
 prawns
 White Celery
 Banana Bols cream
 Passion Fruit Juice
+Grape juice
 Filtered Lemon Juice
 Blue Curacao Marie Brizard
+Strawberry
 Ice cubes
 Grenadine,
 Cocktail Cherry
 Pasta Type Thimbles
+Broccoli
 Tuscan Caciocavallo cheese
 Pasta Type Thimbles (attuppateddi)
 Fresh Mussels
@@ -548,6 +697,7 @@ Canadian Club Whiskey
 Fresh Seasonal Fruit Pezzettini
 Ballantineis Scotch Whiskey
 Coconut Sapling
+Grapes
 Parfait Amour Bols
 Vodka Wyboronowa
 Raspberry Liqueur
@@ -564,6 +714,7 @@ Scampi (cut meat Dadini)
 French Mustard
 Non-sweetened Whipped Cream
 Shredded Lobster Pulp
+Dry Marsala Wine
 Green Tomatoes
 Great Avocados
 Salad Tomato
@@ -571,9 +722,13 @@ Cold Boiled Rice Not Very Large
 Great Ripe Avocados
 Natural Canned Salmon
 Hard Egg Yolks
+Pink Shrimp
+Small Champignon Mushrooms
 Parsley (or Dill)
 Box Of Crab Meat
 Lindenberger cheese
+Sweet Gorgonzola Cheese
+Fresh basil
 Chopped nuts
 Cooked ham (slices 50 G)
 Fresh Ricotta
@@ -581,10 +736,12 @@ Peeled and chopped pistachios
 Fresh Mint Leaves To Decorate
 Cheddar cheese
 Pretty Large Avocado
+Lobster Pulp
 Pretty Mature Avocados
 Boiled Chicken Breasts Cut Out In Matches (Julienne)
 Yogurth Magro
 Curacao Blu Bols
+Lemon Schweppes
 Blue Fish
 Carrot, Onion And Celery
 Fresh Tomatoes From Sauce
@@ -597,10 +754,12 @@ Ballantine's whiskey
 Apricot Brandy Bols
 Cinzano Bitter Vermouth
 Maraschino Bols
+Spearmint
 William's
 Tahina (Sesame Sauce)
 Sesame Oil
 Tahini
+Onion Medium
 Peach in syrup
 Gentiane
 Amaro 18 Isolabella
@@ -617,7 +776,9 @@ Smyrna Raisins
 Corinthian Raisins
 American flour
 Brown Rum
+strawberries
 Baba Not Soaked From 300 G
+Baba
 Baba without liqueur
 Chopped dried fruit (walnuts, pine nuts, almonds, raisins)
 Mini Babà
@@ -630,6 +791,8 @@ Golden Bacardi
 White Bacardi Rum
 Advockaat
 Soaked Cod Fish Fillets
+Codfish
+Soaked Cod
 Dry Ground Pepper
 Cod Fillet
 Coral Beans
@@ -640,6 +803,7 @@ Wet Cod
 Already Softened Cod
 Small Celeriac
 Dried tomato
+Borlotti beans
 Basil In Leaves
 Sponged cod
 Slice Of Cod
@@ -656,11 +820,13 @@ Cod (pieces from 125 G)
 Fresh Moroccan Mint (naa Naa)
 Freshly Ground White Pepper
 Cherry Tomatoes
+Cauliflower
 Pickled Gherkins And Sweet Peppers
 Black And Green Olives
 Boiled rice
 Anchovies In Salt Washed, Filleted And Pounded
 Stockfish Soaked
+Stockfish
 Stockfish (spider)
 White Onions (or Blond Onions)
 Anchovy Drained Anchovies
@@ -684,10 +850,12 @@ Ground Red Pepper (or 1 Spicy Red Pepper)
 Sliced ??Potatoes
 Not Mealy Potatoes
 Olive Oil (or Margarine)
+Red Tomatoes
 Onion Of Tropea
 Dried Peppers
 Ripe Bunch Tomatoes
 Purple Potatoes
+Already dried cod
 Big Piece Codfish
 Broth (or White Wine)
 Polenta Abbrustolita
@@ -704,6 +872,7 @@ Datterini Tomatoes
 Pasta Kataifi
 Mozzarella From 200 G
 Sparkling water
+Cod Fillets
 Iced Sparkling Water
 friarielli
 Dry Black Olives
@@ -743,7 +912,10 @@ Chili powder
 Iced Red Onion Tropea Onions
 Boiled Yellow Pasta Potatoes
 Truffled Olive Oil
+Mixed Herbs
+Fava beans
 Primo Sale Di Pecora Cheese
+polenta
 Almond flour
 Vanilla Extract
 Peeled almonds in flakes
@@ -767,12 +939,17 @@ Alsatian Dry White Wine
 Bouquet Garni (Dried Legumes)
 Powdered Cloves
 De Kuyper Green Mint Cream
+Smoked salmon
+Sunflower seeds
 Broad Beans And Chickpeas
 Ground Dry Coriander
 Cardi
 Baked Onions
+Boiled potatoes
 Steamed Cauliflower
 Garlic (Peeled slices)
+Anchovy Anchovies
+Celery
 Small Truffle
 Filed Anchovy Fillets and Desalted
 Raw or Roasted Peppers
@@ -781,6 +958,7 @@ Tender cauliflower
 Small White Truffle
 Cream Or Milk
 Late Radicchio
+Thistle
 Anchovy fillets, desalted and filleted
 Garlic Garlic
 Capers Uncovered And Desalted
@@ -810,6 +988,7 @@ Peeled Grapefruit
 Baicoli biscuits
 Pears Jam
 Puff pastry (Fillo pasta)
+Chopped almonds
 Chopped Carnation Nails
 Radicchio Di Treviso
 Strawberry Juice
@@ -839,6 +1018,7 @@ Cardamom of Canna
 Cardamom (shredded seeds)
 Apricot Jelly
 Amaretto liqueur
+Chocolate
 Grated coconut
 Not too mature bananas
 Big Bananas
@@ -850,22 +1030,26 @@ Candied cherries
 Large Bananas Not Too Ripe
 Half Peaches in Syrup
 Well-ripe Bananas
+Bitter Chocolate
 Loose Butter
 Pepper (or Chili Powder)
 Cognac (or Brandy)
 Izarra Yellow
+Coconut
 Canadian Whiskey
 Grenadine Sack
 Dry grapefruit
 Mint (optional)
 Yogurth White Creamy Whole Unsweetened
 Pretty Mature Bananas
+Biscuits
 Mixed Cereal Flakes
 Chopped Hazelnuts
 Friar's Beard
 Various vegetables
 Baked Beetroot
 burrate
+Cooked Beetroot
 Fluid béchamel
 Red Beets
 Rum 75 Degrees
@@ -889,6 +1073,7 @@ Pasta Type Ditalini
 Caciotta cheese
 Frozen Shrimps
 Peoci Frozen
+Dried beans
 Orange Jelly
 Cherry Jam
 Boiled Chicken Breast
@@ -907,6 +1092,7 @@ Unsweetened Soy Milk
 Turmeric
 Great White Celery
 Fresh Caprino Cheese
+Lettuce Salad Leaves
 Black Truffle (optional)
 Frozen Brisée Pasta
 Salmon Roe
@@ -917,6 +1103,8 @@ Chopped Basil
 Zucchini (400 G)
 Tomato Pulp In Pieces
 Large Zucchini
+Anchovy
+Sardines
 Pasta Brisée Boats
 Pate Of Ham Or Tuna
 Leftover Fish Boiled Or Grilled
@@ -932,6 +1120,7 @@ Mascobado sugar
 50 G Milk Chocolate Each
 Baking powder
 Made of Raspberries
+Cereal Flakes
 Canadian Club Whiskey
 Whiskey Archer's
 Amaro Vermouth Cinzano
@@ -942,6 +1131,7 @@ Aroma Of Vanilla
 Fruit Pulp (Peaches Or Apricots)
 Jam with 60% sugar
 Fruit (pulp or juice)
+Irish Whiskey
 Lemon Vodka
 Sweet And Sour
 Healthy Basil Leaves
@@ -980,6 +1170,7 @@ Curly Parsley
 Rice Semolina
 Cachaca
 Coconut (pulp Frullata)
+Unsweetened cocoa powder
 Zampetti Di Maiale
 Bitter Cocoa Powder
 Deer Pulp
@@ -999,13 +1190,17 @@ White chicory salad
 Slices of Beef Sirloin
 Sea bream
 Fillets Of Sole
+Turkey
+Veal Sirloin
 Blanched spinach
 Fiordilatte mozzarella
+Soy
 Pork Neck
 Dried Amaretti Biscuits
 Copper Tomato
 Butter For The Mold
 Very Fresh Cream
+Chocolate
 Tofu
 Agar Agar In Barre
 Corn Malt
@@ -1033,148 +1228,3 @@ Genovese Pasta
 Sweet White Wine
 Unsweetened Whole Condensed Milk
 Candied Orange
-Little Meringue Flowers
-Orange (juice and grated scorza)
-Wild Strawberries
-Sweet Strawberries
-Cold milk
-Very Fresh Milk Cream
-Gelatin sheets
-Very Ripe Strawberries
-Freeze-dried coffee
-Tia Maria
-Fresh Strawberries
-English cream
-Pitted Prunes
-Vanilla Bavarian (see Recipe)
-Fresh Fruits (peaches, Kiwi, Pears)
-Sugar Syrup (20 Degrees)
-Strawberries To Garnish
-Fresh Pineapple Pulp
-persimmon
-Filtered Mandarin Juice
-Mandarins (rind)
-Panpepato (or Panforte)
-Marrons Glacés A Pezzi
-Marrons Glacés Interiors
-Ketchup sauce
-Trout Pulp
-Fish stock
-Red fruits
-Grated Dark Chocolate
-Chocolate Curls
-Fish Glue For Desserts
-Ice Cream Waffles
-Holy wine
-Saffron Pistils
-Cut Cedar Candid Dadini
-Candied Orange Cut into Dadini
-Bavette type pasta
-Peeled Tomato Fillets
-Ricotta Schianta
-Burrata
-Flaked Almonds
-Parsley And Basil
-Fillets Of Hake
-Salted Capers
-Aged Fontina Cheese To Be Cut into Lamellas
-Seasoned Sbrinz cheese to be cut into strips
-Walnuts (weighed with the shell)
-100 G Cooked Ham
-Hard Wheat Type Pasta
-Clams
-Friarielli Campani
-Falanghina wine
-White bread
-Very Small Clean Squid
-Shelled Shrimp Tails
-Shelled Mussels
-Shelled Clams
-Jocca
-Coccio
-Gallinella
-Bran Peppers
-Grainy broad beans
-Ripe cherry tomatoes
-Chopped fennel
-Bunched Tomatoes
-Mullets
-Penne Type Pasta
-Integral Bavette Type Pasta
-Neapolitan courgettes
-Thick sliced ??speck
-Shelled Scampi Tails
-Toasted almond fillets
-Spicy Pecorino Cheese
-Seafood (clams and mussels)
-Calamari, Cuttlefish, Scampi (small pieces)
-Artic Vodka And Banana
-Sliced ??Lemon
-Egg White Mounted To Snow
-woodcock
-Juniper Brandy
-Small Truffles
-Pancetta (very thick slices)
-Crostini Of Fried Bread
-Common snipe
-beccafichi
-Sambuca Bianca
-Peeled almonds
-Cubed Beef Meat
-Natural Whole Yogurth (1200 G pots)
-Fresh Ginger (length 5 cm)
-Garam Masala (Spice mixture)
-Fresh Beer
-Ginger Ale Schweppes Cold
-Iced Vodka
-Iced beer
-Tabasco Juice
-Sliced ??Cultivated Mushrooms
-Beef Tenderloin
-Colored Sugar Grains
-Grated Swiss Sbrinz Cheese
-Peaches with white pulp
-Prosecco Ben Freddo Sparkling Wine
-Fresh Peach Juice
-Brut Cold Sparkling Wine
-Fresh Peach Smoothie
-Champagne Wine (or Sparkling Wine)
-Sparkling Prosecco Wine
-White Peach Juice
-Small Fishing
-Cherry Heering
-Very thin orange slices
-Double Kummel
-Jasmine Tea
-Falerno
-Thin Sliced ??Lemons
-Broken Nuts
-London Gin
-Seasoned Pecorino Cheese
-Piccadilly tomatoes
-At the moment, ground white pepper
-Finely Chopped Onion (optional)
-Nutmeg (or Pepper) (optional)
-Roux
-Boiling Milk
-Lean Veal Cut In Dice And Sauteed In Butter
-Broken Pepper
-Paprika Spicy
-Butter (optional)
-Sweet Mustard
-Wholemeal flour
-Vegetable Broth (or Water)
-White Pepper (optional)
-Cauliflower Cooking Water (already Salted)
-Compact Yogurth
-Pineapple Syrup
-Ron Bacardi
-Squeezed Lemon Juice
-Myrtle Berries
-Carrot Juice
-Condensed milk
-Big Dry Fig
-Hazelnuts (cashews or pistachios)
-Saffron Roots
-Peeled Peeled Oranges
-Whole Natural Yogurth

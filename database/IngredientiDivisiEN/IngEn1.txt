@@ -9,7 +9,7 @@ Passoa
 Chinese Mandarin
 Bitter Campari
 Aperol
-Vermouth Martini Bianco
+White Vermouth Martini
 Gin Beefeater
 Orange peel
 Calvados
@@ -19,66 +19,68 @@ Red wine
 Lemon juice
 Champagne wine
 Cognac
-You
+Tea
 Seasonal fruit
 Vodka
 Grenadine
 Orange juice
+Gin
 Southern Comfort
 Pineapple juice
 Applejack (calvados)
 Benedictine
-Monte Orange Juice
+Del Monte's Orange Juice
 Gordon's Gin
 Red Cherry Maraschino
-Keglevich Glacial Vodka With Fishing
-Toschi Strawberry Syrup
+Keglevich Peach Glacial Vodka
+Toschi's Strawberry Syrup
 Passion Fruit Fruit Juice
-Tropical Fruit At Leisure
-Rum Merit
-Crema De Noyaux Bols
+Tropical Fruit Of Choice
+Merito Rum
+De Noyaux Bols Creme
 Galliano
 Passion Fruit Bectar Mynor
 Flour
 Warm water
-salt
-sugar
+Salt
+Sugar
 Brewer's Yeast
 Cherry tomatoes
 Basil
 Mozzarella cheese
-Passata Di Pomodoro
+Tomato Sauce
 Fresh Cherry Tomatoes
 Fresh Tuna
 Dry tomatoes
-Eggplant
-Borlotti Precotti beans
+Eggplants
+Precooked Borlotti beans
 Onion
-Fillo Pasta
+Phyllo dough
 Carrot
 Celery
 Rosemary
 Olive oil
-pepper
+Pepper
 Red Vermouth
 Dry Vermouth
 Cordial Campari
 Lemon peel
 Grenadine Syrup
-Abaloni (Marine ears)
-eggs
+Abalone
+Eggs
 Bourbon Whiskey
 Seed oil
-Bread crumbs
+Breadcrumbs
 Lettuce salad
 Chopped parsley
+Lemon
 Fresh mint
 Angostura
-Ciliegina Al Maraschino
+Maraschino Cherry
 Fresh Lettuce Salad
 Lamb chops
 Tarragon
-Lamb Leg of 1000 G
+1000 G Lamb Leg
 Potatoes
 Garlic
 Dry white wine
@@ -86,78 +88,85 @@ Origan
 Balsamic vinegar
 Marjoram
 Extra-virgin olive oil
-Boneless Leg of Abbacchio (lamb)
+Boneless lamb leg
 Salted Anchovies
 Chili Peppers
-Dry White Wine Of Castelli Romani
+Castelli Romani's Dry White Wine
 Wine vinegar
 Lamb cut into pieces with the kidney
 Rosemary With Leaves
 Sage With Leaves
-Anchovies Drained and Diluted
+Drained and Boneless Anchovies 
 White wine vinegar
 Lamb by Pieces
-Lamb Chop Of 1000 G Cut In Pieces
-thyme
+Sage
+1000 G Lamb Chop Cut In Pieces
+Thyme
 Lamb
+White wine
+Anchovies
 Lamb meat
-Lamb Leg of 1000 G
+1000 G Lamb Leg
 Fresh Rosemary
 Lamb chops
-New potatoes
-spinach
+Potatoes
+Spinach
+Lamb
 Lard
 Raw Ham Cut Into Cubes
 Egg yolks
+Parsley
 Butter
-Tips Of Frozen Asparagus
+Frozen Asparagus Tips
 Fry oil
 Butter (or Margarine)
-Kidney Complete With Abbacchio
-Riviera Piccoli artichokes
+Whole Lamb Kidney
+Little Riviera Artichokes
 Artic Strawberry
 Vermouth Dry Martini
-Pasta Type Half Sleeves
+Mezze Maniche Pasta
 Milk flakes
-Baked ham
+Cooked ham
 Peeled tomatoes
-Verza
+Savoy Cabbage
 Asiago cheese
 Fresh cream
 Precooked Beetroot
 Chili pepper
-Coratella D'agnello
-Lamb Net
-Budellini D'agnello
+lamb pluck
+Lamb Omentum
+Lamb Small gut
 Pork sausage
 Grated Parmesan Cheese
-Tripe And Guts Of A Sheep (Or 2 Agnelloni)
+Sheep (or Two Lambs) Tripe And Guts
 Mortadella
-Pecorino Cheese A Pezzettini
-Ventresca
+Pecorino Cheese in little pieces
+White Tuna
 Hard-boiled eggs
 Tomato sauce
 White Vermouth
+Cordial
 Pernod
-anisette
+Anisette
 Ardine
 White Rum
-Sugar cane
+Sugarcane
 Cold Water Soda
+water
 Absolut Cedar
-Macaroon
+Amaretto
 7-up
 Grand Marnier
 Absolute Peppar
 Cocoa Cream
-Kilos
+Chilli 
 Jalapeno pepper
 Vodka Absolut
-To Garnish
-Artic Fishing
-Boer Strawberry Drink
+Red Cherry
+Peach Artic Vodka
+Boero Strawberry Drink
 Del Monte Pineapple Juice
-Monte Grapefruit Juice
+Del Monte Grapefruit Juice
 Pineapple
 Triple Sec
 Tequila
@@ -166,7 +175,10 @@ Egg whites
 Banana Juice
 Coconut Mixybar
 Red cherries
+Rum
+soda
 Green salad
+Cherry
 Coconut Cream
 Dried Beans (Cannellini Beans)
 Fresh Coriander (or Mint)
@@ -176,9 +188,11 @@ Ripe Figs
 Anchovy fillets in oil
 Fresh spring onion
 Chopped Chives
-Cassette Bread
-Sultana raisins
+Anchovy fillets
+Sliced ??bread
+Sultanina raisins
 Pine nuts
+Mint
 Orange
 Salted Anchovies
 Apple Vinegar
@@ -194,77 +208,96 @@ Fresh Spring Onions
 Fresh Anchovies
 Lemons (juice)
 Big And Meaty Anchovies
+Very fresh anchovies
 Blanched tomatoes peeled and chopped
 White pepper
-Parsley (only Le Foglioline)
+Parsley (only leaves)
 Breadcrumbs
+Big Anchovies
 Ripe Pachino Tomatoes
-Wine Vinegar Not Too Acid
+Not Too Acid Wine Vinegar 
 Red onion
+Red Onions
 Black pepper
-Arugula salad
+Rocket salad
 Egg whites
-starch
+Starch
 Saffron
 Ripe tomatoes
 White bread
-Pecorino Sweet Cheese
+Sweet Pecorino Cheese
 Small Onion
 Capers Under Salt
+Milk
+lemons
 Pitted Black Olives
 Lemon (juice)
+Pumpkin
+Black olives
 Desalted Capers
 Honey
-Turnip tops
+Turnip greens
 Canestrato cheese
 Anchovy fillet
 peppers
 Pork
-puntarelle
+Parmesan cheese
+Chicory
 Spreadable cheese
-Hard Yolk Egg
+Capers
+Cream
+Hard-boiled Yolk Egg
 Very fresh anchovy fillets
 Sweet Provolone Cheese
+Fennel
 Red pepper
 Small Carrot
-Small courgette
+Small Zucchini
 Fresh Ginger
 Natural Soy Drink
 Ground Pepper
 Olive Oil (optional)
 Corn flour
-Mullet Bottarga
+Mullet Roe
 Mustard
+Bread
+Grapefruit
+Raw Ham
+Pepper
 Goat cheese
 Peanut Oil
 borage
 Scarola salad
-fasolari
+Hard clams
 Leeks
 Wild Fennel
 Fresh anchovy fillets
 Grated Grana Cheese
 Aromatic Herbs (sage, Rosemary, Parsley)
 Walnut Kernels
-Aubergine
-Mozzarella From 300 G
+Eggplant
+300 G Mozzarella
 Gentilina salad
 Peanut Oil
 Provola cheese
-Provolone Del Monaco cheese
+Del Monaco Provolone cheese
 Chopped garlic
-Gentilina Rossa salad
+Red Gentilina salad
+Mandarin
+Tuna
 Laurel
 Tomato sauce
-Thin Sliced ??Large Onions
+Thin Sliced Large Onions
 Red Cabbage
+Chives
+Beer
 Small Anchovies
-Black Olives Mosciarelle
-Fresh and Spiny Fresh Anchovies
+Black Olives 
+Fresh and Boneless Fresh Anchovies
 Crushed Garlic
 pennyroyal
 Red Wine Vinegar
-Salt Grosso
+Coarse Salt
 Bottarga Powder
 Small Tomatoes
 Sweet Paprika
@@ -280,7 +313,7 @@ Filleted Anchovies
 Scamorza cheese
 Flaked Almonds
 Shelled Pistachios
-Stale bread crumb
+Stale breadcrumb
 Ginger Root
 Radicchio
 White truffle
@@ -289,11 +322,14 @@ Oregano (optional)
 Spicy Chilli Pepper
 Brandy
 Sweet Vermouth
+Champagne
 American Whiskey
+Whiskey
 Vodka Keglevich
 Brandy Stock 84
 Blue Curacao
 Orange peel
+Wine
 Sandwich (crumb) (optional)
 Shallot
 Mixed Herbs (marjoram, bay leaves, basil, chives)
@@ -334,6 +370,7 @@ Lemon (rind)
 Pink Pepper Berries
 Lemons (juice and zest)
 Cider Vinegar
+Pink Pepper In Grains
 Wildflower Honey
 Acacia honey
 Small Wild Blackberries
@@ -354,28 +391,35 @@ Black truffle
 Garlic in wedges
 Fresh garlic
 Fresh Lavender Flowers
+onions
 Cinnamon
+Lavender
 Fresh Lavender
 Lavender In Bloom
 Hibiscus
 Licorice
 Mint Leaves
 Fennel Green Beards
+Rose
 begonias
 Lilac
 Great White Peach
 Rose
 Scented Red Roses
 Mixed Herbs (Marjoram, Laurel, Basil, Chives, Sage)
+Blackberries
 Pear
 Petals Of Scented Red Roses
 Nutmeg
 Clove
 Aromas
+Coriander
+Black Pepper In Grains
 Capers (or Basil)
 Grain Mustard
 Rose petals
 Chervil
+Spicy Chilli Peppers
 Ripe strawberries
 Fresh Mint Leaves
 Fresh Laurel
@@ -384,7 +428,9 @@ Mother Of Vinegar
 Truffle (optional)
 Champagne Wine Vinegar
 Achillea
+Truffle
 Sesame
+Ginger
 Crushed Green Pepper
 Mimosa
 Tulips
@@ -394,6 +440,7 @@ Kirsch
 Black Cherries
 Agre cherries
 Grappa
+onions
 Strong White Wine Vinegar
 Frozen Raspberries
 Redberry
@@ -411,7 +458,11 @@ Stale Homemade Bread
 Tomato Sauce
 Wild Mint (mint)
 Sweet Red Peppers
+tomatoes
 Toasted bread
+Homemade bread
+Big Onions
+Stale bread
 Grated Parmesan Cheese (or Grated Pecorino Cheese)
 Chicory salad
 Caraway Seeds
@@ -436,11 +487,14 @@ Shelled Shrimps
 Dark Rum
 Orange zest squeezed on the surface
 Isolabella mandarinetto
+Cherry
+Apple
 Dry White Vermouth
 Green Lemon Juice
 Sherry Dry
 Orange Bitter
 Ice
+Sherry
 Frangelico
 Kahlua
 Cocoa powder
@@ -456,6 +510,7 @@ Scotch Whiskey
 Base For Cream Ice Cream (see Recipe)
 Kiwi
 Dark chocolate
+almonds
 Vanilla ice cream
 Bananas
 Ripe Bananas
@@ -463,6 +518,7 @@ Blanched almonds
 peaches
 Mascarpone cheese
 Whole Egg
+Egg yolk
 Coffee powder
 Mandarins
 Eduli flowers
@@ -470,6 +526,7 @@ Boo Coky Drink
 Midori
 Myers's Rum
 Port wine
+Curacao
 Vodka Francoli
 Grenadine Francoli
 Cherry Brandy
@@ -481,6 +538,7 @@ Vermouth Dry Martini
 Fruit Vodka Boero Grapefruit
 White Mint Get 31
 Mint Chocolates
+Maraschino
 Fernet Branca
 Sparkling water
 Swordfish
@@ -489,6 +547,7 @@ Pitted Green Olives
 Panini (crumb)
 Spleen Of Calf
 Panini (soft breadcrumbs in white wine vinegar)
+Sea salt
 Garlic-flavored cotechini
 Lentils
 Lamb Loin
@@ -497,7 +556,9 @@ Lamb fillets
 Champignon mushrooms
 Marsala wine
 Lamb chops From 400 G
+Asparagus
 Lard of Pork
+Artichokes
 Wild fennel
 Flour 00
 Rolled Boneless Lamb Shoulder
@@ -505,12 +566,17 @@ Porcini mushrooms
 Fresh Bronte Pistachios
 Rice Flour
 Lamb rump
+Pink pepper
+Red peppers
 Pitted Green Olives
+Lamb shoulder
 San Marzano Peeled Tomatoes
 Novelli spring onions
 lampascioni
+Grated Pecorino Cheese
 Lamb Leg of 2000 G
 New Fries
+Lamb Leg
 Salamoia Bolognese
 Sardinian Pecorino Cheese
 Lamb Pulp
@@ -522,6 +588,7 @@ Fresh Bread Crumb
 Lamb Rack of 1200 G
 Ribs of lamb
 Truffle Cream
+Carré D'agnello
 Valerian salad
 Peeled tomato
 Boned Lamb Leg Of 1200 G
@@ -532,6 +599,7 @@ Lamb Lamb Dairy Shoulders (1000 G)
 Wild Fennel Already Ticked
 Lamb Pulp
 Sliced ??Onions
+Paprika
 yogurt
 Sliced ??Boiled Potatoes
 Jerusalem artichokes
@@ -540,10 +608,12 @@ White onion
 Vegetable broth
 White Beans Of Spain
 carrots
+Broth
 Tomato concentrate
 Pancetta
 Mix of Fresh Herbs
 Lamb minicarré
+Grana cheese
 Lamb Chest In Pieces
 Pitted Greek Olives
 Dried mint
@@ -555,6 +625,7 @@ Dill
 Lamb Leg Of 1500 G
 Fluid Honey
 Boneless Rack of Lamb
+Pecorino cheese
 Lamb In Pieces
 Small Pieces Lamb
 Mini Carré D'agnello
@@ -562,17 +633,21 @@ Roquefort cheese
 Dairy Lamb
 Wild Fennel
 Artichoke
+walnuts
 Small shallot
 Anchovy fillet
 Bamia
 Lamb Shoulder In Pieces
 Lamb chops
+Hot pepper
 Fresh Herbal Mix (Rosemary And Sage)
 Lamb Stew
 peas
+Lard
 White wine (optional)
 Turnips Novellas
 Dice
+Herbs
 Boneless Lamb Loins
 Zucchini
 Dried Plums
@@ -581,6 +656,8 @@ Armagnac
 Retina Di Maiale
 Mixed Mushrooms (or Chanterelle Mushrooms)
 Frozen Peas
+Oil
+zucchini
 Yellow polenta
 misticanza
 Lamb Steak
@@ -590,7 +667,9 @@ Pitted Taggiasche Olives
 Mozzarella Di Bufala
 Sunflower oil
 Fried Tomato Peel
+fennel
 Precooked Cannellini Beans
+Yeast
 Mixed Aromatic Herbs
 Cacioricotta cheese
 Speck
@@ -603,6 +682,7 @@ Lemon (grated rind) (optional)
 Nut Broth
 Puff Pastry
 Green beans
+Green olives
 Lamb Leg Cut In Pieces
 Boneless Lamb Meat
 Lamb (consotta Or Shoulder) A Pieces
@@ -610,6 +690,7 @@ Chopped Lard
 Tomato in Puree
 lamb
 Lamb Chops
+Rice
 Mixed Minced Meat
 Slices Of Gambuccio
 Beef Pulp
@@ -618,6 +699,7 @@ Soft Wheat Semolina
 Fresh eggs
 Pork Salamella Beef Pulp
 Fresh Egg Pasta
+Minced meat
 Precooked Chickpeas
 Veal Breastplate
 Pork leg
@@ -625,6 +707,7 @@ Savoy cabbage
 Wheat Flour 00
 Stracciatella cheese
 Calf Brain
+Sausage
 Braised Beef (or Boiled Beef)
 Grated Nutmeg
 Broth (or Butter And Sage)
@@ -636,8 +719,10 @@ Bisque Of Crustaceans
 Buffalo Mozzarella 250 G
 Ripe Pachino Cherry Tomatoes
 Courgette flowers
+Brain
 Roasted veal
 Beef stew
+Grated Parmesan cheese
 Beef broth
 Field Herbs
 Shelled walnuts
@@ -665,10 +750,12 @@ Pork Pulp
 Sbrinz cheese
 Ossobuco Di Vitellone
 Raschera cheese
+gambuccio
 Stracchino cheese
 Pharaoh's Chest From 300 G
 radishes
 Castelmagno cheese
+Mixed mushrooms
 Beets
 Agoni
 Perini tomatoes
@@ -687,6 +774,7 @@ Papaya Seeds
 Fresh Fillet Of Sturgeon
 Cabbage Hood
 Needle of 300 G
+Pachino tomatoes
 Capers in oil
 Aguglie
 Sodi ripe tomatoes
@@ -698,8 +786,11 @@ Chopped Rosemary
 San Marzano tomatoes
 Caffè Lavazza Club
 Martell Cognac
+Hazelnuts
 Pineapple Cream
 Orange Bitter
+Vermouth
+Lavazza coffee
 Vodka Wiborowa
 White Mint Sack
 Mint Chocolate
@@ -713,18 +804,25 @@ Milk Foam
 Slices of Albacore Tuna
 Gin Dry
 Yellow Chartreuse
+Chartreuse
 Crystalline Ice
+White Mint Cream
 Cedar Juice
 Crema De Cassis
 Frozen Seltz
+Cedar
 Illy Espresso Coffee
 Batida De Coco
 Whipped Cream
+Coffee
+White mint
 Brandy Vecchia Romagna
 Framboise
+Orange Scorzetta
 Rose's Lime Juice Cordial
 Tanqueray Gin
 Peach juice
+Fishing
 Caster sugar
 Orange Flower Water
 vanillin
@@ -765,6 +863,7 @@ Cinnamon In Cane
 Cochineal
 Mace
 Cardamom
+Vanilla
 Rose water
 Smirnoff Vodka
 Cinzano Dry Vermouth
@@ -776,6 +875,7 @@ Cherry Stock
 Orange (juice)
 Chicken wings
 Curry Powder
+Cumin
 Black Cabbage
 Lime (juice)
 Songino salad
@@ -785,6 +885,8 @@ Strachitunt cheese
 Belgian salad (endive)
 Fresh Sage
 Lettuce Salad Heart
+Pistachios Di Bronte
+Mixed Minced
 Untreated Lemon
 Spinacino
 Peachtree
@@ -804,10 +906,12 @@ Brown Cocoa Cream
 Nutmeg (or Chocolate Powder)
 Fresh Milk Cream
 Fresh Milk Cream
+Cocoa
 Jameson Irish Whiskey
 Artic Vodka And Mint
 Ramazzotti Mint
 Coffee Liquor
+Cream
 Dark Cocoa Cream Stock
 Gray Mint Cream
 coffee cream
@@ -829,6 +933,7 @@ Chicken wings
 Pancetta (100 G slices)
 White Onions
 Breed Wings
+Beets
 Ali Di Tacchina
 Virgin Marsala Wine
 Red Port Wine
@@ -845,8 +950,10 @@ Ripe Round Tomatoes
 Anchovies Minute
 Lemons (juice In Twice)
 Red pepper
+Semolina
 Seed oil for frying
 Copper Tomatoes
+Red Chillies
 Very Fresh Anchovies and Well Sodas
 Anchovies in oil
 Shamrock Leaves
@@ -854,6 +961,8 @@ Not too small anchovies
 Sprigs Of Parsley And Thyme
 Garlic (1 Spicchio Per 500 G D'acciughe)
 Barbed Anchovies (120 G)
+Cipollotto
+Salad
 Small Fresh Anchovies
 Salt Big enough
 Olive Oil For Frying
@@ -876,14 +985,17 @@ Triple Sec Bardinet
 Angostura Bitter
 Bitter Lemon Schweppes
 Lemonade
+ciliegine
 Boer Drink Melon
 Red Vodka Chazskaja
+Melon
 larks
 Chicken Liver
 Thick Cut Bacon
 Mint Infusion
 Sugar syrup
 Aperitif Rossi
+Soda Schweppes
 White Mint Crème
 gazzosa
 Teals
@@ -894,6 +1006,7 @@ Almonds A Lamelle
 Sour cherries
 Madeira wine
 Black Cherry without Petiole
+Alcohol
 Alcohol 80 Degrees
 Black Cherry With Hazel
 Ripe Cherries
@@ -924,6 +1037,7 @@ Unsweetened Lemon Juice
 Rhubarb
 Mint syrup
 Vermouth Chinato
+Fernet
 Flowered Summit Of Yarrow
 96 Degrees Neutral Alcohol
 Juniper berries
@@ -934,8 +1048,9 @@ Peppermint
 Centaurea Minor
 Bruised Root Of Aromatic Calamus
 Bruised Root Of Greater Gentian
-Contraxed Root of Carlina
+Bruise Root Of Carlina
 Cinnamon Bark
+Aromatic Calamus
 Centaura
 Angelica Root
 Enula Campana
@@ -943,6 +1058,7 @@ Bitter Orange Peel
 galangal
 Bitter orange (rind)
 Quassio Wood
+Centaury
 Pork cheek
 Pecorino Romano cheese
 Venezuelan Rum
@@ -950,9 +1066,11 @@ Benedictine Dom
 Cherry in syrup
 Cinzano Dry Vermouth
 Vodka Eristow
+Bitter Cocoa
 Strawberry Smoothie
 Pear Smoothie
 Artic Smooth Vodka
+Prosecco Sparkling Wine
 Half Strawberries
 Peeled Pear
 Alcohol 70 Degrees
@@ -961,8 +1079,10 @@ Angelica Seeds
 Tincture of Moss
 Al Maraschino Cherry
 Squeezed Orange Juice
+Mint Cream
 Light Rum
 Precooked Beans
+Sausages
 Bacon
 Safari
 Boiling water
@@ -973,15 +1093,18 @@ Filleted Almonds
 Feta cheese
 Bourbon Whiskey 50 Degrees
 Iced Brut Champagne Wine
+Soda Water
 White Sweet Vermouth
 Lemon Scorzetta
 Orange Slice
 Lemon slice
+Campari
 Seltz (optional)
 Soda Water (or Seltz)
 Artic Vodka And Mandarin
 Soft Fresh Cheese
 Chopped Green Pepper
+Olive
 Thin Corn Buns
 Yellow Melons with White Pulp or Verdina
 White Yogurth Cream
@@ -1000,14 +1123,17 @@ Canned Pineapple
 Sweetened Whipped Cream
 cherries in syrup
 Ripe pineapple
+Green Lemon
 Vanilla Essence
 Vanilla Yogurth
 Bitter Chocolate (or Cinnamon)
+apples
 Marsala Wine (or Brandy)
 Fruit in Syrup
 Dried Black Plums
 Dates
 Orange (or Mandarin)
+Banana
 Pear (or Peach)
 Pineapple pulp
 Fresh Pineapple (or Pineapple in Syrup)
@@ -1020,6 +1146,7 @@ mayonnaise
 Fresh Red Pepper Pili Pili
 Gassosa Schweppes
 Pineapple in syrup in nature
+Pineapple Grande
 Fruit Filling Ice Cream (see Recipe)
 Pineapple Small
 Lemon (rind and juice)
@@ -1030,9 +1157,11 @@ Fragolone
 Slightly Sweetened Whipped Cream
 Whole White Yogurth
 Fruit Ice Cream
+Ripe Big Pineapple
 Orange Brandy Stock
 Cinzano Brut Freddo Sparkling Wine
 Duck From 1750 G
+Duck
 Dried mushrooms
 Duck breast
 Barbaresco wine
@@ -1053,12 +1182,14 @@ Cortex of Cassia
 Infusion Tea
 Chinese Tea Leaves
 Duck Of 2500 G Ready For Cooking
+Pinot Bianco sparkling wine
 White grapes
 Duck Of 900 G Ready For Cooking
 Pork Blood
 Great Duck
 Orange Liqueur
 Raw Ham (slices of 150 G)
+Spices
 Duck Of Weight Of 1200 G
 Orange liqueur (curacao)
 Roast Sauce
@@ -1098,7 +1229,9 @@ Dietary Olive Oil
 Cabbages
 Breasts of small ducks
 Currant Jelly
+cherries
 Minced Veal
+Ham
 Boneless Duck Of 1500 G
 Stale Sandwich
 Pork loin
@@ -1110,9 +1243,11 @@ Passato Di Pomodoro
 Crayfish
 Already Pitted Green Olives
 Homemade Tomato Sauce
+Rape
 Bacon
 Wild Duck Of 1000 G
 Wild Ducklings
+Ducklings
 Croisé
 Extra Dry Marsala Wine
 Striped Bacon Stewed
@@ -1140,7 +1275,9 @@ Passata Di Pomodorino Pachino
 Caciocavallo Palermitano cheese
 Fresh Peas
 Anelletti type pasta
+Caciocavallo cheese
 Boiled Potatoes With Skin
+Ground Veal
 Fresh Marchigiana Sausage
 Beaten egg
 Baking powder
@@ -1150,13 +1287,18 @@ Fresh Chilli
 Fresh Mixed Aromatic Herbs
 Red radish
 Parma ham
+Parmigiano
 New potatoes
 Boiled and Squeezed Spinach
 Fine Peas
+Semolina
+Squid
 Arborio rice
 Cauliflower Cimette
 Canned Red Beans
+Curry
 Cinnamon Stick
+Cipollina
 Chicken broth
 Apricot jam
 Grated Fresh Ginger
@@ -1165,6 +1307,7 @@ Coffee powder
 Canasta
 Perch Fillets
 Pouring Anchovies
+Jelly
 Frisee salad
 Mealy potatoes
 Petit-suisse cheeses
@@ -1207,6 +1350,7 @@ Tropical Blue
 Cold Champagne Wine
 Anguele (latterini)
 Small eels
+Eels
 Middle eels
 Eel Of 500 G
 Eels Of 400 G
@@ -1216,6 +1360,7 @@ Eel Of 1000 G
 Vine leaves
 Chopped Sage Leaves
 Eel 1000 G Spelled and Clean
+Shamrock
 Rosemary (minced needles)
 White Wine (or Red Wine)
 Roasted Bread
@@ -1234,13 +1379,16 @@ Lemon Squeezed
 Integral sugar
 Aniseed
 Cinzano White Vermouth
+Currant
 Veal sweetbreads
 Fried Bread Crostini
 Chicken Meatballs
+mushrooms
 Vol-au-vent
 Tongue
 Green Anise Seeds
 Bluebird Orange Juice
+Fresh mint
 Sparkling Wine Chardonnay Carpenè Malvolti Very cold
 Mandarins (juice)
 Sliced ??Orange Cut
@@ -1249,7 +1397,9 @@ Long Grain Rice
 Sambuca Molinari
 Codon Beef
 Cup
+Rose Syrup
 Lemon Squeezed Surface Scrub
+Scampi
 Oyster
 Sea Fruits (mussels, clams)
 Fresh mushrooms
@@ -1273,70 +1423,3 @@ Salame Di Varzi
 Salnitrata language
 Red Bell Pepper in Vinegar
 Pickled Onions
-Mushrooms in oil
-Whole Chili Pickled
-Artichokes in oil
-Sliced ??Parcarré
-Canned Tomato Pulp
-Extra virgin olive oil
-Cayenne pepper
-Baked Small Beetroot
-Ready-made Russian Salad
-Celery (boiled ribs and let cool)
-Scraped Raw Carrots And Grated Fini
-Sardines in oil
-Hard-boiled Eggs Cut Into Slices
-Ben Sodi tomatoes
-Green pepper
-Cooked White Onions (boiled or baked)
-Small Black Olives
-Pickled Capers
-Squids
-soles
-Squeezed Lemons
-Pickled Peppers
-Small Novel Leeks
-Spicy Robiola Cheese
-Savory Crackers
-Red Pepper (or Sweet Yellow)
-Baked Red Beetroot
-Medium Mature Round Tomatoes
-Ripe Round Tomatoes Scalded in Boiling Water, Peeled, Strained
-Lobster Of About 1000 G
-Artichoke Funds
-Finely Chopped Smoked Herring
-Large Cucumber Chopped Pickled
-Lightly Toasted Rye Bread
-Green Bananas
-Sliced ??Raw Ham
-Coconut flour
-Bianchetti
-Scallops
-Cap Lettuce Salad
-Artichoke Hearts
-Thin Sliced ??Bacon
-Semi-mature Pecorino cheese
-Chopped Garlic And Parsley
-Freshly ground pepper
-Caviar
-Very fresh butter
-Carp Caviar
-Fresh Bread Crumb
-Hot Toast
-Salmon Caviar
-Bunch Of Smells
-Unsweetened Whipped Cream
-Provatura (Spun-paste Bufala Cheese Similar to Mozzarella)
-Ripe Avocado
-Pink grapefruit
-Mussels
-Cuttlefish
-Polyps
-Shrimps Already Shelled
-Yellow Pepper in Oil
-300 G Red Snapper
-Moscardini (small polyps)
-Boiled egg
-Pepper in oil
-Tuna in oil
-Mullet of 300 G

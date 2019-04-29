@@ -24,6 +24,7 @@ Frutta Di Stagione
 Vodka
 Granatina
 Succo D'arancia
+Gin
 Southern Comfort
 Succo D'ananas
 Applejack (calvados)
@@ -72,6 +73,7 @@ Olio Di Semi
 Pangrattato
 Insalata Lattuga
 Prezzemolo Tritato
+Limone
 Menta Fresca
 Angostura
 Ciliegina Al Maraschino
@@ -97,18 +99,23 @@ Salvia Con Le Foglie
 Acciughe Dissalate E Diliscate
 Aceto Di Vino Bianco
 Abbacchio A Pezzi
+Salvia
 Cosciotto D'abbacchio Di 1000 G Tagliato A Pezzi
 Timo
 Agnello
+Vino Bianco
+Acciughe
 Carne D'agnello
 Cosciotto D'agnello Di 1000 G
 Rosmarino Fresco
 Costolette D'agnello
 Patate Novelle
 Spinaci
+Abbacchio
 Strutto
 Prosciutto Crudo Tagliato A Cubetti
 Tuorli D'uovo
+Prezzemolo
 Burro
 Punte Di Asparagi Surgelate
 Olio Per Friggere
@@ -134,16 +141,18 @@ Formaggio Parmigiano Grattugiato
 Trippa E Budella Di Una Pecora (o Di 2 Agnelloni)
 Mortadella
 Formaggio Pecorino A Pezzettini
-Ventresca
+Ventresca ?
 Uova Sode
 Pomodoro Passato
 Vermouth Bianco
+Cordial
 Pernod
 Anisette
-Ardine
+Ardine ?
 Rum Bianco
 Zucchero Di Canna
 Soda Water Fredda
+Acqua
 Absolut Cedro
 Amaretto
 7-up
@@ -153,7 +162,8 @@ Crema Cacao
 Chili
 Pepe Jalapeno
 Vodka Absolut
-Per Guarnire
+Per Guarnire -
+Ciliegina Rossa
 Artic Pesca
 Fragola Drink Boero
 Succo D'ananas Del Monte
@@ -166,7 +176,10 @@ Albume D'uovo
 Succo Di Banana
 Coconut Mixybar
 Ciliegine Rosse
+Rum
+Soda
 Insalata Verde
+Ciliegia
 Crema Di Noce Di Cocco
 Fagioli Secchi (fagioli Cannellini)
 Coriandolo Fresco (o Menta)
@@ -176,9 +189,11 @@ Fichi Maturi
 Filetti D'acciughe Sott'olio
 Cipollotto Fresco
 Erba Cipollina Tritata
+Filetti D'acciughe
 Pane In Cassetta
 Uvetta Sultanina
 Pinoli
+Menta
 Arancia
 Acciughe Salate
 Aceto Di Mele
@@ -194,13 +209,16 @@ Cipolline Fresche
 Acciughe Fresche
 Limoni (succo)
 Acciughe Grandi E Polpose
+Acciughe Freschissime
 Pomodori Sbollentati Spellati E Sminuzzati
 Pepe Bianco
 Prezzemolo (solo Le Foglioline)
 Mollica Di Pane
+Acciughe Grandi
 Pomodori Pachino Maturi
 Aceto Di Vino Non Troppo Acido
 Cipolla Rossa
+Cipolle Rosse
 Pepe Nero
 Insalata Rucola
 Albumi D'uovo
@@ -211,8 +229,12 @@ Pancarré
 Formaggio Pecorino Dolce
 Cipolla Piccola
 Capperi Sotto Sale
+Latte
+Limoni
 Olive Nere Snocciolate
 Limone (succo)
+Zucca
+Olive Nere
 Capperi Dissalati
 Miele
 Cime Di Rapa
@@ -220,11 +242,15 @@ Formaggio Canestrato
 Filetto D'acciuga
 Peperoni
 Porchetta
+Formaggio Parmigiano
 Puntarelle
 Formaggio Spalmabile
+Capperi
+Panna
 Tuorlo D'uovo Sodo
 Filetti D'acciughe Freschissime
 Formaggio Provolone Dolce
+Finocchio
 Peperone Rosso
 Carota Piccola
 Zucchina Piccola
@@ -235,6 +261,10 @@ Olio D'oliva (facoltativo)
 Farina Di Mais
 Bottarga Di Muggine
 Senape
+Pane
+Pompelmo
+Prosciutto Crudo
+Peperone
 Formaggio Caprino
 Olio D'arachidi
 Borraggine
@@ -254,10 +284,14 @@ Formaggio Provola
 Formaggio Provolone Del Monaco
 Aglio Tritato
 Insalata Gentilina Rossa
+Mandarino
+Tonno
 Alloro
 Salsa Di Pomodoro
 Cipolle Grandi Affettate Sottili
 Cavolo Rosso
+Erba Cipollina
+Birra
 Acciughe Piccole
 Olive Nere Mosciarelle
 Acciughe Fresche Pulite E Spinate
@@ -281,7 +315,7 @@ Formaggio Scamorza
 Mandorle A Scaglie
 Pistacchi Sgusciati
 Mollica Di Pane Raffermo
-Radice Di Zenzero
+Radice Di Zenzero @#
 Radicchio
 Tartufo Bianco
 Filetti D'acciughe Dissalati
@@ -289,11 +323,14 @@ Origano (facoltativo)
 Peperoncino Piccante Pestato
 Brandy
 Vermouth Dolce
+Champagne
 Whisky Americano
+Whisky
 Vodka Keglevich
 Brandy Stock 84
 Curacao Blu
 Buccia D'arancia
+Vino
 Panino (mollica) (facoltativo)
 Scalogno
 Erbe Miste (maggiorana, Alloro, Basilico, Erba Cipollina)
@@ -334,6 +371,7 @@ Limone (scorza)
 Bacche Di Pepe Rosa
 Limoni (succo E Scorza)
 Aceto Di Sidro
+Pepe Rosa In Grani
 Miele Millefiori
 Miele D'acacia
 More Selvatiche Piccole
@@ -354,28 +392,35 @@ Tartufo Nero
 Aglio In Spicchi
 Aglio Fresco
 Fiori Di Lavanda Freschi
+Cipolline
 Cannella
+Lavanda
 Lavanda Fresca
 Lavanda In Fiore
 Ibiscus
 Liquirizia
 Foglie Di Menta
 Barbe Verdi Di Finocchio
+Rosa
 Begonie
 Lillà
 Pesca Bianca Grande
 Rose
 Rose Rosse Profumate
 Erbe Miste (maggiorana, Alloro, Basilico, Erba Cipollina, Salvia)
+More
 Pera
 Petali Di Rose Rosse Profumate
 Noce Moscata
 Chiodo Di Garofano
 Aromi
+Coriandolo
+Pepe Nero In Grani
 Capperi (o Basilico)
 Senape In Grani
 Petali Di Rosa
 Cerfoglio
+Peperoncini Piccanti
 Fragole Mature
 Foglie Di Menta Fresca
 Alloro Fresco
@@ -384,7 +429,9 @@ Madre Di Aceto
 Tartufo (facoltativo)
 Aceto Di Vino Champagne
 Achillea
+Tartufo
 Sesamo
+Zenzero
 Pepe Verde Schiacciato
 Mimosa
 Tulipani
@@ -394,6 +441,7 @@ Kirsch
 Ciliegie Nere
 Ciliegie Agre
 Grappa
+Cipolle
 Aceto Di Vino Bianco Forte
 Lamponi Surgelati
 Mirtilli Rossi
@@ -411,7 +459,11 @@ Pane Casereccio Raffermo
 Pomodori Da Sugo
 Menta Selvatica (mentuccia)
 Peperoni Rossi Dolci
+Pomodori
 Pane Tostato
+Pane Casereccio
+Cipolle Grandi
+Pane Raffermo
 Formaggio Parmigiano Grattugiato (o Formaggio Pecorino Grattugiato)
 Insalata Cicoria
 Semi Di Cumino
@@ -436,11 +488,14 @@ Gamberetti Sgusciati
 Rum Scuro
 Scorzetta D'arancia Strizzata In Superficie
 Mandarinetto Isolabella
+Ciliegina
+Mela
 Vermouth Bianco Secco
 Succo Di Limone Verde
 Sherry Dry
 Orange Bitter
 Ghiaccio
+Sherry
 Frangelico
 Kahlua
 Polvere Di Cacao
@@ -456,6 +511,7 @@ Scotch Whisky
 Base Per Gelati Alla Crema (v. Ricetta)
 Kiwi
 Cioccolato Fondente
+Mandorle
 Gelato Alla Vaniglia
 Banane
 Banane Mature
@@ -463,6 +519,7 @@ Mandorle Pelate
 Pesche
 Mascarpone
 Uovo Intero
+Tuorlo D'uovo
 Polvere Di Caffè
 Mandarini
 Fiori Eduli
@@ -470,6 +527,7 @@ Coky Drink Boero
 Midori
 Myers's Rum
 Vino Porto
+Curacao
 Vodka Francoli
 Granatina Francoli
 Cherry Brandy
@@ -481,6 +539,7 @@ Vermouth Dry Martini
 Fruit Vodka Pompelmo Boero
 Menta Bianca Get 31
 Cioccolatini Alla Menta
+Maraschino
 Fernet Branca
 Acqua Gassata
 Pesce Spada
@@ -489,6 +548,7 @@ Olive Verdi Snocciolate
 Panini (mollica)
 Milza Di Vitello
 Panini (mollica Bagnata In Aceto Di Vino Bianco)
+Sale Marino
 Cotechini Aromatizzati All'aglio
 Lenticchie
 Lombo D'agnello
@@ -497,7 +557,9 @@ Filetti D'agnello
 Funghi Champignon
 Vino Marsala
 Carré D'agnello Da 400 G
+Asparagi
 Lardo Di Maiale
+Carciofi
 Finocchietti Selvatici
 Farina 00
 Spalla D'agnello Disossata Arrotolata
@@ -505,12 +567,17 @@ Funghi Porcini
 Pistacchi Di Bronte Freschi
 Farina Di Riso
 Scamone D'agnello
+Pepe Rosa
+Peperoni Rossi
 Olive Verdi Denocciolate
+Spalla D'agnello
 Pomodori Pelati San Marzano
 Cipollotti Novelli
 Lampascioni
+Formaggio Pecorino Grattugiato
 Cosciotto D'agnello Di 2000 G
 Patatine Novelle
+Cosciotto D'agnello
 Salamoia Bolognese
 Formaggio Pecorino Fiore Sardo
 Polpa Di Agnello
@@ -522,6 +589,7 @@ Mollica Di Pane Fresco
 Carré Di Agnello Di 1200 G
 Costine D'agnello
 Crema Al Tartufo
+Carré D'agnello
 Insalata Valeriana
 Pomodoro Pelato
 Coscio D'agnello Disossato Di 1200 G
@@ -532,6 +600,7 @@ Spalle Di Agnellino Da Latte (1000 G)
 Finocchietto Selvatico Già Spuntato
 Polpa D'agnello
 Cipolle Affettate
+Paprica
 Yogurth
 Patate Lesse Affettate
 Topinambur
@@ -540,10 +609,12 @@ Cipolla Bianca
 Brodo Vegetale
 Fagioli Bianchi Di Spagna
 Carote
+Brodo
 Concentrato Di Pomodoro
 Pancetta
 Mix Di Erbe Fresche
 Minicarré D'agnello
+Formaggio Grana
 Petto D'agnello A Pezzi
 Olive Greche Snocciolate
 Menta Essiccata
@@ -555,6 +626,7 @@ Aneto
 Cosciotto D'agnello Di 1500 G
 Miele Fluido
 Carré D'agnello Disossato
+Formaggio Pecorino
 Agnello In Pezzi
 Agnello A Piccoli Pezzi
 Mini Carré D'agnello
@@ -562,17 +634,21 @@ Formaggio Roquefort
 Agnello Da Latte
 Finocchi Selvatici
 Carciofo
+Noci
 Scalogno Piccolo
 Filetto D'acciughe
 Bamia
 Spalla D'agnello In Pezzi
 Costolettine D'agnello
+Peperoncino Piccante
 Mix Di Erbe Fresche (rosmarino E Salvia)
 Spezzatino D'agnello
 Piselli
+Lardo
 Vino Bianco (facoltativo)
 Rape Novelle
 Dadi
+Erbe Aromatiche
 Lombi D'agnello Disossati
 Zucchine
 Prugne Secche
@@ -581,6 +657,8 @@ Armagnac
 Retina Di Maiale
 Funghi Misti (o Funghi Gallinacci)
 Piselli Surgelati
+Olio
+Zucchina
 Polenta Gialla
 Misticanza
 Bistecchine D'agnello
@@ -590,7 +668,9 @@ Olive Taggiasche Denocciolate
 Mozzarella Di Bufala
 Olio Di Semi Di Girasole
 Scorza Di Pomodoro Fritta
+Finocchietto
 Fagioli Cannellini Precotti
+Lievito
 Erbe Aromatiche Miste
 Formaggio Cacioricotta
 Speck
@@ -603,6 +683,7 @@ Limone (scorza Grattugiata)(facoltativo)
 Brodo Di Dado
 Pasta Sfoglia
 Fagiolini
+Olive Verdi
 Cosciotto D'agnello Tagliato A Pezzi
 Carne D'agnello Disossata
 Agnello (cosciotta O Spalla) A Pezzi
@@ -610,6 +691,7 @@ Lardo Tritato
 Pomodoro In Purea
 Agnellone
 Polpa Di Agnellone
+Riso
 Carne Macinata Mista
 Fette Di Gambuccio
 Polpa Di Manzo
@@ -618,6 +700,7 @@ Semolino Di Grano Tenero
 Uova Fresche
 Polpa Di Manzo Salamella Di Suino
 Pasta Fresca All'uovo
+Carne Macinata
 Ceci Precotti
 Sottopaletta Di Vitello
 Coscia Di Maiale
@@ -625,6 +708,7 @@ Cavolo Verza
 Farina Di Grano 00
 Formaggio Stracciatella
 Cervello Di Vitello
+Salsiccia
 Manzo Brasato (o Manzo Bollito)
 Noce Moscata Grattugiata
 Brodo (o Burro E Salvia)
@@ -636,8 +720,10 @@ Bisque Di Crostacei
 Mozzarella Di Bufala Da 250 G
 Pomodorini Pachino Maturi
 Fiori Di Zucca
+Cervello
 Vitello Arrosto
 Stufato Di Manzo
+Parmigiano Grattugiato
 Brodo Di Carne
 Erbette Di Campo
 Noci Sgusciate
@@ -665,10 +751,12 @@ Polpa Di Maiale
 Formaggio Sbrinz
 Ossobuco Di Vitellone
 Formaggio Raschera
+Gambuccio
 Formaggio Stracchino
 Petto Di Faraona Da 300 G
 Ravanelli
 Formaggio Castelmagno
+Funghi Misti
 Bietole
 Agoni
 Pomodori Perini
@@ -687,6 +775,7 @@ Semi Di Papaia
 Filetto Fresco Di Storione
 Cavolo Cappuccio
 Aguglia Di 300 G
+Pomodori Pachino
 Capperi Sott'olio
 Aguglie
 Pomodori Maturi Sodi
@@ -698,8 +787,11 @@ Rosmarino Tritato
 Pomodori San Marzano
 Caffè Lavazza Club
 Cognac Martell
+Nocciole
 Crema D'ananas
 Bitter All'arancia
+Vermouth
+Caffè Lavazza
 Vodka Wiborowa
 Menta Bianca Sacco
 Cioccolato Alla Menta
@@ -713,18 +805,25 @@ Schiuma Di Latte
 Tranci Di Tonno Alalunga
 Gin Dry
 Chartreuse Gialla
+Chartreuse
 Ghiaccio Cristallino
+Crema Di Menta Bianca
 Succo Di Cedro
 Crema De Cassis
 Seltz Ghiacciato
+Cedro
 Caffè Espresso Illy
 Batida De Coco
 Panna Montata
+Caffè
+Menta Bianca
 Brandy Vecchia Romagna
 Framboise
+Scorzetta D'arancia
 Rose's Lime Juice Cordial
 Tanqueray Gin
 Succo Di Pesca
+Pesca
 Zucchero Semolato
 Acqua Di Fiori D'arancio
 Vaniglina
@@ -765,6 +864,7 @@ Cannella In Canna
 Cocciniglia
 Macis
 Cardamomo
+Vaniglia
 Acqua Di Rose
 Vodka Smirnoff
 Vermouth Cinzano Dry
@@ -776,6 +876,7 @@ Cherry Stock
 Arancia (succo)
 Alette Di Pollo
 Curry In Polvere
+Cumino
 Cavolo Nero
 Lime (succo)
 Insalata Songino
@@ -785,6 +886,8 @@ Formaggio Strachitunt
 Insalata Belga (indivia)
 Salvia Fresca
 Cuore Di Insalata Lattuga
+Pistacchi Di Bronte
+Macinato Misto
 Limone Non Trattato
 Spinacino
 Peachtree
@@ -804,10 +907,12 @@ Crema Cacao Marrone
 Noce Moscata (o Cioccolato In Polvere)
 Crema Fresca Di Latte
 Crema Di Latte Fresca
+Cacao
 Jameson Irish Whisky
 Artic Vodka E Menta
 Ramazzotti Menta
 Liquore Al Caffè
+Crema
 Crema Cacao Scura Stock
 Crema Di Menta Grigia
 Crema Di Caffè
@@ -829,6 +934,7 @@ Ali Di Pollo
 Pancetta (fette Da 100 G)
 Cipolline Bianche
 Ali Di Razza
+Barbabietole
 Ali Di Tacchina
 Vino Marsala Vergine
 Vino Porto Rosso
@@ -845,8 +951,10 @@ Pomodori Tondi Maturi
 Acciughe Minute
 Limoni (succo In Due Volte)
 Peperoncino Rosso
+Semolino
 Olio Di Semi Per Friggere
 Pomodori Ramati
+Peperoncini Rossi
 Acciughe Freschissime E Ben Sode
 Acciughe Sott'olio
 Foglie Di Acetosella
@@ -854,6 +962,8 @@ Acciughe Non Troppo Piccole
 Rametti Di Prezzemolo E Di Timo
 Aglio (1 Spicchio Per 500 G D'acciughe)
 Acciughe Spinate (120 G)
+Cipollotto
+Insalata
 Acciughe Fresche Piccole
 Sale Abbastanza Grosso
 Olio D'oliva Per Friggere
@@ -876,14 +986,17 @@ Triple Sec Bardinet
 Angostura Bitter
 Bitter Lemon Schweppes
 Limonata
+Ciliegine
 Melone Drink Boero
 Vodka Rossa Chazskaja
+Melone
 Allodole
 Fegatino Di Pollo
 Pancetta Tagliata Spessa
 Infuso Di Menta
 Sciroppo Di Zucchero
 Aperitivo Rossi
+Soda Schweppes
 Crème Di Menta Bianca
 Gazzosa
 Alzavole
@@ -894,6 +1007,7 @@ Mandorle A Lamelle
 Amarene
 Vino Madera
 Amarene Senza Picciolo
+Alcool
 Alcool A 80 Gradi
 Amarene Con Il Nocciolo
 Amarene Mature
@@ -924,6 +1038,7 @@ Succo Di Limone Non Zuccherato
 Rabarbaro
 Sciroppo Di Menta
 Vermouth Chinato
+Fernet
 Sommità Fiorita Di Achillea
 Alcool Neutro A 96 Gradi
 Bacche Di Ginepro
@@ -936,6 +1051,7 @@ Radice Contusa Di Calamo Aromatico
 Radice Contusa Di Genziana Maggiore
 Radice Contusa Di Carlina
 Corteccia Di Cannella
+Calamo Aromatico
 Centaura
 Radice Di Angelica
 Enula Campana
@@ -943,6 +1059,7 @@ Scorza D'arancia Amara
 Galanga
 Arancia Amara (scorza)
 Legno Quassio
+Centaurea
 Guanciale Di Maiale
 Formaggio Pecorino Romano
 Rum Venezuelano
@@ -950,9 +1067,11 @@ Benedictine Dom
 Ciliegia Sciroppata
 Vermouth Dry Cinzano
 Vodka Eristow
+Cacao Amaro
 Frullato Di Fragola
 Frullato Di Pera
 Vodka Liscia Artic
+Vino Spumante Prosecco
 Mezze Fragole
 Pera Sbucciata
 Alcool A 70 Gradi
@@ -961,8 +1080,10 @@ Semi Di Angelica
 Tintura Di Muschio
 Ciliegia Al Maraschino
 Succo D'arancia Spremuta
+Crema Di Menta
 Rum Leggero
 Fagioli Precotti
+Salsicce
 Bacon
 Safari
 Acqua Bollente
@@ -973,15 +1094,18 @@ Mandorle A Filetti
 Formaggio Feta
 Bourbon Whisky A 50 Gradi
 Vino Champagne Brut Ghiacciato
+Soda Water
 Vermouth Dolce Bianco
 Scorzetta Di Limone
 Fetta D'arancia
 Fetta Di Limone
+Campari
 Seltz (facoltativo)
 Soda Water (o Seltz)
 Artic Vodka E Mandarino
 Formaggio Fresco Morbido
 Peperoncino Verde Tagliato
+Olive
 Focacce Di Granturco Sottili
 Meloni Gialli A Polpa Bianca O Verdina
 Crema Di Yogurth Bianco
@@ -1000,14 +1124,17 @@ Ananas In Scatola
 Panna Montata Zuccherata
 Ciliegie Sciroppate
 Ananas Maturo
+Limone Verde
 Essenza Di Vaniglia
 Yogurth Alla Vaniglia
 Cioccolato Amaro (o Cannella)
+Mele
 Vino Marsala (o Brandy)
 Frutta Sciroppata
 Prugne Nere Secche
 Datteri
 Arancia (o Mandarino)
+Banana
 Pera (o Pesca)
 Polpa D'ananas
 Ananas Fresco (o Ananas Sciroppato)
@@ -1020,6 +1147,7 @@ Maionese
 Peperoncino Rosso Fresco Pili Pili
 Gassosa Schweppes
 Ananas Sciroppato Al Naturale
+Ananas Grande
 Gelato Per Farcire Frutta (v. Ricetta)
 Ananas Piccolo
 Limone (scorza E Succo)
@@ -1030,9 +1158,11 @@ Fragolone
 Panna Montata Leggermente Zuccherata
 Yogurth Bianco Intero
 Gelato Alla Frutta
+Ananas Grande Maturo
 Orange Brandy Stock
 Vino Spumante Cinzano Brut Freddo
 Anatra Da 1750 G
+Anatra
 Funghi Secchi
 Petto D'anatra
 Vino Barbaresco
@@ -1053,12 +1183,14 @@ Corteccia Di Cassia
 Tè In Infusione
 Foglie Di Tè Cinese
 Anatra Di 2500 G Pronta Per La Cottura
+Vino Spumante Pinot Bianco
 Uva Bianca
 Anatra Di 900 G Pronta Per La Cottura
 Sangue Di Maiale
 Anatra Grande
 Liquore All'arancia
 Prosciutto Crudo (fette Da 150 G)
+Spezie
 Anatra Del Peso Di 1200 G
 Liquore All'arancia (curacao)
 Sugo D'arrosto
@@ -1098,7 +1230,9 @@ Olio D'oliva Dietetico
 Cavoli
 Petti Di Piccole Anatre
 Gelatina Di Ribes
+Ciliegie
 Carne Di Vitello Macinata
+Prosciutto
 Anatra Disossata Di 1500 G
 Panino Raffermo
 Lonza Di Maiale
@@ -1110,9 +1244,11 @@ Passato Di Pomodoro
 Gamberi
 Olive Verdi Già Snocciolate
 Salsa Di Pomodoro Fatta In Casa
+Rape
 Pancetta Affumicata
 Anatra Selvatica Di 1000 G
 Anatroccoli Selvatici
+Anatroccoli
 Croisé
 Vino Marsala Secco Extra
 Pancetta Stufata Tagliata A Strisce
@@ -1140,7 +1276,9 @@ Passata Di Pomodorino Pachino
 Formaggio Caciocavallo Palermitano
 Piselli Freschi
 Pasta Tipo Anelletti
+Formaggio Caciocavallo
 Patate Bollite Con Pelle
+Macinato Di Vitello
 Salsiccia Fresca Marchigiana
 Uovo Sbattuto
 Lievito In Polvere
@@ -1150,13 +1288,18 @@ Peperoncino Fresco
 Erbe Aromatiche Fresche Miste
 Radicchio Rosso
 Prosciutto Crudo Di Parma
+Parmigiano
 Patate Non Novelle
 Spinaci Lessati E Strizzati
 Piselli Fini
+Semola
+Calamaro
 Riso Arborio
 Cimette Di Cavolfiore
 Fagioli Rossi In Scatola
+Curry
 Stecca Di Cannella
+Cipollina
 Brodo Di Pollo
 Marmellata Di Albicocche
 Zenzero Fresco Grattugiato
@@ -1165,6 +1308,7 @@ Caffè In Polvere
 Canasta
 Filetti Di Pesce Persico
 Colatura Di Acciughe
+Gelatina
 Insalata Riccia
 Patate Farinose
 Formaggini Petit-suisse
@@ -1207,6 +1351,7 @@ Tropical Blue
 Vino Champagne Freddo
 Anguele (latterini)
 Anguille Piccole
+Anguille
 Anguille Medie
 Anguilla Di 500 G
 Anguille Di 400 G
@@ -1216,6 +1361,7 @@ Anguilla Di 1000 G
 Foglie Di Vite
 Foglie Di Salvia Tritate
 Anguilla Da 1000 G Spellata E Pulita
+Acetosella
 Rosmarino (aghi Tritati)
 Vino Bianco (o Vino Rosso)
 Pane Abbrustolito
@@ -1234,13 +1380,16 @@ Limone Spremuto
 Zucchero Integrale
 Semi Di Anice
 Vermouth Bianco Cinzano
+Ribes
 Animelle Di Vitello
 Crostini Di Pane Fritti
 Polpettine Di Pollo
+Funghi
 Vol-au-vent
 Lingua
 Semi Di Anice Verde
 Succo D'arancia Bluebird
+Mentuccia Fresca
 Vino Spumante Chardonnay Carpenè Malvolti Freddissimo
 Mandarini (succo)
 Arancia Tagliata A Fettine
@@ -1249,7 +1398,9 @@ Riso A Grana Lunga
 Sambuca Molinari
 Codone Di Manzo
 Coppa
+Sciroppo Di Rose
 Scorzetta Di Limone Strizzata In Superficie
+Scampi
 Ostrica
 Frutti Di Mare (cozze, Vongole)
 Funghi Freschi
@@ -1273,70 +1424,3 @@ Salame Di Varzi
 Lingua Salnitrata
 Peperone Rosso Sott'aceto
 Cipolline Sott'aceto
-Funghetti Sott'olio
-Peperoncini Interi Sott'aceto
-Carciofini Sott'olio
-Pancarré A Fette
-Polpa Di Pomodoro In Scatola
-Olio Extra Vergine D'oliva
-Pepe Di Caienna
-Barbabietola Piccola Cotta Al Forno
-Insalata Russa Già Pronta
-Sedano (coste Sbollentate E Lasciate Raffreddare)
-Carote Crude Raschiate E Grattugiate Fini
-Sardine Sott'olio
-Uova Sode Tagliate A Spicchi
-Pomodori Ben Sodi
-Peperone Verde
-Cipolle Bianche Cotte (bollite O Al Forno)
-Olive Nere Piccole
-Capperi Sott'aceto
-Calamaretti
-Sogliole
-Limoni Spremuti
-Peperoni Sott'aceto
-Porri Piccoli Novelli
-Formaggio Robiola Piccante
-Crackers Salati
-Peperone Rosso (o Giallo Dolce)
-Barbabietola Rossa Cotta Al Forno
-Pomodori Rotondi Mediamente Maturi
-Pomodori Rotondi Maturi Scottati In Acqua Bollente, Pelati, Passati Al Setaccio
-Aragosta Di Circa 1000 G
-Fondi Di Carciofo
-Aringhe Affumicate Tritate Finemente
-Cetriolo Grande Sott'aceto Tritato
-Pane Di Segale Leggermente Tostate
-Banane Verdi
-Prosciutto Crudo A Fette
-Farina Di Cocco
-Bianchetti
-Capesante
-Insalata Lattuga Cappuccio
-Cuori Di Carciofo
-Pancetta Affumicata Tagliata Sottile
-Formaggio Pecorino Semi-stagionato
-Trito Di Aglio E Prezzemolo
-Pepe Appena Macinato
-Caviale
-Burro Freschissimo
-Caviale Di Carpa
-Mollica Fresca Di Pane
-Pane Tostato Caldo
-Caviale Di Salmone
-Mazzetto Di Odori
-Panna Montata Non Zuccherata
-Provatura (formaggio Di Bufala A Pasta Filata Simile Alla Mozzarella)
-Avocado Maturo
-Pompelmo Rosa
-Cozze
-Seppioline
-Polipi
-Gamberetti Già Sgusciati
-Peperone Giallo Sott'olio
-Dentice Di 300 G
-Moscardini (piccoli Polipi)
-Uovo Sodo
-Peperone Sott'olio
-Tonno Sott‘olio
-Cefalo Di 300 G

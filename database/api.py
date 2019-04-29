@@ -6,35 +6,75 @@ import mysql.connector as mysql
 from manager import Manager
 import settings
 
-class Receipt(Resource):
+class Receips(Resource):
+    """Manages events requests"""
+
+    def get(self):
+        # Return value
+        rv = []
+        rv = manager.select("receipt", "id, name")  
+        return json.dumps(rv)
+
+class Ingredients(Resource):
+    """Manages events requests"""
+
+    def get(self):
+        # Return value
+        rv = []
+        rv = manager.select("ingredient", "id, name")   
+        return json.dumps(rv)
+    
+    def post(self):
+            # Return value
+            rv = []
+            rv = manager.select("ingredient", "id, name")   
+            return json.dumps(rv)    
+    
+        
+class IstantReceipSearch(Resource):
     """Manages events requests"""
 
     def get(self, ingredients):
         # Return value
         rv = []
-        ingredientsAppId = []
-        # Get ingredients from DB
-        for ing in ingredients:
-            id = manager.ingredientAppByName(ing)
-            ingredientsAppId.append(id[0][0])
-            
-        ingredientsId = []
-        for ing in ingredients:
-            id = manager.select("ingredientapprel where idIngredientApp = " + ing, "idIngredient")
-            ingredientsId = ingredientsId + id
-        
-    # ingredient = manager.select()
+        rv = manager.IstantReceipSearch(ingredients)   
+        return json.dumps(rv)
 
-# Create new db manager
-manager = Manager(settings.host,
-                  settings.username,
-                  settings.passwd,
-                  settings.database,
-                  settings.charset)
+class StandardReceipSearch(Resource):
+    """Manages events requests"""
 
-manager.connect()                 
+    def get(self, ingredients):
+        # Return value
+        rv = []
+        rv = manager.ReceipSearch(ingredients)   
+        return json.dumps(rv)
 
-# r = Receipt()    
-# r.get(["Limoni", "Vanil Zucca"])
 
-manager.close()
+if __name__ == '__main__':
+    # Init flask
+    app = Flask(__name__)
+    api = Api(app)
+
+    PORT = 8080
+
+    # Create new db manager
+    manager = Manager(settings.host,
+                      settings.username,
+                      settings.passwd,
+                      settings.database,
+                      settings.charset)
+
+    # Routes configuration
+    api.add_resource(Ingredients, '/ingredients/')
+    api.add_resource(Receips, '/receips/')
+    api.add_resource(IstantReceipSearch,'/istantReceipSerch/')
+    api.add_resource(StandardReceipSearch,'/standardReceipSerch/')
+    
+    try:
+        # Connect to DB
+        manager.connect()
+
+        # Start API
+        app.run(host='0.0.0.0', port=PORT)
+    finally:
+        manager.close()

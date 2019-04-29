@@ -194,6 +194,8 @@ import Screen1 from '../screens/AllReceipsScreen';
 import Screen2 from '../screens/SpecialReceipsScreen';
 import Screen3 from '../screens/StandardReceipsScreen';
 
+
+
 const MyNavigator = createMaterialTopTabNavigator(
   {
     Screen1,
@@ -239,6 +241,25 @@ const MyNavigator = createMaterialTopTabNavigator(
 );
 class Page extends React.Component {
   static router = MyNavigator.router;
+  
+  constructor(){
+
+    fetch('http://localhost', {
+         method: 'GET'
+      })
+      .then((response) => response.json())
+      .then((responseJson) => {
+         console.log(responseJson);
+         this.setState({
+            data: responseJson
+         })
+      })
+      .catch((error) => {
+         console.error(error);
+      });
+
+
+  }
   render() {
     return (
       <MyNavigator
