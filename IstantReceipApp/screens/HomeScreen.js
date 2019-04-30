@@ -243,11 +243,14 @@ class Page extends React.Component {
   static router = MyNavigator.router;
   
   constructor(){
+    super();
 
-    fetch('http://localhost', {
-         method: 'GET'
+    fetch('http://192.168.1.12:8080/ingredients/', {
+         method: 'GET',
+         headers: {id: 2345}
       })
-      .then((response) => response.json())
+      .then((response) => 
+        response.json())
       .then((responseJson) => {
          console.log(responseJson);
          this.setState({
@@ -256,14 +259,12 @@ class Page extends React.Component {
       })
       .catch((error) => {
          console.error(error);
-      });
-
-
+      })
   }
   render() {
     return (
       <MyNavigator
-        navigation={this.props.navigation}
+        navigation={this.props.navigation}        
       />
     );
   }

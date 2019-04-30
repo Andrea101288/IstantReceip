@@ -21,15 +21,16 @@ class Ingredients(Resource):
     def get(self):
         # Return value
         rv = []
+        print(request.headers)
         rv = manager.select("ingredient", "id, name")   
         return json.dumps(rv)
     
     def post(self):
-            # Return value
-            rv = []
-            rv = manager.select("ingredient", "id, name")   
-            return json.dumps(rv)    
-    
+        # Return value
+        rv = []
+        rv = manager.select("ingredient", "id, name")   
+        return json.dumps(rv)    
+
         
 class IstantReceipSearch(Resource):
     """Manages events requests"""
@@ -75,6 +76,6 @@ if __name__ == '__main__':
         manager.connect()
 
         # Start API
-        app.run(host='0.0.0.0', port=PORT)
+        app.run(host='192.168.1.12', port=PORT)
     finally:
         manager.close()
