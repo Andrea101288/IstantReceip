@@ -12,8 +12,14 @@ class Receips(Resource):
     def get(self):
         # Return value
         rv = []
+        receip = {}
+        res = []
         rv = manager.select("receipt", "id, name")  
-        return json.dumps(rv)
+        for rec in rv:
+            receip['id'] = rec[0]
+            receip['name'] = rec[1]            
+            res.append(receip.copy())
+        return json.dumps(res)
 
 class Ingredients(Resource):
     """Manages events requests"""
@@ -76,6 +82,6 @@ if __name__ == '__main__':
         manager.connect()
 
         # Start API
-        app.run(host='192.168.1.12', port=PORT)
+        app.run(host='192.168.1.53', port=PORT)
     finally:
         manager.close()
