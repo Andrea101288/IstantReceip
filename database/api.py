@@ -11,10 +11,40 @@ class Receips(Resource):
 
     def get(self):
         # Return value
+        # rv = []
+        # receip = []
+        # res = {}
+        # currLett = ""
+        # rv = manager.select("receipt", "id, name") 
+        # oldLetter = ""
+        # for rec in rv:
+            # try: 
+                # int(rec[1][0])
+                # receip.append(rec[1])                
+            # except ValueError:
+                # currLett = rec[1][0].upper()
+                # if oldLetter == "":
+                    # res['#'] = receip
+                    # receip = []
+                    # oldLetter = "A"                   
+                # if currLett == oldLetter:
+                    # receip.append(rec[1])
+                
+                # else:
+                    # res[oldLetter] = receip
+                    # receip = []
+                    # oldLetter = currLett  
+           
+        # return json.dumps(res)
+        
+        
+        
+        
+        # Return value
         rv = []
         receip = {}
         res = []
-        rv = manager.select("receipt", "id, name")  
+        rv = manager.select("receipt", "id, name")
         for rec in rv:
             receip['id'] = rec[0]
             receip['name'] = rec[1]            
