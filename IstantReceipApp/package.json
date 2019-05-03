@@ -18,6 +18,7 @@
     "react-localization": "^1.0.13",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-alphabetlistview": "^0.3.1",
+    "react-native-device-info": "^1.6.1",
     "react-native-i18n": "git+https://github.com/AlexanderZaytsev/react-native-i18n.git",
     "react-navigation": "^3.0.9",
     "upgrade": "^1.1.0"

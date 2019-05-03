@@ -2,12 +2,14 @@ import React from 'react';
 import { Platform, StatusBar, StyleSheet, View, Text, ScrollView, Button } from 'react-native';
 import { strings } from '../src/i18n';
 import AlphabetListView from 'react-native-alphabetlistview'
+import DeviceInfo from 'react-native-device-info';
+
 export default class AllReceipsScreen extends React.Component {
 
   constructor(){
     super();
     this.state = {data: null}
-    this.getReceips();
+    this.getReceips();     
   }
 
   static navigationOptions = {
@@ -16,25 +18,49 @@ export default class AllReceipsScreen extends React.Component {
 
   async getReceips(){
 
-    await fetch('http://192.168.1.53:8080/receips/', {
-         method: 'GET'
+    await fetch('http://192.168.1.17:8080/receips/', {
+         method: 'GET',
+         // header:  { id: DeviceInfo.getUniqueID() }
     })
     .then((response) => {
       return response.json()
     })
-    .then((responseJson) => {
-        this.setState({
-          data: JSON.parse(responseJson)
-        })
+    .then((responseJson) => {        
+          this.receipsList = JSON.parse(responseJson)        
       // console.log(this.state.data)
     })
     .catch((error) => {
         console.error(error);
     })
+    this.setState({
+      data: []
+    })
 
+  }  
+
+  componentWillMount(){
+    // if(this.receipsList === null || this.receipsList === undefined)
+    //   return "FatalError"
+    console.log("Fanculoooooooooooooooooooooooooooooooooooo")
+    // let data2 = []
+    // for(i = 2; i < 500; i++){
+    //   data2.push(<Button title={this.receipsList[i].name}/>)
+    // } this.setState({
+    //   data:data2
+    // })   
   }
 
-
+  componentDidMount(){
+    if(this.receipsList === null || this.receipsList === undefined)
+      return "FatalError"
+    console.log("fkarjhvjhejbhvjrj")
+    let data2 = []
+    for(i = 2; i < 500; i++){
+      data2.push(<Button title={this.receipsList[i].name}/>)
+    } this.setState({
+      data:data2
+    })   
+  }
 
   render() {
 
@@ -45,23 +71,25 @@ export default class AllReceipsScreen extends React.Component {
         backgroundColor: '#fff',
       },
     });
-    var receipsList = []
-    
-    if (this.state.data === null || this.state.data === undefined ){
+    console.log("Vaffancvulo2")
+    if (this.receipsList === null || this.receipsList === undefined ){
       
       return <View style={styles.container}>
-              <Text> Loading Receips.. {typeof(this.state.data)} </Text>
+               <Text> Loading Receips.. {typeof(this.state.data)} </Text> 
             </View> 
     }
-    for(i = 0; i < 10000; i++){
-        receipsList.push(<Button title={this.state.data[i].name}/>)
-    }
+    // for(i = 0; i < 2; i++){
+    //     this.state.data.push(<Button title={this.receipsList[i].name}/>)
+    // }
 
     // receipsList = this.state.data.map((item) =>
     //   <Button onPress={this._onPress} title={item.name} color="#FFFFFF" accessibilityLabel="Tap on Me"/>)
+    
+
+
     return    <View style={styles.buttonContainer}>                  
                   <ScrollView> 
-                    {receipsList}          
+                    {this.state.data}          
                   {/* <AlphabetListView
                     data={this.state.data}
                     cell={Cell}

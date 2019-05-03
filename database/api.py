@@ -5,10 +5,10 @@ import mysql.connector as mysql
 
 from manager import Manager
 import settings
-
+i = {}
 class Receips(Resource):
     """Manages events requests"""
-
+    
     def get(self):
         # Return value
         # rv = []
@@ -37,18 +37,21 @@ class Receips(Resource):
            
         # return json.dumps(res)
         
-        
-        
-        
         # Return value
+        global i 
+        print(i)
         rv = []
         receip = {}
         res = []
         rv = manager.select("receipt", "id, name")
-        for rec in rv:
-            receip['id'] = rec[0]
-            receip['name'] = rec[1]            
+        for rec in range(i, len(rv)):
+            receip['id'] = rv[rec][0]
+            receip['name'] = rv[rec][1]            
             res.append(receip.copy())
+            i = i + 1
+            if i%500 == 0:
+                break
+        print(request.headers['id'])
         return json.dumps(res)
 
 class Ingredients(Resource):
@@ -112,6 +115,6 @@ if __name__ == '__main__':
         manager.connect()
 
         # Start API
-        app.run(host='192.168.1.53', port=PORT)
+        app.run(host='192.168.1.17', port=PORT)
     finally:
         manager.close()
