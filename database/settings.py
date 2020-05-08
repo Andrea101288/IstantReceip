@@ -1,5 +1,5 @@
 host = "localhost"
 username = "root"
-passwd = "Jago2009"
-database = "istantReceip"
+passwd = "<Database Password>"
+database = "<dataBase name>"
 charset = "UTF8"
