@@ -3,6 +3,7 @@ database/settings.py
 /database/dividedIngredients/*
 /database/subCategories*
 /database/ingEn.doc
-/database/trans.py
+/database/transPy.py
 /database/receips.txt
 /database/receipsNew.txt
+/database/IngEnGoogle.txt
