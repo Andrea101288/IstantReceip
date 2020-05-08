@@ -51,13 +51,13 @@ class Manager:
             # Close connection
             self.close()
             
-    def insert_ingredient(self, name, EnName, calories):
+    def insert_ingredient(self, ingredient_name, calories):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
         try:
             # Prepare query 
-            query = "INSERT INTO ingredient VALUES({0}, '{1}', '{2}', {3})".format(0, name, EnName, calories)
+            query = "INSERT INTO ingredient VALUES({0}, '{1}', '{2}')".format(0, ingredient_name, calories)
             # Execute query
             self.cursor.execute(query)
             self.connection.commit()
@@ -131,13 +131,13 @@ class Manager:
             # Close connection
             self.close()
             
-    def insert_Receip_ingredient(self, idIng, idRec, amount):
+    def insert_Receip_ingredient(self, id_ingredient, id_receipe, amount, name):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
         try:
             # Prepare query                     
-            query = "INSERT INTO receiptingredients VALUES({0}, {1}, {2}, '{3}')".format(0, idIng,  idRec, amount)
+            query = "INSERT INTO receiptingredients VALUES({0}, {1}, {2}, '{3}')".format(0, id_ingredient,  id_receipe, amount)
             # Execute query
             self.cursor.execute(query)
             self.connection.commit()
@@ -188,28 +188,28 @@ class Manager:
         self.connect()
         
         try:
-            foundReceips = []
-            queryRec = "select distinct idReceipt from receiptingredients where " 
+            found_receipe = []
+            query_receipe = "select distinct id_receipeeipt from receiptingredients where " 
             for ing in ingredients: 
-                queryRec +=  "idIngredient = " + str(ing) + " or "
+                query_receipe +=  "id_ingredientredient = " + str(ing) + " or "
             
-            queryRec = queryRec[:-4]
-            print(queryRec)
-            self.cursor.execute(queryRec)
+            query_receipe = query_receipe[:-4]
+            print(query_receipe)
+            self.cursor.execute(query_receipe)
             receips = self.cursor.fetchall()
             print(receips)
             
-            for idRec in receips:            
+            for id_receipe in receips:            
                 ok = True
                 # Prepare query                     
-                query = "select idIngredient from receiptingredients where idReceipt = " + str(idRec[0]) 
+                query = "select id_ingredientredient from receiptingredients where id_receipeeipt = " + str(id_receipe[0]) 
                 # Execute query
                 self.cursor.execute(query)
-                res = self.cursor.fetchall()
-                if len(ingredients) < len(res):
+                result = self.cursor.fetchall()
+                if len(ingredients) < len(result):
                     continue
-                #print("receip" + str(idRec[0]))
-                for ing in res:
+                #print("receip" + str(id_receipe[0]))
+                for ing in result:
                     #print(ing)
                     if not any(ing[0] == s for s in ingredients):
                     #if ing not in ingredients:
@@ -217,13 +217,13 @@ class Manager:
                         ok = False
                         break
                 if ok:
-                    queryRec = "select name from receipt where id = " + str(idRec[0])
-                    self.cursor.execute(queryRec)
-                    finalResult = self.cursor.fetchall()
-                    foundReceips.append([finalResult[0][0], idRec[0]])
-                    print(foundReceips)
+                    query_receipe = "select name from receipt where id = " + str(id_receipe[0])
+                    self.cursor.execute(query_receipe)
+                    final_result = self.cursor.fetchall()
+                    found_receipe.append([final_result[0][0], id_receipe[0]])
+                    print(found_receipe)
                     
-            return foundReceips
+            return found_receipe
             
         # except mysql.Error as e: 
             # print(e)
@@ -239,26 +239,26 @@ class Manager:
         self.connect()
         
         try:
-            foundReceips = []
-            queryRec = "select distinct idReceipt, name from receiptingredients where " 
+            found_receipe = []
+            query_receipe = "select distinct id_receipeeipt, name from receiptingredients where " 
             for ing in ingredients: 
-                queryRec +=  "idIngredient = " + ing + " or "
+                query_receipe +=  "id_ingredientredient = " + ing + " or "
             
-            queryRec = queryRec[:-4]
-            self.cursor.execute(queryRec)
+            query_receipe = query_receipe[:-4]
+            self.cursor.execute(query_receipe)
             receips = self.cursor.fetchall()
             
-            for idRec in receips:            
-                queryRec = "select name from receips where id = " + idRec[0]
-                self.cursor.execute(queryRec)
-                finalResult = self.cursor.fetchall()
-                foundReceips.append(finalResult[0][0], idRec[0])
+            for id_receipe in receips:            
+                query_receipe = "select name from receips where id = " + id_receipe[0]
+                self.cursor.execute(query_receipe)
+                final_result = self.cursor.fetchall()
+                found_receipe.append(final_result[0][0], id_receipe[0])
             
-            return foundReceips
+            return found_receipe
             
-         #except mysql.Error as e: 
-            # print(e[1])        
-            # return [e[1], 0] 
+        except mysql.Error as e: 
+            print(e[1])        
+            return [e[1], 0] 
             
         finally:
             # Close connection

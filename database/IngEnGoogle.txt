@@ -1,7 +1,7 @@
 Panna Liquida
 Liquore Allo Zabaglione
 Vanil Zucca
-Illycaffè Espresso
+Illycaffï¿½ Espresso
 China Martini
 Vino Castelblanch Extra Brut
 Cointreau
@@ -19,7 +19,7 @@ Vino Rosso
 Succo Di Limone
 Vino Champagne
 Cognac
-Tè
+Tï¿½
 Frutta Di Stagione
 Vodka
 Granatina
@@ -207,7 +207,7 @@ Albumi D''uovo
 Fecola
 Zafferano
 Pomodori Maturi
-Pancarré
+Pancarrï¿½
 Formaggio Pecorino Dolce
 Cipolla Piccola
 Capperi Sotto Sale
@@ -274,7 +274,7 @@ Spicchi Di Limone
 Formaggio Grattugiato
 Formaggio Provola Affumicata
 Lime
-Filetti D''acciughe Già Pulite
+Filetti D''acciughe Giï¿½ Pulite
 Erbe Fresche
 Acciughe Sfilettate
 Formaggio Scamorza
@@ -327,7 +327,7 @@ Cipolle Piccole
 Cetrioli Piccoli
 Corbezzoli Poco Maturi
 Foglie Di Dragoncello
-Aceto Di Vino Bianco Di Ottima Qualità
+Aceto Di Vino Bianco Di Ottima Qualitï¿½
 Foglie Di Finocchio
 Limoni (scorza)
 Limone (scorza)
@@ -362,7 +362,7 @@ Liquirizia
 Foglie Di Menta
 Barbe Verdi Di Finocchio
 Begonie
-Lillà
+Lillï¿½
 Pesca Bianca Grande
 Rose
 Rose Rosse Profumate
@@ -424,7 +424,7 @@ Insalata Cicoria Di Campagna
 Patate Grandi
 Mentuccia Fresca (nepitella)
 Pomodori Freschi
-Baccalà (facoltativo)
+Baccalï¿½ (facoltativo)
 Uova In Camicia (facoltativo)
 Funghi Misti Di Bosco
 Formaggio Pecorino Dolce Grattugiato
@@ -463,7 +463,7 @@ Mandorle Pelate
 Pesche
 Mascarpone
 Uovo Intero
-Polvere Di Caffè
+Polvere Di Caffï¿½
 Mandarini
 Fiori Eduli
 Coky Drink Boero
@@ -496,7 +496,7 @@ Erbe Aromatiche Fresche
 Filetti D''agnello
 Funghi Champignon
 Vino Marsala
-Carré D''agnello Da 400 G
+Carrï¿½ D''agnello Da 400 G
 Lardo Di Maiale
 Finocchietti Selvatici
 Farina 00
@@ -517,9 +517,9 @@ Polpa Di Agnello
 Formaggio Emmenthal
 Erbe Secche
 Limone (scorza Grattugiata)
-Carré D''agnello Interi
+Carrï¿½ D''agnello Interi
 Mollica Di Pane Fresco
-Carré Di Agnello Di 1200 G
+Carrï¿½ Di Agnello Di 1200 G
 Costine D''agnello
 Crema Al Tartufo
 Insalata Valeriana
@@ -529,7 +529,7 @@ Porro
 Aceto Balsamico Tradizionale
 Funghi Porcini Secchi
 Spalle Di Agnellino Da Latte (1000 G)
-Finocchietto Selvatico Già Spuntato
+Finocchietto Selvatico Giï¿½ Spuntato
 Polpa D''agnello
 Cipolle Affettate
 Yogurth
@@ -543,7 +543,7 @@ Carote
 Concentrato Di Pomodoro
 Pancetta
 Mix Di Erbe Fresche
-Minicarré D''agnello
+Minicarrï¿½ D''agnello
 Petto D''agnello A Pezzi
 Olive Greche Snocciolate
 Menta Essiccata
@@ -554,10 +554,10 @@ Agnello Magro
 Aneto
 Cosciotto D''agnello Di 1500 G
 Miele Fluido
-Carré D''agnello Disossato
+Carrï¿½ D''agnello Disossato
 Agnello In Pezzi
 Agnello A Piccoli Pezzi
-Mini Carré D''agnello
+Mini Carrï¿½ D''agnello
 Formaggio Roquefort
 Agnello Da Latte
 Finocchi Selvatici
@@ -585,7 +585,7 @@ Polenta Gialla
 Misticanza
 Bistecchine D''agnello
 Spalla D''agnello Di Circa 1000 G
-Carré D''agnello Scalzato
+Carrï¿½ D''agnello Scalzato
 Olive Taggiasche Denocciolate
 Mozzarella Di Bufala
 Olio Di Semi Di Girasole
@@ -628,10 +628,10 @@ Cervello Di Vitello
 Manzo Brasato (o Manzo Bollito)
 Noce Moscata Grattugiata
 Brodo (o Burro E Salvia)
-Brasato Già Cotto
+Brasato Giï¿½ Cotto
 Formaggio Robiola
 Farina Di Grano Duro
-Scampi Già Puliti
+Scampi Giï¿½ Puliti
 Bisque Di Crostacei
 Mozzarella Di Bufala Da 250 G
 Pomodorini Pachino Maturi
@@ -645,7 +645,7 @@ Ciauscolo
 Ricotta
 Formaggio Bra
 Nocciole Sgusciate
-Trippa Di Muncalè
+Trippa Di Muncalï¿½
 Broccoli Siciliani
 Salsicce Di Maiale
 Formaggio Toma
@@ -696,7 +696,7 @@ Amido Di Mais
 Aguglie Veraci
 Rosmarino Tritato
 Pomodori San Marzano
-Caffè Lavazza Club
+Caffï¿½ Lavazza Club
 Cognac Martell
 Crema D''ananas
 Bitter All''arancia
@@ -717,7 +717,7 @@ Ghiaccio Cristallino
 Succo Di Cedro
 Crema De Cassis
 Seltz Ghiacciato
-Caffè Espresso Illy
+Caffï¿½ Espresso Illy
 Batida De Coco
 Panna Montata
 Brandy Vecchia Romagna
@@ -733,7 +733,7 @@ Frutta Fresca Mista
 Cacao In Polvere
 Maraschino Stock
 Sciroppo Di Lampone
-Vino Spumante Prosecco Carpenè Malvolti
+Vino Spumante Prosecco Carpenï¿½ Malvolti
 Albicocche
 Gelato Alla Crema
 Albicocche Mature
@@ -768,7 +768,7 @@ Cardamomo
 Acqua Di Rose
 Vodka Smirnoff
 Vermouth Cinzano Dry
-Vermouth Martini Rosé
+Vermouth Martini Rosï¿½
 Seltz (o Soda Schweppes)
 Ron Pampero White
 Sprite
@@ -807,16 +807,16 @@ Crema Di Latte Fresca
 Jameson Irish Whisky
 Artic Vodka E Menta
 Ramazzotti Menta
-Liquore Al Caffè
+Liquore Al Caffï¿½
 Crema Cacao Scura Stock
 Crema Di Menta Grigia
-Crema Di Caffè
-Gala Caffè Stock
+Crema Di Caffï¿½
+Gala Caffï¿½ Stock
 Crema Di Banana
 Ananas Centrifugato
 Creme De Cassis
 Vino Spumante Pinot Bianco Dell''alto Adige Brut Della Staffa
-Père Blanc
+Pï¿½re Blanc
 Vermouth Secco
 Marmellata
 Bitter Rossi
@@ -884,7 +884,7 @@ Pancetta Tagliata Spessa
 Infuso Di Menta
 Sciroppo Di Zucchero
 Aperitivo Rossi
-Crème Di Menta Bianca
+Crï¿½me Di Menta Bianca
 Gazzosa
 Alzavole
 Limoncello
@@ -904,7 +904,7 @@ Mandorle Dolci
 Mandorle Sbucciate
 Ostia
 Cioccolata Fondente
-Polvere Di Caffè Solubile
+Polvere Di Caffï¿½ Solubile
 Cannella E Chiodi Di Garofano
 Pectina
 Farina Bianca
@@ -924,7 +924,7 @@ Succo Di Limone Non Zuccherato
 Rabarbaro
 Sciroppo Di Menta
 Vermouth Chinato
-Sommità Fiorita Di Achillea
+Sommitï¿½ Fiorita Di Achillea
 Alcool Neutro A 96 Gradi
 Bacche Di Ginepro
 Aghi Di Rosmarino
@@ -1050,8 +1050,8 @@ Anatra Da 1000 G
 Zenzero (fetta Tagliuzzata)
 Vino Di Riso (o Sherry Secco)
 Corteccia Di Cassia
-Tè In Infusione
-Foglie Di Tè Cinese
+Tï¿½ In Infusione
+Foglie Di Tï¿½ Cinese
 Anatra Di 2500 G Pronta Per La Cottura
 Uva Bianca
 Anatra Di 900 G Pronta Per La Cottura
@@ -1108,12 +1108,12 @@ Anatra Di 1400 G
 Aceto Aromatico
 Passato Di Pomodoro
 Gamberi
-Olive Verdi Già Snocciolate
+Olive Verdi Giï¿½ Snocciolate
 Salsa Di Pomodoro Fatta In Casa
 Pancetta Affumicata
 Anatra Selvatica Di 1000 G
 Anatroccoli Selvatici
-Croisé
+Croisï¿½
 Vino Marsala Secco Extra
 Pancetta Stufata Tagliata A Strisce
 Cipolla Media Tagliata
@@ -1129,7 +1129,7 @@ Vino Spumante Asti
 Rimbeergeist Schladerer
 Polpa Di Banana
 Ventresca Di Maiale
-Vino Spumante Brut Rosé Champenois Carpenè Malvolti
+Vino Spumante Brut Rosï¿½ Champenois Carpenï¿½ Malvolti
 Gin Bosford
 Spremuta Di Pompelmo
 Pasta Tipo Anelli Siciliani
@@ -1161,7 +1161,7 @@ Brodo Di Pollo
 Marmellata Di Albicocche
 Zenzero Fresco Grattugiato
 Mandorle Sgusciate E Pelate
-Caffè In Polvere
+Caffï¿½ In Polvere
 Canasta
 Filetti Di Pesce Persico
 Colatura Di Acciughe
@@ -1227,7 +1227,7 @@ Finocchio Selvatico
 Amido Di Mais (maizena)
 Anguria
 Anguria Di 2000 G
-Vino Spumante Brut Rosé Carpanè Malvolti
+Vino Spumante Brut Rosï¿½ Carpanï¿½ Malvolti
 Gassosa Schweppes Freddissime
 Polpa D''anguria
 Limone Spremuto
@@ -1241,7 +1241,7 @@ Vol-au-vent
 Lingua
 Semi Di Anice Verde
 Succo D''arancia Bluebird
-Vino Spumante Chardonnay Carpenè Malvolti Freddissimo
+Vino Spumante Chardonnay Carpenï¿½ Malvolti Freddissimo
 Mandarini (succo)
 Arancia Tagliata A Fettine
 Coscia D''agnello Tagliata A Fette
@@ -1276,12 +1276,12 @@ Cipolline Sott''aceto
 Funghetti Sott''olio
 Peperoncini Interi Sott''aceto
 Carciofini Sott''olio
-Pancarré A Fette
+Pancarrï¿½ A Fette
 Polpa Di Pomodoro In Scatola
 Olio Extra Vergine D''oliva
 Pepe Di Caienna
 Barbabietola Piccola Cotta Al Forno
-Insalata Russa Già Pronta
+Insalata Russa Giï¿½ Pronta
 Sedano (coste Sbollentate E Lasciate Raffreddare)
 Carote Crude Raschiate E Grattugiate Fini
 Sardine Sott''olio
@@ -1332,13 +1332,13 @@ Pompelmo Rosa
 Cozze
 Seppioline
 Polipi
-Gamberetti Già Sgusciati
+Gamberetti Giï¿½ Sgusciati
 Peperone Giallo Sott''olio
 Dentice Di 300 G
 Moscardini (piccoli Polipi)
 Uovo Sodo
 Peperone Sott''olio
-Tonno Sott‘olio
+Tonno Sottï¿½olio
 Cefalo Di 300 G
 Mele Granny Smith
 Formaggio Gorgonzola Piccante
@@ -1368,7 +1368,7 @@ Formaggio Fontina
 Formaggio Gorgonzola Dolce Molto Cremoso
 Fettine Di Storione Affumicato O Bollito
 Fettine Sottili Di Salmone Affumicato
-Pancarré Grigliato
+Pancarrï¿½ Grigliato
 Insalata Soncino
 Cipolla Piccola Finemente Tritata
 Uovo Sodo Tritato
@@ -1403,7 +1403,7 @@ Scatola Di Salmone Da 150 G
 Panini Raffermi
 Succo Di Pomodoro
 Lardo Tagliato A Fettine Sottili
-Caffè Lavazza Zuccherato
+Caffï¿½ Lavazza Zuccherato
 Cognac Martell V. S. O. P.
 Rum Havana Club Chiaro
 Ciliegine Al Maraschino
@@ -1454,7 +1454,7 @@ Liquore All''albicocca
 Albicocche Mature Senza Nocciolo
 Succo Di Lime
 Succo D''albicocca
-Caffè Macinato
+Caffï¿½ Macinato
 Aragoste Di Circa 600 G Ognuna
 Aragoste (800 G L''una)
 Aragoste Da 600 G Ognuna
@@ -1547,7 +1547,7 @@ Carne Di Vitello Tritata
 Formaggio Parmigiano Reggiano Grattugiato
 Strutto (o Olio D''oliva)
 Riso Semifino
-Ragù Di Carne
+Ragï¿½ Di Carne
 Pisellini Freschi (o Pisellini Surgelati)
 Formaggio Pecorino Fresco
 Formaggio Pecorino Siciliano
@@ -1567,7 +1567,7 @@ Sella Di Coniglio
 Mele Essiccate
 Noci Secche
 Datteri Secchi Denocciolati
-Vermouth Cinzano Rosé
+Vermouth Cinzano Rosï¿½
 Akvavit
 Gin Gilbey''s
 Amaro Cora
@@ -1575,9 +1575,9 @@ Fettina D''arancia
 Fettina Di Pompelmo
 Succo Di Pera Derby Blue
 Sciroppo Di Menta Fabbri
-Vino Spumante Brut Champenois Carpenè Malvolti
+Vino Spumante Brut Champenois Carpenï¿½ Malvolti
 Inca Pisco
-Caffè Zuccherato
+Caffï¿½ Zuccherato
 Aringa Affumicata
 Aringhe Affumicate In Filetti
 Filetti Di Aringa Affumicata
@@ -1597,11 +1597,11 @@ Pane Nero
 Pomodori Datterino
 Arista Di Maiale
 Finocchi Piccoli
-Arista Già Cotta
+Arista Giï¿½ Cotta
 Cipolline Pelate
 Mele Miste
 Mela Golden
-Carré Di Maiale Con L''osso
+Carrï¿½ Di Maiale Con L''osso
 Cipolla A Fettine
 Mele A Fettine
 Prugne Secche Denocciolate
@@ -1614,7 +1614,7 @@ Zucchine Trombette
 Pancetta Arrotolata
 Peperone Secco
 Amaro Ramazzotti
-Caffè Nero Freddo
+Caffï¿½ Nero Freddo
 Succo Di Mele
 Artic Vodka E Pesca
 Kiwi Drink Boero
@@ -1644,7 +1644,7 @@ Latte Scremato
 Magatello Di Vitello
 Brodo Caldo
 Arrosto Di Codino Di Vitello
-Paté Di Fegato
+Patï¿½ Di Fegato
 Noce Di Vitello
 Arrosto Di Vitello
 Sottospalla Di Vitello
@@ -1680,7 +1680,7 @@ Trancio Di Prosciutto Cotto
 Pane Bagnato Nel Latte
 Dorso Di Maiale Disossato
 Succo D''uva Fresco
-Caffè Forte
+Caffï¿½ Forte
 Salsa Inglese
 Mostarda
 Estratto Di Carne
@@ -1754,8 +1754,8 @@ Fette Di Prosciutto Cotto Di 70 G Ognuna
 Fetta Di Pancetta Tesa Di 70 G Circa
 Vitellone Preparato Dal Macellaio
 Cetrioli Sott''aceto
-Fagioli Già Ammollati
-Piselli Già Ammollati
+Fagioli Giï¿½ Ammollati
+Piselli Giï¿½ Ammollati
 Farina Di Ceci
 Sella Di Coniglio (circa 800 G)
 Cipolla Media Tritata
@@ -1959,10 +1959,10 @@ Uvetta Di Smirne
 Uvetta Di Corinto
 Farina Americana
 Rum Bruno
-Babà Non Imbevuto Da 300 G
-Babà Senza Liquore
+Babï¿½ Non Imbevuto Da 300 G
+Babï¿½ Senza Liquore
 Frutta Secca Tritata (noci, Pinoli, Mandorle, Uvetta Sultanina)
-Mini Babà
+Mini Babï¿½
 Melanzane Grandi
 Tahin (pasta Di Grani Di Sesamo)
 Semi Di Cumino Pestati
@@ -1971,30 +1971,30 @@ Light Bacardi
 Golden Bacardi
 Rum Bacardi Bianco
 Advockaat
-Filetti Di Baccalà Ammollato
+Filetti Di Baccalï¿½ Ammollato
 Peperone Macinato Secco
-Filetto Di Baccalà
+Filetto Di Baccalï¿½
 Fagioli Corallo
 Patate Lessate
-Baccalà Già Bagnato In Un Unico Filetto
+Baccalï¿½ Giï¿½ Bagnato In Un Unico Filetto
 Origano Fresco
-Baccalà Bagnato
-Baccalà Già Ammollato
+Baccalï¿½ Bagnato
+Baccalï¿½ Giï¿½ Ammollato
 Sedano Rapa Piccolo
 Pomodoro Secco
 Basilico In Foglie
-Baccalà Spugnato
-Trancio Di Baccalà
+Baccalï¿½ Spugnato
+Trancio Di Baccalï¿½
 Couscous
 Fave Sgusciate
-Filetto Di Baccalà Bagnato Da 1000 G
+Filetto Di Baccalï¿½ Bagnato Da 1000 G
 Polenta Istantanea
 Platano
 Friggitelli
 Pane In Fette
 Uva Passa
 Candito Tritato
-Baccalà (pezzi Da 125 G)
+Baccalï¿½ (pezzi Da 125 G)
 Menta Fresca Marocchina (naa Naa)
 Pepe Bianco Macinato Fresco
 Pomodori Ciliegina
@@ -2002,7 +2002,7 @@ Cetriolini E Peperoncini Dolci Sott''aceto
 Olive Nere E Verdi
 Riso Lessato
 Acciughe Sotto Sale Lavate, Sfilettate E Pestate
-Stoccafisso Già Ammollato
+Stoccafisso Giï¿½ Ammollato
 Stoccafisso (ragno)
 Cipolle Bianche (o Cipolle Bionde)
 Acciughe Dissalate Diliscate
@@ -2016,7 +2016,7 @@ Peperoni Gialli Carnosi
 Peperone Quadrato Rosso
 Peperone Quadrato Giallo
 Basilico Napoletano
-Baccalà Salato Ammollato
+Baccalï¿½ Salato Ammollato
 Cipolle Tagliate A Rondelle
 Patate Bollite E Tagliate A Cubetti Di 2,5 Cm Di Lato
 Pepe Nero Macinato Al Momento
@@ -2030,7 +2030,7 @@ Cipolla Di Tropea
 Peperoni Secchi
 Pomodori Grappolo Maturi
 Patate Viola
-Baccalà A Pezzi Grandi
+Baccalï¿½ A Pezzi Grandi
 Brodo (o Vino Bianco)
 Polenta Abbrustolita
 Spinaci Surgelati
@@ -2061,23 +2061,23 @@ Capperi Sotto Sale Sciacquati
 Uvetta Sultanina Ammollata E Scolata
 Sale (eventuale)
 Pasta Sfoglia Rettangolare
-Baccalà Dissalato
+Baccalï¿½ Dissalato
 Nocciole Del Piemonte
-Filetto Di Baccalà Dissalato
+Filetto Di Baccalï¿½ Dissalato
 Insalatina Di Campo
 Pomodori Del Pendolo
-Baccalà Già Bagnato E Dissalato
-Trancio Di Baccalà Dissalato Da 400 G
+Baccalï¿½ Giï¿½ Bagnato E Dissalato
+Trancio Di Baccalï¿½ Dissalato Da 400 G
 Cime Di Broccolo Siciliano
 Insalata Catalogna
 Cipolla Affettata
 Sale (facoltativo)
-Filetto Di Baccalà Di 700 G
+Filetto Di Baccalï¿½ Di 700 G
 Peperoni Piccoli Sott''aceto
 Pinoli (bustine Da 40 G)
 Mollica Di Pane Casereccio
 Farina Di Grano Saraceno
-Baccalà Ammollato Senza Pelle E Spine
+Baccalï¿½ Ammollato Senza Pelle E Spine
 Bieta A Costa Larga
 Polenta Precotta
 Mais Precotto
@@ -2175,7 +2175,7 @@ Noce Di Cocco Grattugiata
 Christina Bros Brandy
 Crema Di Banana Bols
 Biscotti Secchi Tipo ''marie''
-Caffè Lungo Freddo
+Caffï¿½ Lungo Freddo
 Banane Mature Tagliate In Senso Longitudinale
 Cardamomo Di Canna
 Cardamomo (semi Triturati)
@@ -2212,7 +2212,7 @@ Besciamella Fluida
 Barbabietole Rosse
 Rum A 75 Gradi
 Cedri A Fettine
-Caffè Ristretto
+Caffï¿½ Ristretto
 Vodka Moskovskaya
 Stradivari Della Florio
 Vino Porto Rosso (vino Rosso Porto)
@@ -2250,7 +2250,7 @@ Curcuma
 Sedano Bianco Grande
 Formaggio Caprino Fresco
 Tartufo Nero (facoltativo)
-Pasta Brisée Surgelata
+Pasta Brisï¿½e Surgelata
 Uova Di Salmone
 Zucchine Piccole
 Vinaigrette
@@ -2259,8 +2259,8 @@ Basilico Tritato
 Zucchine (400 G)
 Polpa Di Pomodoro A Pezzi
 Zucchine Grandi
-Barchette Di Pasta Brisée
-Paté Di Prosciutto O Di Tonno
+Barchette Di Pasta Brisï¿½e
+Patï¿½ Di Prosciutto O Di Tonno
 Avanzi Di Pesce Bollito O Grigliato
 Liquore Maraschino
 Peppermint Schnapps
@@ -2327,7 +2327,7 @@ Polvere Di Cacao Amaro
 Polpa Di Cervo
 Lampascioni Sott''olio
 Pezza Di Manzo
-Paté Di Lardo
+Patï¿½ Di Lardo
 Filetto Di Branzino
 Mix Di Erbette (menta, Barba Di Finocchio, Prezzemolo)
 Ricotta Affumicata
@@ -2363,7 +2363,7 @@ Olio Inodore
 Marrons
 Estratto Di Fiori D''arancio
 Panna Montata Dolcificata
-Chicchi Di Caffè
+Chicchi Di Caffï¿½
 Glassa Al Cioccolato (v. Ricetta)
 Bianchi D''uovo
 Acqua Minerale Gassata
@@ -2383,7 +2383,7 @@ Latte Freddo
 Crema Di Latte Freschissima
 Gelatina In Fogli
 Fragole Molto Mature
-Caffè Liofilizzato
+Caffï¿½ Liofilizzato
 Tia Maria
 Fragole Fresche
 Crema Inglese
@@ -2397,8 +2397,8 @@ Cachi
 Succo Di Mandarino Filtrato
 Mandarini (scorza)
 Panpepato (o Panforte)
-Marrons Glacés A Pezzi
-Marrons Glacés Interi
+Marrons Glacï¿½s A Pezzi
+Marrons Glacï¿½s Interi
 Salsa Ketchup
 Polpa Di Trota
 Fumetto Di Pesce
@@ -2487,7 +2487,7 @@ Pesca Piccola
 Cherry Heering
 Fettine D''arancia Sottilissime
 Doppio Kummel
-Tè Di Gelsomino
+Tï¿½ Di Gelsomino
 Falerno
 Limoni A Fette Sottili
 Noci Spezzate
@@ -2507,7 +2507,7 @@ Senape Dolce
 Farina Integrale
 Brodo Vegetale (o Acqua)
 Pepe Bianco (facoltativo)
-Acqua Di Cottura Del Cavolfiore (già Salata)
+Acqua Di Cottura Del Cavolfiore (giï¿½ Salata)
 Yogurth Compatto
 Sciroppo D''ananas
 Ron Bacardi
@@ -2540,7 +2540,7 @@ Amido In Polvere
 Latte Di Mandorla
 Crema Cacao De Kuiper
 Cognac Hennessy
-Caffè In Grani
+Caffï¿½ In Grani
 Limoni (scorza Grattugiata E Succo)
 Ananas Sciroppato Da 500 G
 Arancia Pelata A Vivo Privata Dei Semi
@@ -2560,27 +2560,27 @@ Bieta Selvatica
 Pomodorini Maturi E Sodi
 Biete
 Pasta Tipo Bifore
-Limone Tagliati A Metà
+Limone Tagliati A Metï¿½
 Bignole Ripiene Di Crema E Zabaglione
 Cioccolata In Pezzi
 Bignole Salate Piccole
 Ciliegie Ben Mature
 Pastella Per Friggere
-Bignè Grandi
-Bignè Vuoti
+Bignï¿½ Grandi
+Bignï¿½ Vuoti
 Tamarillo
 Tamarindo
 Ricotta Romana
 Pasta Di Tartufo
 Panna Pronta (buste Da 500 G)
 Limoni Grattugiati
-Bignè Piccoli
+Bignï¿½ Piccoli
 Lievito Pizzaiolo
 Formaggio Fresco Spalmabile
 Paprica Dolce In Polvere
 Giardiniera Sott''aceto
 Polpa D''aragosta In Scatola
-Pastella Per Bignè
+Pastella Per Bignï¿½
 Panna Fresca Da Montare
 Frutta Secca Mista
 Cavolfiore Di 600 G
@@ -2593,7 +2593,7 @@ Zucchero A Velo Vanigliato
 Albumi D''uovo Montati A Neve
 Scampi Di 45 G Ognuno
 Scampi Di 40 G Ognuno
-Bignè Acquistati Già Pronti
+Bignï¿½ Acquistati Giï¿½ Pronti
 Salsa Tonnata
 Formaggio Fontina Della Val D''aosta
 Uova Freschissime
@@ -2626,7 +2626,7 @@ Pomodoro A Pezzetti
 Pasta Tipo Bigoli Integrali
 Sarde Sotto Sale
 Pasta Tipo Bigoli Fatti A Mano
-Cachaca Nù Ga Ful
+Cachaca Nï¿½ Ga Ful
 Carne Di Manzo Lessata E Affettata
 Patate Sbucciate Lessate A Dadini
 Uova Fritte
@@ -2659,11 +2659,11 @@ Anguilla Grande
 Burro Non Salato A Temperatura Ambiente
 Uovo Grande
 Bicarbonato Di Soda
-Caffè Espresso Denso
+Caffï¿½ Espresso Denso
 Cioccolato In Scaglie
 Polvere Di Cardamomo
 Curacao Blue
-Burro (o Metà Di Mais)
+Burro (o Metï¿½ Di Mais)
 Cannella In Polvere (facoltativo)
 Lievito In Polvere Per Dolci
 Cioccolato Amaro Spezzettato
@@ -2723,7 +2723,7 @@ Mandorle Senza Pelle Sminuzzate
 Chiodi Di Garofano Ridotti In Polvere
 Diavolini
 Mandorle Non Pelate
-Caffè Solubile Liofilizzato
+Caffï¿½ Solubile Liofilizzato
 Gocce Di Cioccolata
 Burro (o Sugna O Margarina)
 Latte Tiepido
@@ -2737,11 +2737,11 @@ Semi D''anice
 Mandorle Sgusciate Con Pelle
 Noci Sgusciate E Tritate
 Zucchero Greggio Di Canna
-Caffè Liofilizzato Sciolto In 2 D''acqua
+Caffï¿½ Liofilizzato Sciolto In 2 D''acqua
 Essenza Di Limone
 Perline Argentate Di Zucchero
 Pasta Di Mandorle (marzapane)
-Mistrà
+Mistrï¿½
 Burro Per La Piastra
 Uvetta Sultanina Tritata
 Latte (eventuale)
@@ -2822,7 +2822,7 @@ Mollica Di Pane Bagnata Nel Latte E Strizzata
 Carne Magra Di Vitello
 Fette Di Polpa Di Manzo
 Malto D''orzo In Grani
-Tè Forte
+Tï¿½ Forte
 Bitter Campari Ghiacciato Da Freezer
 Seltz Freddissimo
 Arancia (facoltativo)
@@ -2835,7 +2835,7 @@ Cioccolato Liquido
 Panna Semimontata
 Mount Gay Rum
 Cognac Gaston De Lagrange
-Caffè Lavazza Club Molto Caldo
+Caffï¿½ Lavazza Club Molto Caldo
 Himbergheist
 Sciroppo Di Zucchero Di Canna
 Crema Cacao Bianca De Kuyper
@@ -2844,15 +2844,15 @@ Gelato Alla Nocciola
 Vodka Original Francoli
 Ron Pampero Anejo
 Cioccolatino
-Caffè Freddo
+Caffï¿½ Freddo
 Blackberry
-Caffè Lavazza Top Class
+Caffï¿½ Lavazza Top Class
 Rum Rosso Di Giamaica
-Rum Saint James Ambrè
+Rum Saint James Ambrï¿½
 Polvere Di Cioccolato
 Kirsh
-Liquore Al Caffè Scuro
-Brandy Aromatizzato Al Caffè
+Liquore Al Caffï¿½ Scuro
+Brandy Aromatizzato Al Caffï¿½
 Cioccolata Calda
 Rum Bianco Capitan Morgan
 Birra Scura Fresca
@@ -2986,13 +2986,13 @@ Biscotti Tarallucci
 Noce Di Vitellone
 Peperoni Gialli Spellati
 Filetto Di Cinta Senese
-Pasta Sfoglia Già Pronta
+Pasta Sfoglia Giï¿½ Pronta
 Cipollotto Tritato
 Confettura D''uva
 Ciliegina Al Maraschino (facoltativo)
 Ciliegie Sotto Spirito
 Vino Marc De Champagne Pommery
-Caffè Lavazza Club Con Miele
+Caffï¿½ Lavazza Club Con Miele
 Crema Doppia
 Pasta Tipo Gnocchetti
 Burro Per La Piastra Del Forno
@@ -3115,7 +3115,7 @@ Pasta Da Pane Lievitata
 Coppa Di Testa
 Zia Ferrarese (salame All''aglio)
 Fettine Di Vitella
-Bénédictine
+Bï¿½nï¿½dictine
 Curacao Extrasecco
 Seltz Al Limone Ghiacciato
 Soda (o Ginger Ale)
@@ -3242,7 +3242,7 @@ Filetto Di Branzino Da 300 G
 Branzino Da 1000 G
 Filetti Di Branzino Da 120 G Ognuno
 Timo Ed Erba Cipollina
-Branzini Da 200 G Ognuno Già Puliti
+Branzini Da 200 G Ognuno Giï¿½ Puliti
 Erbe Aromatiche (maggiorana, Timo, Erba Cipollina)
 Mozzarella Di Bufala Da 200 G
 Sherry (o Vino Bianco)
@@ -3253,7 +3253,7 @@ Carne Di Manzo Magra
 Carne Di Vitello Poco Grassa
 Spalla Di Manzo
 Piedini Di Maiale
-Uvetta Sultanina Ammorbidita Nel Tè
+Uvetta Sultanina Ammorbidita Nel Tï¿½
 Carote Tagliate A Rondelle
 Sedano Rapa Tagliato A Dadini
 Spicchio D''aglio Schiacciato
@@ -3282,12 +3282,12 @@ Roastbeef Di Manzo (pezzi Di 200 G)
 Speck Affumicato
 Cipolle Tagliate Fini
 Polpa Di Manzo (cappello Del Prete)
-Malibù
+Malibï¿½
 Ron Pampero Especial
 Fragola Mix Del Monte
 Mandarinetto 18 Isolabella
-Vino Spumante Brut Champenois Carpenè Malvolti Freddo
-Vino Spumante Prosecco Carpené Ghiacciato
+Vino Spumante Brut Champenois Carpenï¿½ Malvolti Freddo
+Vino Spumante Prosecco Carpenï¿½ Ghiacciato
 Yogurth Naturale Magro
 Fiocchi Di Noce Di Cocco Tostati
 Bresaola
@@ -3375,8 +3375,8 @@ Seppie Piccole
 Pomodori Poco Maturi
 Pesce (scorfano, Sogliola, Palombo, Razza, Coda Di Rospo (rana Pescatrice), Triglie, Pesce Lucerna, Seppie)
 Pesce Assortito (molluschi, Crostacei, Pesci Con Le Spine)
-Consommè Magro Bollente
-Consommè Magro Freddo
+Consommï¿½ Magro Bollente
+Consommï¿½ Magro Freddo
 Dado Vegetale
 Brodo Di Manzo
 Pasta Tipo Tagliolini All''uovo
@@ -3427,7 +3427,7 @@ Salsicce Di Carne Di Maiale
 Formaggio Fontina (fette Molto Sottili)
 Pomodori Da Insalata Maturi
 Olive Nere Al Forno
-Paté Di Olive
+Patï¿½ Di Olive
 Salsa Arissa
 Pane Bruscato
 Rughetta Selvatica
@@ -3494,7 +3494,7 @@ Melanzane Sott''aceto
 Pomodori Tagliati Finemente
 Cipolloni
 Carpaccio Di Salmone Fresco
-Ceci Già Lessati Con Un Rametto Di Rosmarino
+Ceci Giï¿½ Lessati Con Un Rametto Di Rosmarino
 Fiore Di Aglio Orsino
 Ricotta Doppia Crema
 Salame Piccante Calabrese
@@ -3549,7 +3549,7 @@ Formaggio Pecorino Sardo Grattugiato
 Formaggio Treccia Di Bufala
 Funghi Porcini Freschi
 Bergamotto
-Paté Di Olive Nere
+Patï¿½ Di Olive Nere
 Filetti Di Sarde
 Sarde Fresche Deliscate
 Cipolla Rossa Di Tropea
@@ -3590,24 +3590,24 @@ Wheat Cream
 Acqua (vedi Dosi Su Scatola Wheat Cream)
 Zucchero Scuro (possibilmente Fino)
 Zucchero Per Il Caramello Dello Stampo
-Caffè Ben Forte
+Caffï¿½ Ben Forte
 Succo Di Lime (o Succo Di Limoni Verdi)
 Sciroppo Di Lamponi (o D''altra Frutta)
 Biscottini Secchi
-Caffè D''orzo Piuttosto Forte
+Caffï¿½ D''orzo Piuttosto Forte
 Fiocchi Di Agar-agar
 Mandorle Eventualmente Miste A Nocciole
 Sciroppo Alla Menta
 Liquore Alla Vaniglia
-Mandorle Dolci Già Pelate
+Mandorle Dolci Giï¿½ Pelate
 Pesche Gialle
-Terrina Di Caffè Ristretto
+Terrina Di Caffï¿½ Ristretto
 Pangrattato Per Lo Stampo
 Pane In Cassetta A Fette
-Caffè Piuttosto Forte
+Caffï¿½ Piuttosto Forte
 Biscotti Amaretti Interi Per Guarnizione
 Noci (gherigli Per Guarnizione Finale)
-Pancarré Raffermo
+Pancarrï¿½ Raffermo
 Tuorli D'' Uovo
 Albumi D'' Uovo Montati
 Limone (scorza Gialla Grattugiata)
@@ -3692,16 +3692,16 @@ Salsa Blue Cheese
 Vodka Glaciale Keglevich Neutra
 Ciliegina Candita
 Insalata Rossa
-Consommè Concentrato Di Carne
-Consommè Freddo
-Consommè Di Manzo
+Consommï¿½ Concentrato Di Carne
+Consommï¿½ Freddo
+Consommï¿½ Di Manzo
 Per Servire.
 Sciroppo D''anice
 Scorza Di Pompelmo
 Pesce Assortito (coda Di Rospo (rana Pescatrice), Rombo, Scorfani, Triglie)
 Calamaretti E Seppioline
 Pomodori Maturi Freschi
-Stoccafisso Già Bagnato
+Stoccafisso Giï¿½ Bagnato
 Whisky Di Malto
 Select Pilla
 Latte (o Panna Liquida)
@@ -3771,47 +3771,47 @@ Insalata Iceberg
 Formaggio Pecorino A Scagliette
 Formaggio Parmigiano A Scagliette
 Cioccolato (tavolette Di 100 G)
-Caffè Forte Non Zuccherato
-Caffè Caldo
+Caffï¿½ Forte Non Zuccherato
+Caffï¿½ Caldo
 Scorza D''arancia Finemente Grattugiata
-Caffè Molto Forte Non Zuccherato
-Caffè Bollente
+Caffï¿½ Molto Forte Non Zuccherato
+Caffï¿½ Bollente
 Arance (scorza)
 Panna Liquida (o Panna Montata)
 Acquavite Di Ginepro Olandese
 Rum Negrita
 Mammuth
-Caffè Lavazza Caldo E Zuccherato
+Caffï¿½ Lavazza Caldo E Zuccherato
 Rum 75 Gradi
-Caffè Ristretto Zuccherato
+Caffï¿½ Ristretto Zuccherato
 Cioccolata Bollente
-Caffè Forte Caldo
+Caffï¿½ Forte Caldo
 Cacao Bollente
-Caffè Molto Forte Bollente
-Polvere Di Caffè Finissima
+Caffï¿½ Molto Forte Bollente
+Polvere Di Caffï¿½ Finissima
 Arancia (o Limone)
-Caffè Espresso Forte
+Caffï¿½ Espresso Forte
 Rum Invecchiato
 Liquore Mammuth
-Caffè Espresso Zuccherato
-Caffè Espresso Zuccherato Bollente
+Caffï¿½ Espresso Zuccherato
+Caffï¿½ Espresso Zuccherato Bollente
 Zucchero Sciroppato
-Caffè Freddo Leggermente Zuccherato
+Caffï¿½ Freddo Leggermente Zuccherato
 Cannella (o Cannella In Polvere)
-Caffè Appena Macinato
+Caffï¿½ Appena Macinato
 Liquore All''uovo
-Caffè Macinato Fino
+Caffï¿½ Macinato Fino
 Pimento (pepe Garofanato)
 Nocciole Tostate E Spezzettate
-Caffè Espresso Ristretti
-Caffè (metà Moka E Metà Portorico)
-Caffè Crudo
+Caffï¿½ Espresso Ristretti
+Caffï¿½ (metï¿½ Moka E Metï¿½ Portorico)
+Caffï¿½ Crudo
 Artic Silver
 Orzata Sacco
 Papaia Drink Boero
-Caffè Forte Bollente
-Caffè Solubile Istantaneo
-Caffè Ristretto Bollente
+Caffï¿½ Forte Bollente
+Caffï¿½ Solubile Istantaneo
+Caffï¿½ Ristretto Bollente
 Peperoncino Jalapeno Fresco
 Cipolline Da Cocktail
 Scorze Di Arance O Cedro Candito
@@ -3821,7 +3821,7 @@ Zucchine Col Fiore
 Pere (circa 2)
 Cioccolato Fondente Amaro
 Pasta Tipo Pasta Calamarata
-Calamaretti Già Puliti
+Calamaretti Giï¿½ Puliti
 Germogli Misti
 Pane (filoncino)
 Crostoni Di Pane Fritto
@@ -3829,7 +3829,7 @@ Calamari (pasta)
 Calamari Grandi
 Anelli E Ciuffi Di Calamari Surgelati (confezioni Di 300 G)
 Calamari Svuotati E Spellati
-Calamari Già Svuotati E Spellati
+Calamari Giï¿½ Svuotati E Spellati
 Insalata Riccia (o Insalata Novella)
 Calamari Freschi
 Calamari Ad Anelli
@@ -3838,15 +3838,15 @@ Code Di Gamberoni Sgusciate
 Compressa Di Gelatina Da 50 Cl
 Cuori Di Carciofi Findus
 Vino Passito
-Funghi Porcini Secchi Già Ammollati In Acqua Tiepida
+Funghi Porcini Secchi Giï¿½ Ammollati In Acqua Tiepida
 Polenta Gialla Istantanea
 Acciughetta Salata
-Cozze Già Sgusciate
-Pancarré Ammollato
+Cozze Giï¿½ Sgusciate
+Pancarrï¿½ Ammollato
 Calamari Medi
 Olive Nere Di Gaeta
 Code Di Gamberi Sgusciate
-Gamberetti Già Puliti
+Gamberetti Giï¿½ Puliti
 Calamari Freschissimi Da 250 G Ciascuno
 Capperi Salati (o Capperi Sott''aceto)
 Pinoli Sgusciati
@@ -3896,8 +3896,8 @@ Gamberoni Freschi
 Avocado Pelati E Affettati Sottilissimi
 Insalata Lattuga Mondata E Pulita
 Cipolla Piccola Tritata Finemente
-Aglio Diviso A Metà
-Avocado Tagliati A Metà
+Aglio Diviso A Metï¿½
+Avocado Tagliati A Metï¿½
 Pomodoro Sminuzzato
 Sciroppo Di Papaia
 Whisky Scozzese
@@ -3909,19 +3909,19 @@ Fragola Mixybar
 Prosciutto Crudo Fresco
 Fiori Di Zucchine
 Blended Whisky
-Pancarré Da 500 G
+Pancarrï¿½ Da 500 G
 Caviale Freschissimo
-Pancarré Integrale
+Pancarrï¿½ Integrale
 Mandorle Abbrustolite
 Anguilla Affumicata
 Coda D''aragosta Piccola Lessata
 Pane Da Cassetta Da 500 G
-Paté Di Fegato D''oca
+Patï¿½ Di Fegato D''oca
 Gelatina Tritata
 Ovoline Di Bufala
 Formaggio Provoline Di Bufala
 Fagianella Arrostita
-Paté Di Foie Gras
+Patï¿½ Di Foie Gras
 Formaggio Fontina Tagliato A Fette
 Gamberi Con Il Guscio
 Sottilette Di Formaggio
@@ -3961,7 +3961,7 @@ Brodo Di Gallina
 Zafferano (facoltativo)
 Vino Cotto
 Miele Raffinato
-Sugo D''agnello (o Ragù Di Maiale)
+Sugo D''agnello (o Ragï¿½ Di Maiale)
 Cannelloni (pasta Tipo Cannelloni)
 Carciofi Grandi
 Peperone Giallo Dolce
@@ -3972,8 +3972,8 @@ Seitan
 Olio Di Girasole
 Mollica Di Pane Raffermo Imbevuta Nel Latte Di Soia E Strizzata
 Pasta Tipo Pasta All''uovo
-Pasta Per Cannelloni Già Pronta
-Carne Di Pollo Già Cotta
+Pasta Per Cannelloni Giï¿½ Pronta
+Carne Di Pollo Giï¿½ Cotta
 Cervella D''agnello (cervella Di Vitello)
 Salsa Spagnola
 Cannelloni All''uovo
@@ -4004,7 +4004,7 @@ Sfoglia Di Pasta All''uovo
 Formaggio Galbanino
 Formaggio Bel Paese
 Pasta Tipo Cannelloni Preconfezionati
-Pasta Fresca Già Pronta
+Pasta Fresca Giï¿½ Pronta
 Pasta Tipo Pasta Verde Per Lasagne
 Formaggio Delizia
 Sciroppo D''amarena
@@ -4126,7 +4126,7 @@ Cipolle Novelle
 Formaggio Caciotta Secca Grattugiata
 Pasta Tipo Mezze Penne
 Cappello Del Prete
-Ragù D''agnello (o Ragù Di Maiale)
+Ragï¿½ D''agnello (o Ragï¿½ Di Maiale)
 Mosciame Di Tonno
 Galletta Da Marinaio
 Aragosta Grande
@@ -4261,7 +4261,7 @@ Brodo Granulare Magro Knorr
 Acciughe Salate (facoltativo)
 Carciofi Romani Grandi
 Luganega (salsiccia)
-Formaggio Gruyère
+Formaggio Gruyï¿½re
 Carciofi Romaneschi Cimaroli
 Salame Tagliato A Pezzettoni
 Carciofi Uguali Abbastanza Grandi
@@ -4296,7 +4296,7 @@ Ananas Drink Boero
 Sour Drink Lemon Boero
 Vodka Rossa Boero
 Rum Mount Bay
-Rum St. James Ambrè
+Rum St. James Ambrï¿½
 Biscotto Friabile
 Zucchero Bruno Candito
 Birra Chiara Ale
@@ -4316,7 +4316,7 @@ Olio D''oliva Extra-vergine Molto Delicato
 Riso A Chicchi Lunghi
 Olio Di Soia (o Olio D''oliva)
 Funghi Cinesi (o Funghi Champignon)
-Bambù
+Bambï¿½
 Cipolla (70 G)
 Pomodoro Pelato (150 G)
 Chili In Polvere
@@ -4341,7 +4341,7 @@ Trito Di Erbe (salvia, Rosmarino)
 Lardo Affumicato
 Radice Di Rafano (cren)
 Cavolfiore Tenero Di 600 G
-Pisellini Già Sgusciati
+Pisellini Giï¿½ Sgusciati
 Cipolline Bianche Fresche
 Carote E Piselli Misti
 Salsa Di Pomodoro Liquida
@@ -4418,9 +4418,9 @@ Olio D''oliva Extra-vergine Medio Fruttato
 Polipo Freschissimo
 Filetto Di Salmone Fresco
 Paprica In Polvere
-Carré Di Cinghiale
-Carré Di Maiale Disossato
-Carré Di Maiale Arrosto
+Carrï¿½ Di Cinghiale
+Carrï¿½ Di Maiale Disossato
+Carrï¿½ Di Maiale Arrosto
 Quadrato Di Maiale
 Rosmarino In Polvere
 Farina Integrale Di Frumento Setacciata
@@ -4453,7 +4453,7 @@ Pasta Tipo Caserecce Barilla
 Zucca Gialla
 Spinaci Bolliti
 Ripieno Di Salame
-Farina (più Quella Della Spianatoia)
+Farina (piï¿½ Quella Della Spianatoia)
 Formaggio Grana Grattugiato Al Momento
 Formaggio Taleggio Fresco
 Canditi Misti Tagliati A Dadini
@@ -4493,7 +4493,7 @@ Pesce Misto (scorfano, Cappone, Muggine, Orata, Anguilla, Seppia, Polipo, Granch
 Farina Di Castagne
 Rosmarino Fresco (facoltativo)
 Ramerino
-Uvetta Sultanina (stessa Quantità Dei Pinoli)
+Uvetta Sultanina (stessa Quantitï¿½ Dei Pinoli)
 Lievito Bertolini
 Castagne Secche Prive Di Bucce E Pellicine
 Castagne Secche Prive Di Buccia E Pellicine
@@ -4511,7 +4511,7 @@ Crema Di Menta Incolore
 Spezzatino D''agnello Castrato Disossato
 Carne D''agnello Castrato
 Peperoni Gialli Dolci
-Barbabietole Rosse Già Cotte
+Barbabietole Rosse Giï¿½ Cotte
 Pepe (o Peperoncino Rosso)
 Pancetta Fresca
 Formaggio Parmigiano In Scaglie
@@ -4530,8 +4530,8 @@ Piante Tenere Di Zucchine
 Barbi E Cavedani Freschissimi
 Farina Per Infarinare
 Caviale Malossol (o Caviale Beluga)
-Pancarré Leggermente Tostato (fette Tagliate A Metà Per Lungo)
-Burro Di Ottima Qualità
+Pancarrï¿½ Leggermente Tostato (fette Tagliate A Metï¿½ Per Lungo)
+Burro Di Ottima Qualitï¿½
 Limone A Spicchi
 Olive Nere Di Tipo Provenzale O Ligure
 Formaggio Lindenberger Grattugiato
@@ -4547,7 +4547,7 @@ Cavolfiore Medio-piccolo
 Semolino Di Grano Duro
 Olive Verdi E Olive Nere
 Cavolfiore Da 1200 G
-Baccalà Da 1200 G
+Baccalï¿½ Da 1200 G
 Cavolfiore Bianco Piccolo
 Cavolfiore Verde Piccolo
 Peperone Rosso In Salamoia
@@ -4593,8 +4593,8 @@ Cavolo Rosso Tritato Grossolanamente
 Aglio Affettato
 Conserva Di Pomodori
 Cavolo Verza Da 1000 G
-Ostriche A Volontà
-Ají Verde Tritato
+Ostriche A Volontï¿½
+Ajï¿½ Verde Tritato
 Cipolla Rossa Tagliata A Lamelle Sottili
 Ceci Secchi
 Bacon A Dadini
@@ -4660,7 +4660,7 @@ Capperi Senza Sale
 Cervelli D''agnello
 Zucchero Liquido
 Coco Lopez
-Polvere Di Caffè Lavazza
+Polvere Di Caffï¿½ Lavazza
 Carne Di Cervo
 Filopasta Surgelata
 Vol-au-vent Grandi
@@ -4674,8 +4674,8 @@ Tartine Al Latte
 Panini Rotondi All''olio Piccoli
 Salsa Di Pomodoro Piccante
 Carne In Scatola In Gelatina
-Tartellette Di Pasta Brisée Salata
-Pasta Sfoglia Già Stesa
+Tartellette Di Pasta Brisï¿½e Salata
+Pasta Sfoglia Giï¿½ Stesa
 Cipolla Dolce Piccola
 Peperone (oppure 3 Falde Di Peperoni Di Colori Diversi)
 Filetto D''acciughe Sott''olio
@@ -4711,7 +4711,7 @@ Vino Spumante Italiano
 Succo Di Limone Ghiacciato
 Funghi Champignon Puliti A Fette
 Funghi Champignon Affettati
-Cipolline Già Pulite
+Cipolline Giï¿½ Pulite
 Cerfoglio Tritato
 Funghi Champignon Grandi
 Funghi Champignon Grandi Freschi E Sodi
@@ -4737,11 +4737,11 @@ Cioccolata Fondente In Polvere
 Fecola Di Patate (o Maizena)
 Frutta Sciroppata (o Frutta Candita)
 Biscotti Savoiardi Medi
-Caffè Confetto
+Caffï¿½ Confetto
 Pane Di Miglio
 Acquavite Di Pere
 Biscotti Lingue Di Gatto
-Caffè Istantaneo (in 2 Cucchiai D''acqua)
+Caffï¿½ Istantaneo (in 2 Cucchiai D''acqua)
 Trucioli Di Cioccolato
 Fragole (o Lamponi)
 Ribes Nero Privato Dei Gambi
@@ -4750,7 +4750,7 @@ Colla Di Pesce In Polvere
 Grappolino Di Ribes Nero
 Scaglie Di Cioccolato
 Sorbetto Di Frutta (v. Ricetta)
-Nocciole Già Sgusciate
+Nocciole Giï¿½ Sgusciate
 Pan Di Spagna Piccolo
 Limonata Gassata
 Chartreuse Freddo
@@ -4804,7 +4804,7 @@ Vino Nero Di Troia
 Estratto Di Cherry
 Cerasella
 Vino Marsala Secco (o Vino Bianco)
-Olio D''oliva E Sugna (metà E Metà)
+Olio D''oliva E Sugna (metï¿½ E Metï¿½)
 Aroma Di Limone
 Aroma Di Limone (o Vaniglia)
 Uovo Sbattuto Con Poco Latte
@@ -4829,11 +4829,11 @@ Corteccia Di China
 Scorza Bianca Di Arancia Amara
 Succo Di Frutta Della Passione
 Limone Verde (succo)
-Tè Yunnan Imperial
-Tè Qimen
-Tè Ningchow
-Tè Szechuan
-Tè Ching Wo
+Tï¿½ Yunnan Imperial
+Tï¿½ Qimen
+Tï¿½ Ningchow
+Tï¿½ Szechuan
+Tï¿½ Ching Wo
 Pasta Tipo Chiocciole
 Pasta Tipo Chioccioline
 Sherry Fino Maniero
@@ -4871,7 +4871,7 @@ Confettini Di Zucchero (bianchi E Rosa)
 Codetta Di Zucchero
 Zucchero Grezzo
 Zenzero Fresco (facoltativo)
-Burro Morbido Più Un Poco Per Lo Stampo
+Burro Morbido Piï¿½ Un Poco Per Lo Stampo
 Uova A Temperatura Ambiente
 Ciliegine Candite Rosse E Verdi (o Piccoli Frutti)
 Banana Mondata
@@ -4880,13 +4880,13 @@ Farina Di Farro
 Fiocchi Di Soia
 Fruttosio
 Semi Di Girasole, Zucca, Papavero, Sesamo E Lino
-Pasta Di Pane Già Lievitata
+Pasta Di Pane Giï¿½ Lievitata
 Lievito Per Dolci (bertolini)
 Mandorle Tostate Pestate Nel Mortaio
 Burro Ridotto In Crema
 Zucchero (6 Cucchiai Colmi)
 Uva Moscato
-Zucchero Granella Guarnì Cameo
+Zucchero Granella Guarnï¿½ Cameo
 Farina Gialla Finissima
 Finocchi (o Patate)
 Trito Aromatico (salvia, Rosmarino, Prezzemolo)
@@ -4947,7 +4947,7 @@ Carota Tagliata A Pezzi
 Sella Di Cinghiale
 Lonza Di Cinghiale
 Noce Di Cinghiale
-Germogli Di Bambù In Scatola
+Germogli Di Bambï¿½ In Scatola
 Olio Di Semi Di Soia
 Noci Cashez
 Coriandolo Tritato
@@ -5030,11 +5030,11 @@ Mele Golden
 Vongole Giganti Quahong (chowder Clams)
 Brunoise Di Cipolla
 Filetto Di Maiale Affumicato
-Vino Rosé
+Vino Rosï¿½
 Claret Francese (o Chiaretto Italiano)
 Soda (o Acqua Di Seltz)
 Scorza Di Mapo
-Vino Spumante Brut Champenois Carpenè Malvolti Freddissimo
+Vino Spumante Brut Champenois Carpenï¿½ Malvolti Freddissimo
 Arancia A Fettine
 Mela A Fette
 Grasso Animale
@@ -5060,7 +5060,7 @@ Acqua Minerale Gassata Ghiacciata
 Sciroppo Al Lampone
 Olive (o Cipolline Sott''aceto)
 Tequila (o Gin)
-Tè Al Mandarino
+Tï¿½ Al Mandarino
 Melone Profumato
 Vino Bianco Ghiacciato
 Gamberetti Freschi O Surgelati
@@ -5071,8 +5071,8 @@ Spremuta D''arancia
 Aromi Di Agrumi
 Aromi Di Albicocche Seche
 Sciroppo Alle Fragole
-Tè Alla Menta
-Tè Alla Pesca
+Tï¿½ Alla Menta
+Tï¿½ Alla Pesca
 Sciroppo Di Pesca
 Sciroppo Di Rosa
 Succo D''amarena
@@ -5132,10 +5132,10 @@ Succo Di Limone D''amalfi
 Succo Di Carota
 Succo Di Mela Verde
 Essenza Alla Fragola Senza Zucchero
-Tè Di Ceylon
+Tï¿½ Di Ceylon
 Chartreuse Giallo 35 Gradi
 Chartreuse Verde 55 Gradi
-Code Di Scampi Già Sgusciate
+Code Di Scampi Giï¿½ Sgusciate
 Fagiolini Verdi Sottili
 Pomodoro Grande Maturo E Sodo
 Mandarini Sbucciati
@@ -5179,8 +5179,8 @@ Coriandolo In Polvere
 Pomodori Perini Maturi
 Polvere Aromatica Per Arrosti
 Brandy Vecchio Piemonte
-Liquore ''crema Caffè''
-Caffè Freddo E Amaro
+Liquore ''crema Caffï¿½''
+Caffï¿½ Freddo E Amaro
 Tuorlo D''uovo Sbattuto Con 1/2 Cucchiaio Di Zucchero In Polvere
 Cognac Caldo
 Sciroppo Di Frutto Della Passione
@@ -5203,7 +5203,7 @@ Fegato Di Maiale Tritato
 Fegatini D''anatra
 Grasso D''oca
 Gelatina (facoltativo)
-Pancarré (facoltativo)
+Pancarrï¿½ (facoltativo)
 Collo Di Bue
 Collo Di Cervo Disossato
 Erbe Tritate
@@ -5277,7 +5277,7 @@ Fichi Settembrini Molto Maturi
 Sherry Brandy
 Fragole Mature E Sane
 Petali Di Rose Sani E Profumati
-Zucca Già Pulita
+Zucca Giï¿½ Pulita
 Carne Grassa Di Maiale
 Lardo Di Maiale A Pezzetti
 Bresaola A Fette
@@ -5297,9 +5297,9 @@ Coniglio Da 1300 G
 Coniglio Di 1200 G
 Schiena Di Coniglio Grande
 Crostoni Di Pane Casereccio
-Coniglio Già Pulito Da 1200 G
+Coniglio Giï¿½ Pulito Da 1200 G
 Coniglio Da 1400 G
-Fagioli Bianchi Già Lessati
+Fagioli Bianchi Giï¿½ Lessati
 Coniglio Giovane Tagliato In 4 Pezzi
 Pancetta Tagliata A Fette
 Salvia Essiccata Tritata
@@ -5339,7 +5339,7 @@ Crema Di Grasso
 Scalogno Tagliato A Cubetti
 Panna (o Panna Acida)
 Pepe Verde In Scatola
-Formaggio Gruyère Grattugiato
+Formaggio Gruyï¿½re Grattugiato
 Estratto Vegetale
 Coniglio Di 800 G Tagliato A Pezzi
 Coniglio Di 1500 G Con Fegato
@@ -5349,7 +5349,7 @@ Vino Bianco Del Metauro
 Brodo Di Coniglio Chiaro
 Acetosa Fresca
 Coniglio Spellato
-Piselli Già Sgranati
+Piselli Giï¿½ Sgranati
 Sedano (facoltativo)
 Carne Di Maiale Sotto Sale
 Pomodori Affettati
@@ -5427,7 +5427,7 @@ Fragoline Surgelate
 Crema Alla Vaniglia
 Marroni Glassati
 Crema Al Cioccolato
-Crema Alla Vaniglia Già Pronta
+Crema Alla Vaniglia Giï¿½ Pronta
 Coppa Affettata
 Frutta Esotica Fresca (ananas, Babaco, Papaia)
 Pinoli (o Pistacchi)
@@ -5452,13 +5452,13 @@ Arance Mature Grandi
 Biscotti Al Cioccolato
 Vodka (o Altro Liquore)
 Polpa Di Melone
-Crema Pasticciera Già Pronta
+Crema Pasticciera Giï¿½ Pronta
 Yogurth Denso
 Biscotti Wafer Al Cacao
 Yogurth Doppia Panna
 Scorza Candita Di Arancia
 Sorbetto Alla Fragola
-Gelato Al Caffè (v. Ricetta)
+Gelato Al Caffï¿½ (v. Ricetta)
 Cialde (o Altri Biscotti Secchi)
 Banana Grande Matura
 Base Per Mantecati Alla Vaniglia
@@ -5501,7 +5501,7 @@ Gelato Alla Nocciola (v. Ricetta)
 Cialde A Ventaglietto
 Sorbetto Di Arance (v. Ricetta)
 Gelato Di Fragole
-Caffè Molto Freddo
+Caffï¿½ Molto Freddo
 Ciliegie Sciroppate Snocciolate
 Succo Di Cocco
 Polpa Di Storione Fresco
@@ -5530,7 +5530,7 @@ Rosmarino (o Salvia)
 Olive Verdi In Salamoia
 Formaggio Casera
 Coregoni Da 1200 G Ognuno
-Brodo Vegetale Già Salato
+Brodo Vegetale Giï¿½ Salato
 Insalata Cornette
 Ritagli Di Salmone Affumicato
 Fagiolini Cornetti
@@ -5564,7 +5564,7 @@ Cosce Di Pollo Con Sottocoscia
 Dragoncello Fresco
 Brodo Granulare Di Pollo Knorr
 Coscette Di Pollo
-Purè Ricco Findus
+Purï¿½ Ricco Findus
 Panna Di Latte
 Coscia Di Tacchino (900 G)
 Giambonetti Di Tacchino
@@ -5584,7 +5584,7 @@ Rosmarino In Aghi
 Cosciotto D''agnello Di 1000 G Almeno
 Cosciotti D''agnello
 Patate Non Troppo Farinose
-Pancarré Senza La Crosta
+Pancarrï¿½ Senza La Crosta
 Cosciotto Di Camoscio Da 4000 G
 Vino Sassella O Inferno
 Fegatino Di Camoscio (facoltativo)
@@ -5607,7 +5607,7 @@ Uvetta Sultanina (facoltativo)
 Pinoli (facoltativo)
 Cosciotto Di Tacchino Grande Disossato Appiattito Con Il Batticarne
 Pancetta Di Maiale A Dadini
-Castagne Già Lessate
+Castagne Giï¿½ Lessate
 Gherigli Di Noce Tritati
 Scamone Di Vitello Sgrassato
 Noce Di Cocco Piccola
@@ -5624,7 +5624,7 @@ Costate Di Manzo Disossate
 Costate Di Vitello (1500 G)
 Formaggio Tomino Fresco
 Trito Aromatico (maggiorana-erba Cipollina-prezzemolo)
-Mollica Di Pancarré Macinata
+Mollica Di Pancarrï¿½ Macinata
 Coste Bianche Di Maiale Avanzate
 Coste Di Sedano Bianche
 Formaggio Cremoso (mascarpone)
@@ -5640,7 +5640,7 @@ Uva Rossa
 Grignolino
 Prosciutto Cotto Affumicato
 Panna Per Cucinare
-Costolette Di Vitello Tagliate Dal Carré
+Costolette Di Vitello Tagliate Dal Carrï¿½
 Costolette Di Vitello Tagliate Alte Come L''osso
 Costolette Di Vitello Ben Battute
 Fettine Di Tacchino
@@ -5732,7 +5732,7 @@ Mandorle Sgusciate, Pelate E Tritate
 Semola Di Couscous
 Carne D''agnello In Pezzi
 Pomodori Pelati (o Salsa Di Pomodoro)
-Ceci Già Cotti (o Ceci In Scatola)
+Ceci Giï¿½ Cotti (o Ceci In Scatola)
 Ras El Hanout
 Peperoncino Rosso Tritato
 Burro In Fiocchetti
@@ -5742,7 +5742,7 @@ Barbabietola Rossa Piccola
 Code Di Gambero Sgusciate
 Peperoni Colorati
 Misto Per Minestrone
-Coucous Già Cotto
+Coucous Giï¿½ Cotto
 Cipolletta
 Fave Fresche Sgusciate
 Coriandolo In Polvere (facoltativo)
@@ -5777,7 +5777,7 @@ Cedro Grattugiato
 Peperoni Rossi Al Naturale
 Canditi All''arancia
 Albumi D''uovo Montati A Neve Ferma
-Caffè Concentrato
+Caffï¿½ Concentrato
 Yogurth Al Cioccolato
 Panna Montata Dolce
 Grappa Di Pere
@@ -5790,8 +5790,8 @@ Vino Marsala Dolce All''uovo
 Torrone Bianco Duro
 Scaglie Di Cioccolato Bianco
 Scaglie Di Cioccolato Fondente
-Tè Nero
-Tè Scuro
+Tï¿½ Nero
+Tï¿½ Scuro
 Vino Bianco Alsaziano
 Biscotti Rotondi
 Fette Di Arancia
@@ -5829,7 +5829,7 @@ Limone (scorza Grattugiata Solo Giallo)
 Maizena (amido Di Mais)
 Zucchero Per Bruciare
 Amido (maizena)
-Preparato Per Crème Caramel
+Preparato Per Crï¿½me Caramel
 Polpa Di Zucca
 Farina Di Riso (o Farina)
 Olive Kalimata
@@ -5869,14 +5869,14 @@ Dadi Per Brodo
 Cumino Pestato
 Harissa
 Pastina
-Purè Di Marroni
+Purï¿½ Di Marroni
 Burro (o Panna)
 Cavolfiore Pulito
 Trito Di Timo E Maggiorana
 Crostini Di Pane Abbrustoliti
 Ceci Messi A Bagno Per Una Notte
 Olio D''oliva Extra-vergine Mescolato A Prezzemolo Tritato
-Ceci Già Ammollati
+Ceci Giï¿½ Ammollati
 Frutta Fresca Tagliata A Tocchetti
 Finocchio Tondo
 Prugna Umeboshi
@@ -5887,7 +5887,7 @@ Ricotta Infornata
 Yogurth Intero Doppia Panna
 Panna Per Dolci
 Patate Sbucciate E Tagliate A Spicchi
-Crescione Senza I Gambi Più Duri
+Crescione Senza I Gambi Piï¿½ Duri
 Crescione Fresco
 Fagioli Bianchi Sgranati
 Crostini Fritti
@@ -5910,10 +5910,10 @@ Porro Sottile
 Formaggio Farina
 Legumi Secchi Misti
 Lenticchie Di Castelluccio
-Lenticchie Già Ammollate
+Lenticchie Giï¿½ Ammollate
 Panna Vegetale
 Vaniglina In Polvere
-Latte Condensato Nestlé
+Latte Condensato Nestlï¿½
 Burro Di Mandorle
 Mangostani
 Crema Pasticciera (v. Ricetta)
@@ -5988,9 +5988,9 @@ Formaggio Grana Grattugiato (o Formaggio Parmigiano Grattugiato)
 Brodo D''ossa Di Vitello
 Frutta Essiccata Assortita
 Fagioli Borlotti Secchi
-Polpa Di Zucca Già Pulita
+Polpa Di Zucca Giï¿½ Pulita
 Polpa Di Granchio In Scatola
-Fagioli Azuki Già Cotti Con Zucca
+Fagioli Azuki Giï¿½ Cotti Con Zucca
 Pistacchi E Mandorle Tritati
 Timo Tritato Assieme Al Pepe
 Maggiorana Tritata Insieme Al Pepe
@@ -6002,7 +6002,7 @@ Salmone Affumicato (fette Da 50 G)
 Fragole Di Bosco (o Fragole Piccole)
 Formaggio Cheshire
 Vino Porto (o Sherry)
-Noci (gherigli Tagliati A Metà)
+Noci (gherigli Tagliati A Metï¿½)
 Fagioli Bianchi Di Spagna (scatole Di 400 G)
 Coriandolo Fresco O Menta
 Angelica Candita (o Cedro)
@@ -6010,7 +6010,7 @@ Latte Bollito
 Fecola (o Farina)
 Cialde Arrotolate Da Gelato
 Polpa E Sugo Di Melone
-Marrons Glacés In Pezzi
+Marrons Glacï¿½s In Pezzi
 Cocco Grattugiato Essiccato
 Sciroppo Al Caramello
 Omogeneizzato Di Pesce
@@ -6028,7 +6028,7 @@ Pompelmo Giallo (succo)
 Meringhe Piccole
 Meringhe Sbriciolate
 Lamponi E Ribes
-Mezzi Gusci Di Caffè Caldo
+Mezzi Gusci Di Caffï¿½ Caldo
 Zucca Lessata
 Olio D''oliva Per Gli Stampi
 Vaniglia (o Bustina Vaniglina)
@@ -6124,14 +6124,14 @@ Corn Flakes
 Besciamella Densa
 Salmone Al Naturale
 Peperoni Gialli Piccoli
-Baccalà Ammollato E Battuto
+Baccalï¿½ Ammollato E Battuto
 Salsiccette Di Puro Suino
 Gamberetti Lessati, Sgusciati E Tritati
 Albumi D''uovo Sbattuti
 Mostarda In Polvere
 Mais Sgranato In Scatola
 Fiocchi Di Mais
-Funghi Secchi Già Ammollati A Cucinati Con Aglio E Prezzemolo
+Funghi Secchi Giï¿½ Ammollati A Cucinati Con Aglio E Prezzemolo
 Melanzane Cima Di Viola
 Basilico Riccio
 Ricotta Dura Affumicata
@@ -6148,7 +6148,7 @@ Petti Di Pollo Da 125 G
 Formaggio Morbido (formaggio Emmenthal)
 Prosciutto Crudo In Blocco
 Risotto Avanzato
-Pesce Già Cotto
+Pesce Giï¿½ Cotto
 Pomodoro Piccolo
 Avanzi Di Arrosto Di Tacchino
 Pasta Tipo Tagliolini All''uovo Freschi
@@ -6158,11 +6158,11 @@ Misto Per Soffritto Findus
 Spalla Cotta A Pezzetti
 Besciamella Soda
 Formaggio Grana A Scaglie
-Pancarré Leggermente Raffermo
-Formaggio Gruyère A Fette Sottili
+Pancarrï¿½ Leggermente Raffermo
+Formaggio Gruyï¿½re A Fette Sottili
 Burro (o 5 Cucchiai Di Olio D''oliva)
 Marmellata D''arancia E Marmellata Di Limone
-Fondo Di Pasta Brisée (diametro 22 Cm)
+Fondo Di Pasta Brisï¿½e (diametro 22 Cm)
 Formaggio Bianco Sgocciolato
 Fondo Di Pasta Frolla Salata Di 20 Cm
 Marmellata Di Lamponi
@@ -6184,12 +6184,12 @@ Castagne Sbollentate E Pelate
 Peperoncini Freschi Tritati
 Pomodori Ripieni
 Vaniglina Pura
-Pasta Frolla Già Pronta
+Pasta Frolla Giï¿½ Pronta
 Mandorle Tostate A Scaglie
 Pasta Frolla Pronta
 Uvetta Sultanina Ammorbidita Nel Rum
 Mostarda A Pezzi
-Marrons Glacés A Pezzetti
+Marrons Glacï¿½s A Pezzetti
 Besciamella Vegetale
 Biscotti Tipo Digestive
 Cedro (scorza Grattugiata)
@@ -6212,7 +6212,7 @@ Pasta Frolla Da 500 G
 Mezze Mandorle
 Prezzemolo Riccio (per Decorare)
 Marmellata A Piacere
-Farina Più Quella Per La Lavorazione
+Farina Piï¿½ Quella Per La Lavorazione
 Pastafrolla Surgelata
 Scaglie Di Mandorle
 Prosciutto Cotto Tagliato A Dadini
@@ -6228,7 +6228,7 @@ Acqua (se Occorre)
 Pasta Frolla Refrigerata
 Piselli Da Sgranare
 Panna (o Maionese)
-Crostatine Di Pasta Brisée Cotte Di 10 Cm
+Crostatine Di Pasta Brisï¿½e Cotte Di 10 Cm
 Teste Di Funghi Champignon
 Nocciole Pelate E Tostate
 Tartellette Di Pasta Sfoglia
@@ -6252,11 +6252,11 @@ Insalata Lattuga (alcune Foglie)
 Pane Per Tramezzini Senza Crosta
 Yogurth Greco Denso
 Pane Casereccio (fette Sottili)
-Paté Al Tartufo Umbro
+Patï¿½ Al Tartufo Umbro
 Prezzemolo Finemente Tritato
 Formaggio Morbido Saporito
 Pane Casereccio Per Crostini
-Tartufi Neri A Fettine O In Paté
+Tartufi Neri A Fettine O In Patï¿½
 Pane Integrale Cotto A Legna
 Crostini Quadrati Tagliati Nelle Fette Di Pane A Cassetta Abbrustolite
 Milza Di Vitellone
@@ -6269,7 +6269,7 @@ Totano Piccolo
 Polpettini
 Muscoli
 Formaggio Fondente
-Pancarré (o Pane Casereccio)
+Pancarrï¿½ (o Pane Casereccio)
 Granetti
 Fichi Molto Maturi
 Acciughe Salate, Pulite E Diliscate
@@ -6293,7 +6293,7 @@ Fagioli Del Purgatorio Di Gradoli
 Finocchietto Selvatico Fresco
 Fegatini E Cuori Di Pollo
 Pane Toscano Raffermo
-Paté Di Fegatini Di Pollo
+Patï¿½ Di Fegatini Di Pollo
 Pane Francese Tostato
 Pane Casereccio A Fette
 Finocchio Tenero Selvatico
@@ -6304,17 +6304,17 @@ Frutti Di Mare (cozze, Ostriche)
 Polenta Avanzata
 Mortadella Tagliata Spessa
 Pancetta Affumicata (fette Piuttosto Sottili)
-Polenta Già Pronta
+Polenta Giï¿½ Pronta
 Formaggio Fontina A Fette
 Erbe Odorose Fresche
 Limone Piccolo
-Fette Di Pancarré (o Pane Casereccio A Fette)
+Fette Di Pancarrï¿½ (o Pane Casereccio A Fette)
 Pane Raffermo Con Mollica Compatta
 Cacao Dolce In Polvere
-Pancarré Raffermo Un Giorno Senza Crosta
+Pancarrï¿½ Raffermo Un Giorno Senza Crosta
 Pancetta Magra (o Gambuccio Di Prosciutto Crudo)
 Prosciutto (fette Da 60 G)
-Pancarré Rotondo A Fette
+Pancarrï¿½ Rotondo A Fette
 Burro Normale
 Burro All''aglio
 Pane Da Crostini
@@ -6334,7 +6334,7 @@ Pagnotta Grande
 Scampi Con Il Guscio
 Pane Pugliese (o Baguette)
 Salsa Mornay
-Pancarré (o Pane Raffermo)
+Pancarrï¿½ (o Pane Raffermo)
 Peperoni Gialli Grandi E Carnosi
 Prosciutto Cotto Tritato
 Formaggio Olandese Grattugiato
@@ -6564,8 +6564,8 @@ Formaggio Appenzell
 Magro Di Vitella
 Cosce Di Coniglio (600 G)
 Insalata Lattughino Riccio
-Rape Già Lessate
-Fagiolini Già Lessati
+Rape Giï¿½ Lessate
+Fagiolini Giï¿½ Lessati
 Formaggio Fontina A Cubetti
 Polenta Fredda
 Pepe Bianco Appena Macinato
@@ -6670,8 +6670,8 @@ Foglie Essiccate E Radici Spezzettate Di Tarassaco
 Alburno Di Tiglio In Piccoli Frammenti
 Timo (pianta Intera Senza Radice)
 Tragoselino Maggiore (radici)
-Sommità Fiorite E Foglie Di Veronica
-Sommità Fiorite Essiccate Di Veronica
+Sommitï¿½ Fiorite E Foglie Di Veronica
+Sommitï¿½ Fiorite Essiccate Di Veronica
 Radici Di Salsapariglia
 Radici Di Saponaria
 Liquore Melone Verde De Kuyper
@@ -6685,7 +6685,7 @@ Latte Intero (o Panna Liquida Fresca)
 Uvetta Sultanina Ammollata In Poco Rum
 Biscotti Amaretti Morbidi
 Arance Non Trattate (scorza)
-Bignè Vuoti (si Possono Acquistare In Pasticceria)
+Bignï¿½ Vuoti (si Possono Acquistare In Pasticceria)
 Liquore Nocino
 Pancetta Affumicata Tagliata A Dadini
 Bucce D''arancia
@@ -6704,7 +6704,7 @@ Peperoncini (privati Dei Semi) Tagliati A Striscioline
 Pomodori Arrostiti Spellati E Tritati
 Peperoncini Sott''aceto
 Dentici
-Dentici Di 500 G Già Puliti
+Dentici Di 500 G Giï¿½ Puliti
 Cipolline In Agrodolce
 Dentice Da 1000 G
 Dentice Di 500 G
@@ -6728,7 +6728,7 @@ Cioccolato Bianco A Scaglie
 Yogurth Agli Agrumi
 Yogurth All''ananas
 Albicocche Macerate In Vino Dolce
-Noci, Nocciole, Mandorle Già Sgusciate
+Noci, Nocciole, Mandorle Giï¿½ Sgusciate
 Zucchero E Cioccolato
 More Surgelate
 Pere Sciroppate Grandi
@@ -6748,7 +6748,7 @@ Scorzetta Di Limone (facoltativo)
 Alcool Neutro A 96 Gradi Allungato Con Acqua
 Punch Svedese
 Tacchino A Pezzi
-Cruditè A Scelta (ravanelli, Sedano)
+Cruditï¿½ A Scelta (ravanelli, Sedano)
 Mortadella (fette Da 150 G)
 Pasta Tipo Ditali Rigati
 Pomodori Pelati (scatole Da 600 G)
@@ -6758,7 +6758,7 @@ Ricotta Di Capra
 Formaggio Di Capra
 Cipollotti Nocerini
 Zucchine Sottili Tenere
-Piselli Già Sgusciati
+Piselli Giï¿½ Sgusciati
 Lenticchie Di Colfiorito
 Pasta Tipo Ditalini Integrali
 Filetti Di Pomodoro
@@ -6787,7 +6787,7 @@ Amaro Savoia
 Rice Krispies
 Biscotti Di Pasta Frolla Sbriciolati
 Cedro Candito A Pezzettini
-Caffè In Chicchi Interi
+Caffï¿½ In Chicchi Interi
 Confettura Di Ribes
 Biscotti Comuni
 Carote Medio-grandi
@@ -6835,9 +6835,9 @@ Vino Rosso Dolce
 Burro (o Strutto O Olio D''oliva)
 Gelatina Di Mele
 Pangrattato Finissimo
-Caffè Caldo Molto Ristretto
+Caffï¿½ Caldo Molto Ristretto
 Biscotti Secchi Rettangolari
-Alchermes (o Caffè)
+Alchermes (o Caffï¿½)
 Polvere Per Budino Al Cioccolato
 Birra Amara
 Biscottini Dietetici Per Bambini
@@ -6873,11 +6873,11 @@ Vino Spumante Brut Freddissimo
 Crema Di Vaniglia
 Limbo
 Soda Water Ghiacciata
-Miscela Berberè
+Miscela Berberï¿½
 Ciliegie Al Maraschino
 Sciroppo Di Canna
-Caffè Lavazza Bollente
-Caffè Sport Borghetti
+Caffï¿½ Lavazza Bollente
+Caffï¿½ Sport Borghetti
 Polpa Di Mango Maturo
 Rum Barbancourt
 Scorza Di Limone (o Oliva Verde)
@@ -6911,7 +6911,7 @@ Fiori Di Camomilla
 Cedro (scorza)
 Essenza D''arancia
 Essenza Di Bergamotto
-Caffè Moka Macinato
+Caffï¿½ Moka Macinato
 Cannella Di Canna
 Scorza Gialla Di Limone
 Vaniglia In Stecche
@@ -6925,14 +6925,14 @@ Rabarbaro In Foglie
 Agarico Bianco
 Teriaca
 Zedoaria
-Limoni (scorza Più Gialla)
+Limoni (scorza Piï¿½ Gialla)
 Limoni (scorza Gialla)
 Alcool Neutro A 60 Gradi
 Acquavite Stagionata
 Limone (scorza Gialla)
 Spirale Di Scorza Di Limone
 Calamaretti Puliti
-Vino Rosso (tipo Rosso Di Cirò)
+Vino Rosso (tipo Rosso Di Cirï¿½)
 Erbe Tritate (timo, Salvia)
 Burro Tagliato A Dadini
 Uvetta Sultanina 10 Min. In Acqua Calda
@@ -6994,7 +6994,7 @@ Vol-au-vent Medi
 Fagiano Di 1000 G
 Pancetta Piuttosto Magra
 Fagiano Bene In Carne
-Fagiano Già Frollato Da 1500 G
+Fagiano Giï¿½ Frollato Da 1500 G
 Prosciutto Crudo Con Grasso
 Fagioli Surgelati
 Pane A Fette
@@ -7012,7 +7012,7 @@ Polpa Di Pomodori
 Spezzatino Di Manzo
 Fagioli Secchi Ammollati Prima In Acqua
 Fagioli Da Sgranare
-Fagioli Lamon Già Lessati
+Fagioli Lamon Giï¿½ Lessati
 Misticanza Di Campo (borraggine, Finocchietto, Gallinella, Ecc.)
 Aceto Di Vino Aromatizzato Al Cerfoglio Ed Erba Cipollina
 Fagioli Dell''aquila Di Pignone
@@ -7029,7 +7029,7 @@ Fagioli Borlotti Surgelati
 Fagioli Borlotti Rossi Sgranati
 Fagioli Borlotti E Fagioli Cannellini
 Fagioli Freschi Sgranati
-Cipolla Tagliata A Metà
+Cipolla Tagliata A Metï¿½
 Epazote Fresco
 Lardo Di Maiale (o Olio D''oliva)
 Brodo Dei Fagioli Lessati
@@ -7038,7 +7038,7 @@ Paprica Ungherese (facoltativo)
 Salsa Peverada
 Sugo Di Faraona
 Prezzemolo Tritato Finissimo
-Besciamella Già Pronta
+Besciamella Giï¿½ Pronta
 Formaggio Grana Grattugiato.
 Formaggio Parmigiano Reggiano A Dadini
 Fagiolini Freschi E Sottili
@@ -7162,7 +7162,7 @@ Herbes De Provence
 Brodo Vegetale (o Brodo Di Pollo)
 Salvia A Foglie Piccole
 Peperoncini Rossi Freschi
-Salsa Di Pomodoro Alle Olive Già Pronta
+Salsa Di Pomodoro Alle Olive Giï¿½ Pronta
 Gamberetti Sgusciati Freschi
 Ricotta Salata Grattugiata
 Cipollina Bianca
@@ -7205,10 +7205,10 @@ Fave Sbucciate
 Guanciale Di Maiale Tagliato A Dadini
 Fave Appena Raccolte
 Formaggio Pecorino Appena Salato
-Fave Già Sgusciate
+Fave Giï¿½ Sgusciate
 Olio D''oliva Extra-vergine Di Tipo Saporito
 Insalata Cicoria Di Campo
-Fave Già Sgranate
+Fave Giï¿½ Sgranate
 Cipolline Fresche Tagliate Per Il Lungo
 Cime Di Finocchio Fresche Tritate
 Crostini Di Pane Nero
@@ -7292,7 +7292,7 @@ Lonza Di Maiale A Fettine
 Petti Di Pollo Surgelati
 Fettine Di Petto Di Pollo Surgelate
 Salvia Tritata Finemente
-Polenta (fettine Poco Più Grandi Di Un Crostino)
+Polenta (fettine Poco Piï¿½ Grandi Di Un Crostino)
 Petto Di Tacchino A Fettine
 Carne Di Vitello In Fettine
 Girello Di Vitello (fettine Alte 1 Cm)
@@ -7357,7 +7357,7 @@ Filetti Di Nasello Interi
 Filetti Di Orata (filetti Da 180 G)
 Asparagi Sottili
 Orata Da 300 G
-Filetti Di Pesce Persico Già Puliti
+Filetti Di Pesce Persico Giï¿½ Puliti
 Filetti Di Pesce Piatto (sogliole)
 Prezzemolo, Basilico E Aglio Tritati
 Filetti Di Pesce (nasello, Sampietro, Persico)
@@ -7410,7 +7410,7 @@ Trotelle (per Un Peso Totale Di 1000 G)
 Olio D''oliva Extra-vergine Ligure Di Olive Taggiasche
 Filetto Di Vitellone
 Piselli Freschi Sgusciati
-Pancarré Senza Crosta
+Pancarrï¿½ Senza Crosta
 Erbe Aromatiche Miste (timo, Maggiorana, Rosmarino)
 Filetto Di Bue
 Panna Montata Da Cucina
@@ -7444,7 +7444,7 @@ Vino Barbaresco (dolcetto, Chianti)
 Filetti Di Vitello Da 200 G Ognuno
 Filetto Per Persona
 Filetto Di Manzo Di 1000 G
-Paté Tartufato
+Patï¿½ Tartufato
 Pancetta Larga
 Prezzemolo Per Bouquet Garni
 Timo Per Bouquet Garni
@@ -7492,7 +7492,7 @@ Creste Di Pollo Piccole
 Funghetti Sott''aceto
 Cetrioli Sotto Aceto
 Sugo Di Arrosto
-Animelle Di Vitello (lacèt)
+Animelle Di Vitello (lacï¿½t)
 Filone Di Vitello (midollo Spinale)
 Creste Di Gallo
 Testicoli Di Vitello
@@ -7500,7 +7500,7 @@ Piselli Sbucciati
 Funghi Porcini Sott''olio
 Cetriolino Sott''aceto Sminuzzato
 Funghi Porcini Secchi Ammorbiditi In Acqua Tiepida
-Aceto Di Vino Di Ottima Qualità (facoltativo)
+Aceto Di Vino Di Ottima Qualitï¿½ (facoltativo)
 Frattaglie Di Pollo
 Miele Sciolto A Bagnomaria
 Finocchi Tondi
@@ -7575,7 +7575,7 @@ Formaggio Stracchino Morbido
 Formaggio Caciotta Toscana
 Focaccia
 Cavolo Toscano
-Pasta Da Pane Già Lievitata
+Pasta Da Pane Giï¿½ Lievitata
 Formaggio Sottilette
 Patata Da 200 G
 Sale Non Ben Raffinato
@@ -7584,7 +7584,7 @@ Broccoletti E Finocchi
 Sale Aromatizzato Alle Erbe
 Acciughe Diliscate E Dissalate
 Mele Della Val Di Non
-Purè Di Patate Liofilizzato
+Purï¿½ Di Patate Liofilizzato
 Acini D''uva Bianca
 Gelatine Di Albicocche
 Focaccia Di Farina Integrale (fresa)
@@ -7687,7 +7687,7 @@ Yogurth Alla Vaniglia (o Alla Fragola)
 Ananas Medio
 Mandorle Dolci Pelate E Sbriciolate
 Mandorle Dolci Pelate Tagliate A Striscette
-Bignè Già Pronti
+Bignï¿½ Giï¿½ Pronti
 Crema Pronta Alla Vaniglia (confezioni Di 500 G)
 Fragolini
 Polipi Piccoli (fragolini) Puliti
@@ -7708,7 +7708,7 @@ Mandorle Tostate Sfilettate
 Carambola (o Banana)
 Cacao Zuccherato
 Yogurth Ai Frutti Di Bosco
-Caffè Freddo Zuccherato
+Caffï¿½ Freddo Zuccherato
 Cioccolato Bianco Grattugiato
 Marzapane
 Fegato D''agnello
@@ -7753,7 +7753,7 @@ Pomodoro Rosso Grande
 Capperi Sott''olio Piccoli
 Friselle Grandi (o Friselle Piccole)
 Carne Di Maiale Intercostale Moderatamente Grassa
-Omento Di Maiale (risèla O Retìna) (o Un Cavolo Verza)
+Omento Di Maiale (risï¿½la O Retï¿½na) (o Un Cavolo Verza)
 Olio D''oliva E Burro In Parti Uguali
 Cedrini
 Mozzarella Affumicata
@@ -7761,7 +7761,7 @@ Bacon Affettato
 Tartufo Per Guarnire
 Prezzemolo Per Guarnire
 Erba Cipollina Fresca
-Tartufi A Fettine O In Paté
+Tartufi A Fettine O In Patï¿½
 Panna (o Latte)
 Trito Aromatico Di Rosmarino, Sale Grosso, Salvia, Basilico, Aglio
 Salame Morbido
@@ -7793,7 +7793,7 @@ Erbe Aromatiche (timo, Maggiorana, Prezzemolo, Origano)
 Fiori D''acacia
 Fiori D''acacia Freschi
 Olive Nere Sminuzzate
-Gamberi Già Sgusciati
+Gamberi Giï¿½ Sgusciati
 Lumache
 Pasta Tipo Maccheroni
 Moleche
@@ -7821,7 +7821,7 @@ Fave Verdi Tenere
 Cipolla Scalogna
 Formaggio A Scaglie
 Panna Montata (o Mirtilli Rossi O Frutta Cotta)
-Pasta Per Bignè
+Pasta Per Bignï¿½
 Curacao (o Altro Liquore All''arancia)
 Mele Asprigne
 Grasso Per Dolci
@@ -7844,7 +7844,7 @@ Arancia (scorza Gialla)
 Olio D''oliva (o Strutto Di Maiale)
 Fiori Di Borraggine
 Formaggio Jocca
-Carne Tritata Già Cotta
+Carne Tritata Giï¿½ Cotta
 Erbe Tritate (basilico, Prezzemolo, Timo, Maggiorana)
 Formaggio Magro D''alpeggio
 Strutto (o Olio D''oliva Extra-vergine)
@@ -7886,7 +7886,7 @@ Riso Per Dolci
 Dolcificante Per Dolci
 Fiori Di Sambuco In Grappoli
 Zucca Pulita
-Zucca Gialla A Polpa Soda E Compatta (varietà Marina)
+Zucca Gialla A Polpa Soda E Compatta (varietï¿½ Marina)
 Fior Di Farina Bianca
 Capperini Pugliesi
 Sherry (o Vino Marsala Secco)
@@ -7934,10 +7934,10 @@ Succo Di Frutta Alla Pesca Da 1250 Cl
 Liquore Di Pesche Bols
 Liquore Di Banane Bols
 Liquore Di Kiwi Bols
-Ghiaccio A Volontà
+Ghiaccio A Volontï¿½
 Frullato Di Banana
 Acqua Di Cocco
-Marrons Glacés Sbriciolati
+Marrons Glacï¿½s Sbriciolati
 Birra Chiara Molto Fredda
 Biscotti Alla Crusca
 Ciliegie (pesate Senza Nocciolo)
@@ -7977,7 +7977,7 @@ Frutta Mista A Piacere
 Glucosio
 Colorante Verde
 Albicocche, Prugne, Noci, Mele
-Tè Aromatizzato All''arancia
+Tï¿½ Aromatizzato All''arancia
 Astice Bollito Di Circa 700 G
 Julienne Di Carota
 Julienne Di Porro
@@ -8140,19 +8140,19 @@ Pomodori Invernali
 Origano Essiccato
 Fagioli Rossi Lessati
 Gamberetti Sgusciati (confezioni 100 G)
-Gamberetti Surgelati Già Lessati
-Sakè
+Gamberetti Surgelati Giï¿½ Lessati
+Sakï¿½
 Gamberetti Puliti E Lavati
 Riso Pilaf
-Fagioli Cannellini Già Cotti
+Fagioli Cannellini Giï¿½ Cotti
 Gamberoni Grandi Con La Testa
 Spezie Miste Macinate
-Fette Di Pancarré Tostate
+Fette Di Pancarrï¿½ Tostate
 Gamberetti Grigi Molto Piccoli
 Court-bouillon All''aceto Di Vino
 Gamberetti Sgusciati Surgelati
-Code Di Gamberi Già Sgusciate
-Carciofi A Spicchi Già Puliti
+Code Di Gamberi Giï¿½ Sgusciate
+Carciofi A Spicchi Giï¿½ Puliti
 Gamberi Grandi
 Funghi Coltivati Tritati
 Gamberetti Freschissimi
@@ -8165,7 +8165,7 @@ Cipolle Piattone
 Gamberi Di Fiume
 Olive Nere Grandi
 Mele Deliziose Rosse
-Pomodoro (per Pomodoro Concassè)
+Pomodoro (per Pomodoro Concassï¿½)
 Dado Bimby
 Insalata Canasta
 Gamberoni Incisi Nella Parte Inferiore
@@ -8182,7 +8182,7 @@ Pasta Tipo Garganelli Freschi Confezionati
 Seppie Pulite
 Zucchine Piccole Con Relativi Fiori
 Senape Dolce (barattolini Da 125 G)
-Pancarré Tostato
+Pancarrï¿½ Tostato
 Agnello Castrato
 Pomodori Maturi Piuttosto Grandi
 Burro Per Le Teglie
@@ -8207,7 +8207,7 @@ Acqua (1/3 Di Bicchiere)
 Mollica Di Pane Bianco Fresco
 Cetrioli Pelati E Tritati
 Acqua Gelata
-Caffè Amaro
+Caffï¿½ Amaro
 Piedino Di Vitello
 Gelatina Dolce Di Base
 Curacao O Liquore Al Mandarino
@@ -8226,8 +8226,8 @@ Lychees
 Longans (occhi Di Drago)
 Zucchero Per Ogni Litro Di Succo Di More
 Uva Matura
-Caffè Espresso Ristretto
-Caffè Fortissimo
+Caffï¿½ Espresso Ristretto
+Caffï¿½ Fortissimo
 Liquore A Piacere
 Fiori Di Gelsomino
 Liquore All''arancia O Al Mandarino
@@ -8236,8 +8236,8 @@ Mais Scolato E Passato Sotto L''acqua
 Mandarini Medi
 Mandarini Grandi
 Mandarinetto (o Liquore Dolce)
-Mandorle Già Pelate
-Tè Verde In Polvere
+Mandorle Giï¿½ Pelate
+Tï¿½ Verde In Polvere
 Zucchero In Zollette
 Sciroppo Di Mandarino
 Frutta Fresca A Piacere
@@ -8262,11 +8262,11 @@ Crema Di Cioccolato
 Vodka (o Rum)
 Latte Congelato A Cubetti
 Gelato Di Fragola
-Caffè Di Cereali Solubile (yannoh)
+Caffï¿½ Di Cereali Solubile (yannoh)
 Biscotti Gianduiotti
 Grappa Bianca
 Miele Di Fiori D''acacia
-Prugne Di 2 Qualità
+Prugne Di 2 Qualitï¿½
 Ciliegie Sotto Spirito (o Canditi)
 Fragole Lavate
 Cocomero (o Altra Frutta Di Stagione)
@@ -8339,11 +8339,11 @@ Coloranti Alimentari
 Decorazioni Varie
 Rabarbaro (piccioli Delle Foglie Grandi)
 Zucchero (2 Volte Il Peso Dei Piccioli)
-William Poire Le Bon Père
+William Poire Le Bon Pï¿½re
 Vino Champagne Ben Ghiacciato
 Mambo Dry Rum
 Limonata Schweppes
-Base Per Pizza Già Pronta
+Base Per Pizza Giï¿½ Pronta
 Formaggi Caprini Freschi
 Pasta Tipo Gnocchetti Di Patate Freschi
 Moscardini Piccoli
@@ -8393,11 +8393,11 @@ Funghi Porcini Secchi Messi A Bagno In Acqua Tiepida
 Formaggio A Fette
 Formaggio Alle Erbe
 Pasta Tipo Gnocchi Verdi
-Purè Di Patate Non Condito
+Purï¿½ Di Patate Non Condito
 Puntine Di Maiale
 Prosciutto Crudo (fette Da 200 G)
 Coscia Di Coniglio
-Sugo Di Ragù (o Sugo Di Pomodoro Fresco)
+Sugo Di Ragï¿½ (o Sugo Di Pomodoro Fresco)
 Semolino Di Grana Fine
 Semolino Bianco (o Semolino Integrale)
 Miso Di Orzo
@@ -8417,7 +8417,7 @@ Patate Vecchie
 Foglie Di Borraggine
 Ricotta Da Grattugiare
 Cipolla Affettata Finissima
-Nasello Di Circa 800 G (parte Andrà Nella Salsa)
+Nasello Di Circa 800 G (parte Andrï¿½ Nella Salsa)
 Mazzetto Aromatico (carota, Sedano, Cipolla)
 Burro Per Imburrare La Pirofila
 Olio Agliato
@@ -8447,7 +8447,7 @@ Zucca Grande (1500 G Di Polpa)
 Zucca Tagliata A Pezzi
 Zucca Di 30 X 10 Cm
 Ricotta Affumicata Di Montagna
-Farina (la Quantità Della Farina Dipende Dalla Farinosità Della Zucca)
+Farina (la Quantitï¿½ Della Farina Dipende Dalla Farinositï¿½ Della Zucca)
 Zucca Gialla Senza Scorza
 Olio Di Semi Di Sesamo
 Sugo Di Pomodoro (facoltativo)
@@ -8478,12 +8478,12 @@ Pasta Di Tartufo (facoltativo)
 Granceole
 Chele Di Granchio Bollite
 Aneto Tritato Finemente
-Aceto Di Vino Di Buona Qualità
+Aceto Di Vino Di Buona Qualitï¿½
 Salsa Aurora
 Melissa Fresca
 Issopo Fresco
 Radice Di Angelica Fresca
-Tè Aromatizzato Alla Frutta
+Tï¿½ Aromatizzato Alla Frutta
 Arancia (scorza Tagliata A Dadini)
 Sciroppo Di Frutta
 Sciroppo Di Tamarindo
@@ -8516,7 +8516,7 @@ Scorze D''arancia (solo Parte Gialla)
 Betulla (foglie Fresche)
 Ruta Fresca
 Arancia Grande Matura
-Caffè Tostato
+Caffï¿½ Tostato
 Uva Bianca Dolce Matura
 Foglioline Di Betulla Fresche
 Foglie Di Eucalipto
@@ -8572,7 +8572,7 @@ Brandy Chiaro
 Pesce Spada (450 G)
 Gamberoni (250 G)
 Cotolettine D''agnello
-Caffè Molto Caldo
+Caffï¿½ Molto Caldo
 Ciliegie Al Cognac (o Ciliegie Sotto Spirito)
 Ciliegie Snocciolate Al Cognac
 Zucchero Candito Bianco
@@ -8659,11 +8659,11 @@ Prezzemolo (o Foglie Di Coriandolo)
 Panini Al Latte Ovali
 Vino Madera Sercial
 Mele Gialle
-Caffè Leggermente Zuccherato Ben Caldo
+Caffï¿½ Leggermente Zuccherato Ben Caldo
 Panna Ben Fredda
 Tonno In Tranci
 Pesce Spada In Tranci
-Peperoncino Tritato A Volontà
+Peperoncino Tritato A Volontï¿½
 Pomodori Pelati (scatole Da 500 G)
 Salsa Ranchera
 Salsa De Chile Verde
@@ -8691,7 +8691,7 @@ Mandarino (succo)
 Scorza D''arancia Tagliata A Spirale
 Vino Spumante Freddissimo
 Gelato Alla Stracciatella
-Caffè Espresso Lavazza
+Caffï¿½ Espresso Lavazza
 Cicoriella Selvatica
 Cavolo Nero (senza Coste)
 Salmone Conservato Al Naturale
@@ -8707,7 +8707,7 @@ Crema Banana De Kuyper
 Sciroppo Di Lampone Sacco
 Mezze Fettine D''arancia
 Abrotano (rametti)
-Sommità Fiorite E Foglie Secchie Di Abrotano
+Sommitï¿½ Fiorite E Foglie Secchie Di Abrotano
 Foglie D''acetosa
 Radici D''acetosa
 Fiori Di Achillea (o Foglie Di Achillea)
@@ -8716,7 +8716,7 @@ Semi Di Ammi
 Aneto (semi)
 Argentina (foglie Secche)
 Radici Essiccate Di Aristolochia
-Sommità Fiorite Di Ballota
+Sommitï¿½ Fiorite Di Ballota
 Fiori E Foglie Secchi Di Balsamita
 Fiori Secchi Di Biancospino
 Pianta Secca Di Bocca Di Lupo
@@ -8735,14 +8735,14 @@ Frutti Di Coriandolo
 Foglie Secche Di Driade
 Rami Di Dulcamara Giovani Essiccati
 Foglie Di Erba Roberta
-Erba Roberta (sommità Fiorite)
+Erba Roberta (sommitï¿½ Fiorite)
 Semi Di Fieno Greco
 Finocchio Selvatico (semi)
-Sommità Fiorite Essiccate Di Fumaria
-Sommità Fresche Di Fumaria
+Sommitï¿½ Fiorite Essiccate Di Fumaria
+Sommitï¿½ Fresche Di Fumaria
 Galega (pianta Fiorita Essiccata)
 Gelso Nero (foglie Secche)
-Sommità Fiorite Essiccate Di Genepì
+Sommitï¿½ Fiorite Essiccate Di Genepï¿½
 Ghiande Essiccate Di Quercia (polvere)
 Fiori Di Ginestra Dei Carbonai
 Fiori Di Ginestrino
@@ -8754,10 +8754,10 @@ Foglie E Fiori Di Margheritina
 Fiori E Fusti Secchi Di Melissa
 Fiori E Fusti Secchi Di Nepetella
 Noce (foglie)
-Sommità Fiorite E Foglie Essiccate Di Olmaria
-Sommità Fiorite Essiccate Di Origano
+Sommitï¿½ Fiorite E Foglie Essiccate Di Olmaria
+Sommitï¿½ Fiorite Essiccate Di Origano
 Ortica (pianta Intera)
-Ortica Bianca (sommità Fiorite)
+Ortica Bianca (sommitï¿½ Fiorite)
 Pianta Fresca Di Parietaria
 Passiflora (fiori Secchi In Bocciolo)
 Pilosella (foglie, Fusto E Radici)
@@ -8772,12 +8772,12 @@ Radici Di Sedano Selvatico
 Semi D''aneto
 Semi D''angelica
 Semi Di Cumino Dei Prati
-Sommità Fiorite Secche Di Stachys
+Sommitï¿½ Fiorite Secche Di Stachys
 Fiori Di Tiglio
 Rizoma Di Tormentilla Secco
 Trifoglio D''acqua
 Rosa Canina Essiccata
-Verbena (sommità Fiorite Secche)
+Verbena (sommitï¿½ Fiorite Secche)
 Fiori Di Viola Del Pensiero
 Foglie Secche Di Viola Del Pensiero
 Vischio (foglie Fresche)
@@ -8907,21 +8907,21 @@ Fagioli Bolliti
 Mele Sbucciate E Disossate
 Cetriolini Senapati
 Cipolline Dalla Marinata Delle Aringhe
-Gamberetti Surgelati Già Cotti Sgusciati
+Gamberetti Surgelati Giï¿½ Cotti Sgusciati
 Germogli Di Asparagi Selvatici
 Scalogno Tagliato A Dadini
-Capesante Già Pulite
+Capesante Giï¿½ Pulite
 Spinaci Crudi
 Formaggio Parmigiano Fresco A Scaglie
 Avocado Sodi E Maturi
 Noce Di Cocco (polpa Grattugiata)
 Fiori Di Basilico Sgranati
-Purè Di Patate Con Succo Di Barbabietola
+Purï¿½ Di Patate Con Succo Di Barbabietola
 Rape Rosse Bollite
 Yogurth Denso (straghisto)
 Cipolla A Fette
 Barbabietole Rosse Lessate
-Barbabietole Rosse Già Lessate
+Barbabietole Rosse Giï¿½ Lessate
 Mele Annurche Piccole
 Biancostato Di Manzo
 Calamaretti Freschi
@@ -8942,7 +8942,7 @@ Dado Di Manzo
 Carne Di Vitello (o Carne Di Manzo)
 Cavolfiore Piccolino
 Acini Di Uva Nera
-Verza (parte Più Interna E Tenera)
+Verza (parte Piï¿½ Interna E Tenera)
 Ravanelli Affettati
 Cipolle Di Tropea Rosse
 Cosce Di Coniglio (500 G)
@@ -9036,7 +9036,7 @@ Melone Retato Piccolo
 Barbabietole Cotte Affettate
 Arance Pulite Pelate
 Uova Sode Affettate
-Olive Verdi Della Varietà Nocellara Del Belice
+Olive Verdi Della Varietï¿½ Nocellara Del Belice
 Aglio Nuovo
 Erba Cipollina Tritata Finemente
 Funghi Ovoli Piccolissimi
@@ -9047,7 +9047,7 @@ Cetriolini Sott''olio
 Carne Di Manzo Simmenthal
 Cuori Di Palma In Salamoia
 Pasta Tipo Ditalini Rigati
-Filetto Di Lepre Già Cotto
+Filetto Di Lepre Giï¿½ Cotto
 Pasta Tipo Pipe Rigate
 Gamberi Sgusciati E Crudi
 Pomodori Rossi Piccoli
@@ -9061,7 +9061,7 @@ Yogurth Naturale Parzialmente Scremato
 Pomodori Rossi Grandi E Carnosi
 Peperone Giallo Grande E Carnoso
 Olive Nere Sott''olio
-Controgirello Di Cervo Già Cotto
+Controgirello Di Cervo Giï¿½ Cotto
 Farro Lessato
 Peperoni Rosso-gialli
 Peperoni Rossi Spessi
@@ -9081,7 +9081,7 @@ Pomodori Spellati Privi Di Semi
 Polipetti Veraci
 Polipo Da 1000 G
 Tappo Di Sughero
-Polipo Già Pulito
+Polipo Giï¿½ Pulito
 Peperoncini Verdi Sott''aceto
 Polipo Di 800 G
 Barbe Di Frate
@@ -9108,7 +9108,7 @@ Pera Passacrassana
 Distillato Di Pere
 Semi Di Senape
 Pollo Lesso Avanzato
-Polpa Di Pollo Già Lessata
+Polpa Di Pollo Giï¿½ Lessata
 Cetrioli In Agrodolce
 Polpi
 Salsa Di Rafano
@@ -9118,7 +9118,7 @@ Pomodori Non Troppo Maturi
 Ovetti Di Quaglia
 Fagioli Bianchi Di Soia In Scatola
 Bastoncini Di Crusca Di Soia
-Pomodori Medi A Concassè
+Pomodori Medi A Concassï¿½
 Olio D''aglio (o Olio Di Tartufo)
 Prezzemolo A Foglie Piccole
 Grano Spezzato (burghul)
@@ -9234,7 +9234,7 @@ Dadi Di Formaggio Groviera
 Fettucce Di Peperoni Rossi, Gialli E Verdi
 Petto Di Cappone Intero
 Gamberi Lessati
-Rafano (o Ramolaccio O Crèn)
+Rafano (o Ramolaccio O Crï¿½n)
 Pere Kaiser Ben Sode
 Yogurth (facoltativo)
 Grano (bulghur)
@@ -9284,7 +9284,7 @@ Sedano Rapa Tagliato A Julienne
 Filetti D''aringa Affumicati
 Carne Di Vitello Lessata
 Mele Verdi Dolci
-Gamberi Precotti Già Sgusciati
+Gamberi Precotti Giï¿½ Sgusciati
 Mango Verde Pelato Grattugiato
 Gamberetti Secchi Messi A Mollo In Acqua
 Peperoncini Occhio D''uccello Sbriciolati
@@ -9312,7 +9312,7 @@ Foglioline Di Spinaci Novelli (tenerissime)
 Radicchio Verde
 Tonno In Scatola Sgocciolato
 Germe Di Grano
-Caffè Bollenti Zuccherati
+Caffï¿½ Bollenti Zuccherati
 Gran Liquore Mammuth
 Amaretto Dell''orso
 Tropical Blu Fabbri
@@ -9352,7 +9352,7 @@ Pane Bigio
 Prosciutto Magro Tagliato A Cubetti
 Purea Di Pomodori
 Fiocchi Di Patate
-Pancarré (fette Ammollate Nel Latte)
+Pancarrï¿½ (fette Ammollate Nel Latte)
 Polpa Di Agnello Tritata
 Erbette Possibilmente A Foglia Grande
 Fesa Di Tacchino A Fettine Sottili
@@ -9406,7 +9406,7 @@ Tonno Fresco (pezzetti Di 100 G)
 Tonno All''olio D''oliva (scatole 160 G)
 Cavolo Verza Da 800 G
 Mollica Di Pane Ammorbidita Nel Latte
-Trota Salmonata Già Spinato (300 G)
+Trota Salmonata Giï¿½ Spinato (300 G)
 Insalata Lattughino E Insalata Soncino
 Filetti Di Trota Salmonata
 Patate Bianche (farinose)
@@ -9427,18 +9427,18 @@ Carne Magra Di Vitello A Fette Sottili Uguali
 Macinato Di Spalla Di Maiale
 Foglie Di Bietola Lessata
 Stoccafisso Bagnato
-Caffè Lavazza Club Bollente
+Caffï¿½ Lavazza Club Bollente
 Vodka Alla Banana
 Cioccolato Fondente A Gocce
 Zucca Tagliata A Piccoli Dadini
 Crema Latte Densa
 Zucchero Demerara
-Caffè Doppio Forte Caldo
+Caffï¿½ Doppio Forte Caldo
 Carne Di Montone (o Carne Di Pecora)
 Patate A Spicchi
 Gin Dry Burnett''s
 Vermouth Dry Bosca
-Vermouth Rosé Martini
+Vermouth Rosï¿½ Martini
 Vino D''ischia
 Artic Mandarino
 Fragolina Di Bosco
@@ -9448,7 +9448,7 @@ Rum Des Antilles Barbero
 Izarra Verde
 Succo Di Frutta Fresca
 Acqua (o Soda O Succo Di Frutta)
-Caffè Lavazza In Polvere
+Caffï¿½ Lavazza In Polvere
 Genziana Grattugiata
 Sciroppo D''orzo
 Marasca
@@ -9462,7 +9462,7 @@ Arancia Spremuta
 Cocco Mixybar
 Apricot De Kuyper
 Verza Tagliata Finemente
-Orzo Perlato Già Lessato
+Orzo Perlato Giï¿½ Lessato
 Crauti Precotti
 Crema Menta Bianca
 Vitellone Macinato
@@ -9482,7 +9482,7 @@ Carne D''agnello A Pezzetti
 Cipolla Rossa Grande Tritata
 Pomodori A Pezzi
 Peperoni Piccoli A Fette
-Brodo Di Cottura Del Baccalà
+Brodo Di Cottura Del Baccalï¿½
 Kefir
 Limone Inciso A Croce
 Bourbon Whisky Molto Forte
@@ -9558,7 +9558,7 @@ Acquavite Di Pera
 Ribes (facoltativo)
 Liquore Per Pizze Del Ternano
 Vino Barolo Freddissimo
-Trippetta Di Vitella Già Lessata
+Trippetta Di Vitella Giï¿½ Lessata
 D''ananas (cubetti Piccoli)
 Lievito Di Birra Sciolto Nell''acqua
 Curacao Rosso
@@ -9568,7 +9568,7 @@ Pipi Russu (peperoncino Dolce Essiccato)
 Sedano Sfilettato E Nettato
 Peperone Secco Macinato
 Peperoncino Piccante (facoltativo)
-Fagioli Già Cotti
+Fagioli Giï¿½ Cotti
 Sangue Appena Raccolto
 Uvetta Sultanina Fatta Appena Rinvenire
 Pasta Tipo Lagane Di Acqua E Farina
@@ -9581,7 +9581,7 @@ Menta Piperita Essiccata
 Lamponi Puliti
 Mandorle Pelate Tagliate A Striscette
 Lamponi E Fragole Di Bosco
-Lamponi Già Puliti
+Lamponi Giï¿½ Puliti
 Melone Rotondo Maturo Di 1000 G
 Melone Maturo Di 1000 G
 Lavarello Da 1000 G
@@ -9611,7 +9611,7 @@ Sfoglie Di Pasta Fresca
 Formaggio Parmigiano Reggiano Grattugiato (o Fromaggio Pecorino Grattugiato)
 Pasta Tipo Lasagne Secche
 Pasta Tipo Lasagne All''uovo Secche
-Ragù Di Salsiccia
+Ragï¿½ Di Salsiccia
 Formaggio Pecorino Crotonese Grattugiato
 Pasta Tipo Lasagne All''uovo Fresche
 Pasta Tipo Lasagne Di Semola E Acqua
@@ -9676,16 +9676,16 @@ Cetriolo Sbucciato Tagliato A Cubetti
 Soda Ghiacciata
 Vino Spumante Moscato D''asti Cinzano
 Arancia Non Trattata
-Tartellette Di Pasta Brisée A Conchiglia
+Tartellette Di Pasta Brisï¿½e A Conchiglia
 Lenticchie Gialle Decorticate
 Lenticchie Rosse E Verdi
-Lepre Già Frollata E Scuoiata Pronta Per La Cottura
+Lepre Giï¿½ Frollata E Scuoiata Pronta Per La Cottura
 Lepre Da 1000 G A Pezzi
 Lepre Dell''anno Di 3000 G
 Sagrantino
 Vino Comune
 Leprotto Ben Frollato
-Lardo Di Schiena (più Magro)
+Lardo Di Schiena (piï¿½ Magro)
 Cavallucci
 Scorze Di Cedro Candite
 Lepre Di 1500 G
@@ -9718,7 +9718,7 @@ Scorze Di Limoni (parte Gialla)
 Foglie Di Limone
 Maionese In Tubetto
 Tuorli D''uovo Sodo (facoltativo)
-Latte Condensato Nestlè
+Latte Condensato Nestlï¿½
 Cipolla Dolce Di Certaldo
 Lingua Di Renna Di 1000 G
 Lingua Di Vitello Cotta Affettata
@@ -9760,16 +9760,16 @@ Limi (o Cedri)
 Noccioli D''albicocca
 Basilico (foglie Fresche)
 Scorza Di Limone (parte Gialla)
-Caffè Macinato Fine
-Caffè Macinato Molto Finemente
-Caffè Macinato Grosso
-Caffè Macinato Un Po'' Grosso
+Caffï¿½ Macinato Fine
+Caffï¿½ Macinato Molto Finemente
+Caffï¿½ Macinato Grosso
+Caffï¿½ Macinato Un Po'' Grosso
 Alcool Puro 90 Gradi
 Alcool (o Acquavite)
 Cedro Grande
 Scorze Di Arance Amare
 Fiori D''arancia Essiccati
-Sommità Fiorite Di Timo
+Sommitï¿½ Fiorite Di Timo
 Diffamo
 Fiori Di Rose Selvatiche (petali)
 Noccioli Di Marasche
@@ -9786,7 +9786,7 @@ Foglie Di Bacche D''alloro
 Fusti Freschi Di Angelica Tagliati A Pezzi
 Banane Senza La Scorza
 Alcool Da Liquori
-Caffè Macinato Finissimo
+Caffï¿½ Macinato Finissimo
 Anice (facoltativo)
 Cipolla Sbucciata
 Cipolla Cruda Tritata
@@ -9818,7 +9818,7 @@ Arancia (la Parte Gialla Della Scorza)
 Genziana Maggiore (radice Essiccata)
 Scorza D''arancia (parte Gialla)
 Pera Williams
-Caffè Molto Ristretto
+Caffï¿½ Molto Ristretto
 Frutta Di Stagione Mista
 Vodka Alla Pesca Boero
 Ciliegina Rossa Al Maraschino Boero
@@ -9845,7 +9845,7 @@ Lonza Di Maiale A Fettine Sottili
 Limone (succo E Scorza)
 Lonza Di Maiale Di 1000 G
 Lonza Di Maiale Affumicata
-Patatine Novelle Già Lessate
+Patatine Novelle Giï¿½ Lessate
 Cipolline Sbucciate E Lavate
 Sedano (due Gambi)
 Lemonsoda
@@ -9873,7 +9873,7 @@ Marc De Bourgogne
 Erbe Miste Tritate (basilico, Rosmarino)
 Lumache Purgate E Pulite
 Aglio Tritato Molto Fine
-Lumache Già Spurgate
+Lumache Giï¿½ Spurgate
 Lumache Precotte
 Lumache Grandi
 Lumache Lessate
@@ -9982,7 +9982,7 @@ Mango Disidratato
 Vino Marsala All''uovo
 Frutta (lamponi, Mirtilli, Ribes, Albicocche, Kiwi)
 Mandorle E Noci Tritate Grossolanamente
-Ananas Già Nettato
+Ananas Giï¿½ Nettato
 Vov
 Panna Montata (facoltativo)
 Litchis
@@ -10002,7 +10002,7 @@ Vino Spumante Dolce
 Salsa Al Gusto Di Fragola
 Ribes Rossi
 Melone A Polpa Bianca
-Bugula (sommità Fiorite Secche)
+Bugula (sommitï¿½ Fiorite Secche)
 Cipolle Crude Tritate
 Legumi Freschi
 Radici Fresche Di Insalata Valeriana
@@ -10021,11 +10021,11 @@ Maiale Fresco (musetto, Cotiche,costine)
 Rosmarino Legato Con Filo Incolore
 Pane Casereccio Affettato
 Costine Di Maiale Affumicate
-Carré Di Maiale Disossato (o Polpa Di Maiala A Cubetti)
+Carrï¿½ Di Maiale Disossato (o Polpa Di Maiala A Cubetti)
 Maiale (fettine Da 50 G)
 Polpa Mista Di Maiale
 Peperoni Gialli E Rossi Sott''aceto
-Carré (lonza) Di Maiale
+Carrï¿½ (lonza) Di Maiale
 Pancetta Affumicata,
 Brodo (anche Di Dado)
 Carne Magra Di Maiale
@@ -10073,7 +10073,7 @@ Van-der-hum
 Mandaranci Grandi
 Liquore Mandarinetto
 Soda Water Freddissima
-Crème De Noyaux
+Crï¿½me De Noyaux
 Cioccolato In Granelli
 Gelatina Non Aromatizzata
 Frutta A Pezzetti
@@ -10121,13 +10121,13 @@ Pezzo Di Girello Di Manzo Da 750 G
 Rosetta Di Manzo (o Scannello Di Manzo)
 Coky Boero
 Peppermint Verde Get Freres
-Caffè Espresso Freddo
+Caffï¿½ Espresso Freddo
 Noccioli Di Amarene
 Slivoviz
 Salsa Di Fragole
 Cioccolato A Granelli
 Pasta Tipo Losanghe
-Karkadè
+Karkadï¿½
 Anice Contuso
 Vaniglia Contusa
 Carote, Zucchine E Piselli
@@ -10147,7 +10147,7 @@ Mandorle D''albicocca
 Limoni (succo E Scorza Grattugiata)
 Castagne Intere Grandi
 Castagne Con La Scorza
-Fichi Più Sodi
+Fichi Piï¿½ Sodi
 Fichi Bianchi Maturi
 Fichi Sbucciati
 Alcool O Liquore A Piacere
@@ -10169,7 +10169,7 @@ Timo Selvatico
 Uova Separate
 Budellino D''agnello
 Fegato E Milza D''agnello
-Castagne Lesse Già Spellate
+Castagne Lesse Giï¿½ Spellate
 Vecchia Romagna Buton
 Foglia D''ananas
 Tartine Salate
@@ -10201,7 +10201,7 @@ Colla Di Pesce (fogli Da 5 G)
 Prosciutto Cotto Tagliato Alto
 Gelatina Istantanea Da 50 Cl Ciascuna
 Trito D''erbe Aromatiche
-Riso Già Cotto
+Riso Giï¿½ Cotto
 Fragola A Spicchi
 Succo Di Limone Boero
 Ciliegina Bianca
@@ -10211,7 +10211,7 @@ Grasso Ricavato Dalla Collarina
 Mentuccia Di Campo Tritata
 Asparagi Coltivati
 Cecere
-Pancarré Bagnato Nel Latte
+Pancarrï¿½ Bagnato Nel Latte
 Lonza (o Pollo O Tacchino)
 Vino Marsala Secco (o Vino Madera)
 Tavoletta Da .5 L Di Gelatina Istantanea
@@ -10264,7 +10264,7 @@ Melanzane Di 250 G Ciascuna
 Formaggio Mozzarella
 Timo (o Origano)
 Pasta Miso
-Sakè (o Sherry)
+Sakï¿½ (o Sherry)
 Farina (facoltativo)
 Melanzane Lunghe Mature Senza Semi
 Sale Grossetto
@@ -10306,7 +10306,7 @@ Biscotto Sbriciolato
 Melone Maturo Sodo
 Meloncini
 Meloncini Piccoli
-Melone Verde (qualità Invernale) Di 1000 G
+Melone Verde (qualitï¿½ Invernale) Di 1000 G
 Gelato Ai Lamponi
 Melone Di 800 G
 Gelato All''amarena
@@ -10323,7 +10323,7 @@ Pepe Finemente Macinato
 Melone Verde Grande
 Polpa D''ananas A Dadini
 Mele Renette A Dadini
-Arance Tagliate A Metà
+Arance Tagliate A Metï¿½
 Lingua Salmistrata A Dadini
 Noce Candita A Pezzettini
 Sciroppo Di Zenzero
@@ -10336,11 +10336,11 @@ Omogeneizzato Di Pollo
 China Vesuvio
 Meringa Confezionata
 Gusci Di Meringa Di Piccole Dimensioni
-Caffè In Polvere Macinato Fine
-Caffè In Polvere Macinato Finissimo
-Gelato Alla Vaniglia Già Confezionato
-Meringhe Già Confezionate
-Caffè Forte Zuccherato
+Caffï¿½ In Polvere Macinato Fine
+Caffï¿½ In Polvere Macinato Finissimo
+Gelato Alla Vaniglia Giï¿½ Confezionato
+Meringhe Giï¿½ Confezionate
+Caffï¿½ Forte Zuccherato
 Meringhe Grandi
 Ciliegie Selvatiche
 Merluzzetti
@@ -10460,7 +10460,7 @@ Ceci Lessati (con Relativa Acqua)
 Ceci Ammollati
 Bietole Selvatiche
 Pane Casereccio Integrale
-Ceci Già Bagnati
+Ceci Giï¿½ Bagnati
 Pasta Tipo Tagliolini D''acqua E Farina
 Olio D''oliva Molto Fruttato
 Carne Di Coscia Di Maiale
@@ -10497,7 +10497,7 @@ Stinco Di Maiale Di 400 G
 Trito Di Sedano, Carota, Cipolla
 Zucchine Affettate
 Farina Di Miglio Tostata
-Orzo Perlato Già Ammollato
+Orzo Perlato Giï¿½ Ammollato
 Brodo Di Carne Leggero (o Brodo Di Dado)
 Orzo Perlato Ammollato
 Acqua Salata (o Brodo Di Carne)
@@ -10546,7 +10546,7 @@ Porri Affettati
 Cetriolo Piccolo
 Verdure Miste Fresche A Dadini
 Pan Pesto
-Pancarré A Pezzettoni
+Pancarrï¿½ A Pezzettoni
 Minestrone Findus
 Pasta Tipo Capellini Spezzati
 Cavolfiore Di 400 G
@@ -10580,7 +10580,7 @@ Formaggino In Vasetto Di Vetro
 Brodo Sgrassato
 Verdura (insalata Cicoria E Bieta)
 Passato Di Pomodoro Da 200 G
-Minestrone Già Pronto
+Minestrone Giï¿½ Pronto
 Pomodori Spellati Senza Semi
 Pesto Senza Pinoli
 Fagioli Freschi Sgusciati
@@ -10605,23 +10605,23 @@ Pasta Tipo Lancette
 Fagioli Borlotti Sgusciati
 Verdura Di Stagione
 Riso Lesso
-Mini Brioche A Forma Di Cornetti Già Pronte
+Mini Brioche A Forma Di Cornetti Giï¿½ Pronte
 Lime Non Trattati
-Fondi Di Pasta Brisée Cotti (diam. 6 Cm)
+Fondi Di Pasta Brisï¿½e Cotti (diam. 6 Cm)
 The Dubliner Irish Cream
 Minutaglia Di Pesce Di Paranza
 Porri (o Cipolle)
 Bacche Di Mirto Ben Mature
-Tè Darjeeling First Flush
-Tè Assam
-Tè Ceylon Flowery Orange Pekoe
-Tè Congou First Flush
-Tè Orange Pekoe
-Tè Lapsang Souchong
+Tï¿½ Darjeeling First Flush
+Tï¿½ Assam
+Tï¿½ Ceylon Flowery Orange Pekoe
+Tï¿½ Congou First Flush
+Tï¿½ Orange Pekoe
+Tï¿½ Lapsang Souchong
 Te Qi Men
-Tè Wu Long
-Tè Zhong Guo Lu Cha
-Tè Mu Li Hua Cha
+Tï¿½ Wu Long
+Tï¿½ Zhong Guo Lu Cha
+Tï¿½ Mu Li Hua Cha
 Vino Marsala Florio
 Agoni Essiccati
 Polpa Di Granchio (scatole Da 250 G)
@@ -10675,12 +10675,12 @@ Carne Di Cappone Arrosto (o Carne Di Cappone Lessata)
 Carne Di Gallina Faraona Arrosto (o Carne Di Gallina Faraona Lessata)
 Carne Di Tacchino Arrosto (o Carne Di Tacchino Lessata)
 Cioccolato Fondente Semiamaro
-Caffè Lavazza Amaro
+Caffï¿½ Lavazza Amaro
 Cioccolato Amaro In Polvere
 Infuso Caldo Di Foglie D''alloro
 Mormora Da 1000 G
 Lochan Ora
-Trippe Di Vitello Già Bollite
+Trippe Di Vitello Giï¿½ Bollite
 Peperoncini Piccanti Tritati Senza Semi
 Carne Magra Di Suino
 Grasso Di Suino
@@ -10691,7 +10691,7 @@ Mortadella In Fette Spesse
 Trippa Di Vitello Cotta
 Burro (o Zucchero)
 Funghi Champignon Puliti Affettati
-Moscardini Già Puliti
+Moscardini Giï¿½ Puliti
 Moscardini Piuttosto Piccoli
 Cialde Di Grano Duro Per Accompagnare
 Fiori Di Sesamo
@@ -10711,7 +10711,7 @@ Agnello Tritato
 Carne Di Manzo Cotta Tritata Grossolanamente
 Aglio Schiacciato Mescolati Con 1 Cucchiaino Di Sale
 Patate Lessate E Affettate
-Caffè Non Troppo Forte
+Caffï¿½ Non Troppo Forte
 Frutti Di Stagione
 Gelatina (fogli Da 15 G)
 Malvasia O Vino Dolce
@@ -10740,7 +10740,7 @@ Tamarindi
 Menta (per La Guarnizione)
 Meringhette Rosa
 Mele Limoncelle
-Pain D''épices
+Pain D''ï¿½pices
 Melone Da 1000 G
 Yogurth Magro Bianco
 Uva Nera Tipo Americana
@@ -10757,7 +10757,7 @@ Limone (buccia Finemente Tritata)
 Prosciutto Cotto Tagliato A Cubetti
 Gelatina Pronta
 Olive Verdi Snocciolate A Pezzettini
-Ciliegie Denocciolate E Tagliate A Metà
+Ciliegie Denocciolate E Tagliate A Metï¿½
 Vino Rosso Primitivo
 Ciliegia Per Decorare
 Colla Di Pesce (circa 10 G)
@@ -10790,7 +10790,7 @@ Muesli
 Fragole Lavate E Affettate
 Yogurth Preferibilmente Greco
 Lievito In Polvere Per Torte Salate
-Banane In Purè
+Banane In Purï¿½
 Frutta (lamponi, Mirtilli)
 Melanzane Piccole E Rotonde
 Formaggio Cremoso Dolce
@@ -10850,7 +10850,7 @@ Radicchio Verde Tagliato Fine
 Salmone Fresco (400 G)
 Limone Grande (succo E Scorza)
 Erbette Aromatiche Miste
-Caffè Freddo Molto Forte
+Caffï¿½ Freddo Molto Forte
 Acqua Frizzante (facoltativo)
 Soda Water (facoltativo)
 Nocciole Spezzettate
@@ -10875,7 +10875,7 @@ Granceola Fresca Di 2000 G
 Mele Golden (o Mele Renette)
 Patate Grandi Uguali
 Tonno Sott''olio Sgocciolato E Spezzettato
-Filetti D''acciughe Già Puliti
+Filetti D''acciughe Giï¿½ Puliti
 Rafano Grattugiato (cren Grattugiato)
 Cetriolini Verdi Affettati
 Carne Magra Macinata
@@ -10938,9 +10938,9 @@ Polipo Di 1000 G
 Vino Porto Rosso Offley (vino Rosso Porto)
 Crema Cacao Bianca Buton
 Spezie Macinate Miste (cannella, Noce)
-Caffè Lavazza Molto Forte
+Caffï¿½ Lavazza Molto Forte
 Power''s Irish Whisky
-Caffè In Polvere Lavazza
+Caffï¿½ In Polvere Lavazza
 Seltz (o Soda)
 Zolletta Di Zucchero Con Due Gocce Di Angostura
 Arancia (con La Buccia)
@@ -10948,8 +10948,8 @@ Limone (con La Buccia)
 Ciliegina Sciroppata (facoltativo)
 Gusci Di Crostacei Secchi
 Rosmarino Appena Colto Con Tante Foglioline
-Olio D''oliva Di Buonissima Qualità
-Olio D''oliva Di Buona Qualità
+Olio D''oliva Di Buonissima Qualitï¿½
+Olio D''oliva Di Buona Qualitï¿½
 Erbe (alloro, Rosmarino, Basilico)
 Erbe Aromatiche (origano, Alloro, Maggiorana, Semi Di Cumino, Mentuccia, Timo, Basilico)
 Peperoncino Rosso Piccante Fresco
@@ -10973,7 +10973,7 @@ Ombrina Di 500 G
 Pasta Tipo Stracciatella Pugliese
 Peperoni Verdi Piccoli
 Formaggio Emmenthal A Scaglie Sottili
-Ragù Di Carne Pronto
+Ragï¿½ Di Carne Pronto
 Mozzarelline A Ciliegia
 Piselli Al Burro
 Peperoncino Piccante Fresco
@@ -10997,7 +10997,7 @@ Orate Grandi
 Brodo Granulare Di Pesce Knorr
 Orata Di 1500 G
 Cerfoglio E Dragoncello Secchi
-Orata Da 700 G Già Pulita
+Orata Da 700 G Giï¿½ Pulita
 Vongole E Cozze
 Orata Di 1200 G
 Arance Biologiche
@@ -11066,7 +11066,7 @@ Cipolline Mondate
 Ossobuchi Di Vitello
 Ostriche Grandi
 Ostriche Piuttosto Grandi
-Pancarré Tostato E Leggermente Imburrato
+Pancarrï¿½ Tostato E Leggermente Imburrato
 Pane Nero Privato Della Crosta
 Uova Battute
 Ostriche Freschissime
@@ -11170,7 +11170,7 @@ Peperoncino In Polvere Dolce
 Peperoncino In Polvere Piccante
 Scorze Di Agrumi
 Tavolette Di Cioccolato
-Pane Casereccio (tagliate A Metà)
+Pane Casereccio (tagliate A Metï¿½)
 Capperi (o Olive Nere)
 Pomodori Sodi E Maturi
 Panini All''olio Grandi
@@ -11196,7 +11196,7 @@ Pezzo Di Pancetta Da 2000 G
 Mortadella (o Prosciutto Cotto)
 Uova Crude
 Pane Lucano Raffermo (o Pane Pugliese Raffermo)
-Insalata Cicoria Di Campo Già Pulita
+Insalata Cicoria Di Campo Giï¿½ Pulita
 Pane Integrale Secco
 Pane Di Velletri Raffermo
 Verdure Selvatiche Miste
@@ -11253,10 +11253,10 @@ Olio Di Mandorle Amare
 Farina Per Stendere
 Margarina Per Ungere
 Burro Fuso Per Spennellare
-Marrons Glacés Rotti
+Marrons Glacï¿½s Rotti
 Panettone Da 500 G
 Panettone Basso Da 1000 G
-Zucchero (più Alcuni Cucchiai)
+Zucchero (piï¿½ Alcuni Cucchiai)
 Canditi Assortiti Tagliati A Dadini
 Ostie Da Pasticceria
 Candito Nero
@@ -11301,7 +11301,7 @@ Vaniglia (o Bustina Di Vaniglina)
 Solidificante Panna Cotta Cameo
 Panna Liquida Molto Spessa
 Zucchero A Velo Leggermente Vanigliato
-Vaniglia (stecca Tagliata A Metà)
+Vaniglia (stecca Tagliata A Metï¿½)
 Colla Di Pesce (in Fogli)
 Zucchero A Velo Per Il Caramello
 Zucchero Fino
@@ -11335,7 +11335,7 @@ Sugna (o Burro)
 Mozzarella (o Mozzarella Fiordilatte)
 Pomodorini Rossi Ben Sodi
 Fettine Di Rosa Di Vitellone
-Pasta Di Pane Comprata Già Pronta
+Pasta Di Pane Comprata Giï¿½ Pronta
 Salmone Fresco (tranci Da 80 G)
 Mozzarella (facoltativo)
 Ricotta (facoltativo)
@@ -11397,7 +11397,7 @@ Mozzarella Fior Di Latte
 Formaggio Pecorino Romano Non Troppo Stagionato
 Lepre Disossata
 Vino Rosso Barolo
-Erbette Già Lessate (anche Surgelate)
+Erbette Giï¿½ Lessate (anche Surgelate)
 Polpa Di Lepre
 Ginepro (facoltativo)
 Dado Ai Funghi
@@ -11419,8 +11419,8 @@ Limoni (buccia Grattugiata)
 Ghiaccia (o Miele)
 Purea Di Cachi
 Succo Di Cachi
-Estratto Di Caffè (o Caffè Ristretto)
-Caffè (facoltativo)
+Estratto Di Caffï¿½ (o Caffï¿½ Ristretto)
+Caffï¿½ (facoltativo)
 Arance Quito
 Mandorle Senza Pellicina
 Miele Di Dente Di Leone
@@ -11483,7 +11483,7 @@ Panna E Pomodoro
 Mascarpone Fresco
 Pasta Tipo Pasta Grossa
 Pasta Tipo Qualsiasi Colorata Alla Barbabietola
-Barbabietola Piccola Già Cotta
+Barbabietola Piccola Giï¿½ Cotta
 Pancetta Dolce Tesa
 Uova Intere Grandi
 Sardina Sott''olio
@@ -11534,7 +11534,7 @@ Mandorle Amare Di Albicocca
 Mandorle Amare Di Prugna
 Pasta Tipo Torciglioni
 Mortadella (pezzi Da 250 G)
-Caffè Forte (o Rum) (o Maraschino)
+Caffï¿½ Forte (o Rum) (o Maraschino)
 Pasta Tipo Maccaroncelli
 Pasta Tipo Perciatelli
 Peperone Rosso Piccante O Secco
@@ -11746,7 +11746,7 @@ Cognac Martell Cordon Bleu
 Fagiolino Verde
 Vermouth Dry Gancia
 Pinapple Juice
-Piedini D''agnello Già Puliti
+Piedini D''agnello Giï¿½ Puliti
 Pomodori Grandi Maturi Spellati
 Patate Sbucciate E Bollite
 Farina Di Mandioca
@@ -11870,7 +11870,7 @@ Filetti D''acciughe In Scatola
 Chicchi Di Mais In Scatola (o Chicchi Di Mais Lessato)
 Peperone Sott''aceto (falde Tritate)
 Melanzane Di Tipo Lungo Piccole
-Fagioli Cannellini Già Lessati
+Fagioli Cannellini Giï¿½ Lessati
 Pepolino E Maggiorana
 Muscolo Di Vitellone
 Pere Cosce
@@ -11926,7 +11926,7 @@ Peperone Verde Privato Dei Semi E Tritato
 Pomodori Pelati E Tritati
 Polpa Di Granchio Spezzettata
 Trito Di Salvia, Rosmarino, Alloro E Aglio
-Coda Di Rospo (rana Pescatrice) Già Pulita
+Coda Di Rospo (rana Pescatrice) Giï¿½ Pulita
 Trito Di Salvia, Rosmarino, Timo
 Coda Di Rospo (rana Pescatrice) (600 G)
 Pesce (orata, Cernia, Triglia) Da 1000 G
@@ -11986,7 +11986,7 @@ Pesce Spada A Fette Sottili
 Pesce Spada A Fettine Sottilissime
 Uvetta Sultanina Ammorbidita Nel Limone
 Polpa Di Pomodoro A Cubetti
-Stoccafisso Norvegese Già Ammollato
+Stoccafisso Norvegese Giï¿½ Ammollato
 Patate Novelle Medie
 Pesche Non Ancora Mature
 Pesche Gialle Duracine
@@ -12018,7 +12018,7 @@ Petti D''anatra Grandi
 Petti Di Piccione (di Circa 80 G Ognuno)
 Fondo Di Pollame Chiaro
 Pane Bianco Senza Crosta
-Petti Di Pollo Tagliati A Metà
+Petti Di Pollo Tagliati A Metï¿½
 Petti Di Pollo In Scaloppine
 Mezzi Petti Di Pollo Senza Osso
 Fette Di Prosciutto Crudo
@@ -12033,7 +12033,7 @@ Funghi Coltivati (o Funghi Porcini)
 Pomodori Maturi Un Po'' Sodi
 Pasta Di Soia
 Olio Piccante
-Petti Di Pollo Interi (tagliati A Metà)
+Petti Di Pollo Interi (tagliati A Metï¿½)
 Ricotta Fresca (o Formaggino Fresco)
 Brodo Di Dado (o Brodo Di Carne)
 Filetti Di Pollo Impanati
@@ -12051,7 +12051,7 @@ Fondo Chiaro Di Pollame
 Petti Di Pollo Piuttosto Grandi
 Zucchetti
 Petto Di Tacchina
-Burro Più Quello Per La Teglia
+Burro Piï¿½ Quello Per La Teglia
 Salsicce Piccole
 Midollo Di Manzo
 Luganighe Di Maiale
@@ -12070,10 +12070,10 @@ Fettine Di Vitello Da 40 G Ognuna
 Girello Di Vitello (fettine Sottili)
 Piccioni Pronti Per La Cottura
 Vino Solleone
-Piccioni Già Puliti
+Piccioni Giï¿½ Puliti
 Ventresca (2 Per Ogni Piccione)
 Aglio (a Fettine)
-Pancarré Grattugiato
+Pancarrï¿½ Grattugiato
 Vino Rubesco
 Fondo Bruno Con Le Ossa Di Piccione
 Carne Da Salsiccia
@@ -12134,11 +12134,11 @@ Piovra Di 1200 G (o Due Piovre Di 600 G)
 Piovra Di 1000 G
 Clementina (succo)
 Gassosa Al Limone
-Caffè Istantaneo In Polvere
-Doppia Panna Già Montata
-Uva Nera Tagliata A Metà Senza Semi
-Uva Bianca Tagliata A Metà Senza Semi
-Cioccolato Al Caffè In Grani
+Caffï¿½ Istantaneo In Polvere
+Doppia Panna Giï¿½ Montata
+Uva Nera Tagliata A Metï¿½ Senza Semi
+Uva Bianca Tagliata A Metï¿½ Senza Semi
+Cioccolato Al Caffï¿½ In Grani
 Trota Salmonata Affumicata
 Pesce A Tranci (merluzzo, Dentice)
 Uovo Sodo A Quadratini
@@ -12150,9 +12150,9 @@ Bacon (fette Di 1/2 Cm Di Spessore)
 Piselli Freschi Nei Loro Baccelli
 Farina Di Semola Di Prima Macina
 Sugna Per Dolci
-Tè Di Sale
+Tï¿½ Di Sale
 Insalata Scarola Riccia (indivia)
-Olio Di Semi Di Buona Qualità
+Olio Di Semi Di Buona Qualitï¿½
 Frittoli Di Maiale (piedi E Cotiche)
 Olive Verdi Schiacciate
 Peperoncino Rosso Piccante Macinato
@@ -12170,20 +12170,20 @@ Pomodori Perini A Rondelle
 Cozze Cotte
 Pancetta Affettata Spessa
 Wurstel Di Maiale Affettati
-Pasta Di Pane Acquistata Già Pronta
+Pasta Di Pane Acquistata Giï¿½ Pronta
 Formaggio Pecorino Fresco (pezzi Da 150 G)
 Formaggio Gorgonzola Spezzettato
 Formaggio Molle Tipo Certosa
 Pasta Base Per Pizza Al Sesamo
 Preparato Per Pizza Lievitazione Rapida
-Olive Nere Tagliate A Metà
+Olive Nere Tagliate A Metï¿½
 Prosciutto Cotto Affettato Spesso
 Salamino Piccante Affettato
 Mozzarella Di 200 G
 Peperone Rosso Al Naturale In Scatola
 Erbe Di Provenza
 Salamino Affettato
-Origano Tritato (metà Se Secco)
+Origano Tritato (metï¿½ Se Secco)
 Farina Di Frumento Integrale O Semintegrale (tipo 2)
 Pannocchiette Al Naturale
 Friccioli
@@ -12192,7 +12192,7 @@ Tanni A Crudo
 Farina Di Frumento Integrale O Semintegrale Tipo 2
 Lievito Secco In Granuli
 Mele Piccole Affettate A Rondelle Finissime
-Prugne Secche Tagiate A Metà
+Prugne Secche Tagiate A Metï¿½
 Burro Tagliato A Pezzetti
 Cioccolato Fondente In Tavolette
 Formaggio Fior Di Latte
@@ -12202,7 +12202,7 @@ Liquore Sambuca (o Alchermes)
 Pomodori Freschi Pelati E Sbollentati
 Canditi Vari (cedro, Arancio)
 Base Per Pizza Di 22 Cm Di Diametro
-Pasta Per Pizza Già Pronta
+Pasta Per Pizza Giï¿½ Pronta
 Prosciutto In Dadini
 Ananas Senza Zucchero (in Scatola)
 Mozzarella Grattugiata
@@ -12213,8 +12213,8 @@ Pomodori Freschi (o Pomodorini)
 Mozzarella A Fettine
 Mozzarella Finemente Sminuzzata
 Farina Di Frumento Integrale Tipo 1 O Tipo 2
-Pasta Per Pizze Già Lievitata
-Pasta Da Pane Già Pronta
+Pasta Per Pizze Giï¿½ Lievitata
+Pasta Da Pane Giï¿½ Pronta
 Verdura (insalata Cicoria, Cavolo Broccolo, Broccoletti Di Rapa)
 Cannella Ridotta In Polvere
 Ingredienti Per La Sfoglia
@@ -12276,7 +12276,7 @@ Farina Gialla Genovese
 Cavoli Neri Ricci
 Farina Di Mais Di Storo
 Farina Da Polenta
-Polenta Già Cotta
+Polenta Giï¿½ Cotta
 Farina Di Grano Saraceno Macinata Grossa
 Formaggio Scimut Della Valtellina
 Cavolo Cappuccio Verde
@@ -12293,7 +12293,7 @@ Pomodorini Sardi
 Vino Rosso Di Media Struttura
 Patate Pelate
 Yogurth Bianco Magro (vasetti Da 125 G)
-Polipi Piccoli Già Puliti
+Polipi Piccoli Giï¿½ Puliti
 Polipo Di Circa 1000 G
 Pollastra Pronta Per La Cottura
 Tartufo Fresco
@@ -12361,23 +12361,23 @@ Pollo Di 1000 G Pronto Per La Cottura
 Erbe Tritate (salvia, Rosmarino)
 Olio D''oliva Per La Teglia
 Limone A Fette
-Pollo Di 1200 G Già Pulito
+Pollo Di 1200 G Giï¿½ Pulito
 Spezie Miste In Polvere
 Arachidi Sgusciate E Tostate
-Petti Di Pollo Divisi A Metà
+Petti Di Pollo Divisi A Metï¿½
 Peperone A Pezzetti
 Prezzemolo, Basilico, Maggiorana, Salvia
 Pollo Di Circa 1300 G
 Maggiorana Di Monte
 Vino Rosso Valtellina Invecchiato
 Pollo Ruspante Disossato Ridotto In Pezzi Regolari
-Pollo Giovane Di 1000 G Già Pulito
+Pollo Giovane Di 1000 G Giï¿½ Pulito
 Yogurth Magro Naturale
 Pollo Di 1600 G
 Zucca Sott''olio
 Foglioline Di Coriandolo Tritate
 Yogurth Bianco Non Compatto
-Petto Di Pollo Di 450 G Già Pulito
+Petto Di Pollo Di 450 G Giï¿½ Pulito
 Shoyu (salsa Di Soia)
 Zenzero Grattugiato Fresco
 Pollo Di 1400 G Pronto Per La Cottura
@@ -12389,8 +12389,8 @@ Friggitelli (peperoncini Verdi)
 Petto Di Pollo Sgrassato
 Olive Verdi Senza Semi
 Cosce Di Pollo Con Sopracoscia
-Cipolline Già Spellate
-Pollo Da 500 G Già Pulito
+Cipolline Giï¿½ Spellate
+Pollo Da 500 G Giï¿½ Pulito
 Pollo Da 1300 G
 Pollo A Pezzi Piccoli
 Petti Di Pollo Tagliati A Dadini
@@ -12399,7 +12399,7 @@ Midollo Di Vitello
 Pangrattato Ammollato Nel Latte
 Gherigli Di Noci Tritate
 Pancetta Tritata Con 1 Spicchio D''aglio
-Pollo Tagliato A Metà
+Pollo Tagliato A Metï¿½
 Cipolle Tagliate A Fette
 Polvere Al Curry
 Sottocosce Di Pollo
@@ -12450,14 +12450,14 @@ Pangrattato (solo Di Mollica)
 Pisellini Freschi O Surgelati
 Polpa D''agnello Tritata
 Mollica Di Pane Raffermo Sbriciolata
-Funghi Porcini Già Puliti
+Funghi Porcini Giï¿½ Puliti
 Cipolla Affettata E Imbiondita
 Formaggio Parmigiano Grattugiato (o Ricotta Salata)
 Mollica Di Pane Bagnata E Strizzata
 Ricotta Grattugiata
-Carne Di Montone Già Cotto
+Carne Di Montone Giï¿½ Cotto
 Palamita Da 600 G
-Petto Di Pollo Già Lessato
+Petto Di Pollo Giï¿½ Lessato
 Brodo Di Carni Miste (pollo, Vitello)
 Polpa Di Sgombro
 Formaggio Pecorino Siciliano Grattugiato
@@ -12499,7 +12499,7 @@ Verdura Da Minestrone Lessata
 Yogurth Intero (vasetti Di 125 G)
 Carne Cotta Di Qualsiasi Tipo
 Pollo Crudo Frullato Con 125 G Di Panna
-Pancarré Ammollato Nel Latte
+Pancarrï¿½ Ammollato Nel Latte
 Droghe
 Lardo A Listarelle
 Patate Crude Grattugiate
@@ -12513,13 +12513,13 @@ Lesso O Arrosto Avanzato
 Carne Magra Di Vitello Macinata
 Formaggio Toma Piemontese Grattugiato
 Polipo Verace Di 1000 G
-Polipi Già Puliti Di 500 G
+Polipi Giï¿½ Puliti Di 500 G
 Acquavite Di Mela
 Pane (mollica)
 Pomodori Medi Tutti Uguali
 Formaggio Di Capra Di Media Stagionatura
 Pomodori Rossi Tondi
-Carne Già Cotta
+Carne Giï¿½ Cotta
 Wurstel Senza Pelle
 Pomodori Da Riso
 Mollica Sbriciolata Di Pane Raffermo
@@ -12543,7 +12543,7 @@ Pomodori Rotondi Grandi Maturi Sodi
 Peperone Rosso (o Peperone Giallo)
 Pomodori Maturi E Carnosi
 Pomodori Tondi E Maturi
-Paté D''oliva
+Patï¿½ D''oliva
 Pomodori Nani
 Pomodori Grandi Maturi Ma Non Troppo
 Filetti D''acciughe Salati
@@ -12613,9 +12613,9 @@ San Marzano Borsci
 Pesche A Dadini
 Arance A Fette Sottili
 Frutta Di Stagione (pesche, Fragole, Albicocche, Banane) A Dadini
-Bignè Dolci Già Pronti
-Bignè Vuoti Già Pronti
-Bignè Pronti
+Bignï¿½ Dolci Giï¿½ Pronti
+Bignï¿½ Vuoti Giï¿½ Pronti
+Bignï¿½ Pronti
 Prosciutto Affumicato Di Maiale
 Prosciutto Crudo Di 3000 G
 Prosciutto Crudo (pezzi Da 500 G)
@@ -12634,7 +12634,7 @@ Prosciutto Crudo (fette Da 300 G)
 Coscia Di Maiale Appena Macellata
 Prosciutto Di Maiale (pezzi Da 1000 G)
 Macinato Di Tacchino
-Prosciutto Di Maialino Già Cotto
+Prosciutto Di Maialino Giï¿½ Cotto
 Vino Da Dessert (traiminer O Rotgipfler)
 Prosciutto Di Maiale Disossato
 Speck Di Cinghiale In Fette
@@ -12726,7 +12726,7 @@ Latte (possibilmente Fresco E Parzialmente Scremato)
 Prosciutto A Dadini
 Gambi Bianchi Di Porri
 Polpa Di Daino
-Pasta Per Pizza Già Stesa
+Pasta Per Pizza Giï¿½ Stesa
 Pasta Sfoglia Fresca (dischi Da 200 G)
 Fegato Di Coniglio
 Rognoni Di Coniglio
@@ -12757,7 +12757,7 @@ Granulare Di Soia
 Funghi Spinaroli
 Lardo (o Olio D''oliva Extra-vergine)
 Salsa Al Pomodoro Napoletana
-Formaggio Gruyère Tagliato A Dadini
+Formaggio Gruyï¿½re Tagliato A Dadini
 Artic Mango
 Coda Di Rospo (rana Pescatrice) Di 2000 G
 Coscette Di Rane
@@ -12790,11 +12790,11 @@ Ravioli Di Magro
 Sottopaletta Di Vitello (fesone Di Spalla)
 Sugo Di Arrosto (o Burro E Salvia)
 Ravioli Ricotta E Spinaci
-Pasta Già Spianata
+Pasta Giï¿½ Spianata
 Farina Di Grano Arso
 Formaggio Di Latteria
 Pasta Tipo Ravioli Di Magro
-Pancarré (fetta Ammollata Nel Latte)
+Pancarrï¿½ (fetta Ammollata Nel Latte)
 Pasta Tipo Pasta All''uovo A Sfoglia
 Pomodori Maturi Sodi E Grandi
 Sedano Tenero Con Le Foglie
@@ -12830,7 +12830,7 @@ Pane Toscano Cotto A Legna
 Fagioli Bianchi Freschi
 Pomodori Maturi (o Pomodori Pelati)
 Zuppa Di Fagioli
-Ragù Di Maiale (o Ragù D''agnello)
+Ragï¿½ Di Maiale (o Ragï¿½ D''agnello)
 Ricciola
 Peperoni In Agrodolce
 Ricciola Di 2000 G
@@ -12851,7 +12851,7 @@ Pajata D''agnello
 Vino Bianco Dei Castelli
 Pancetta (fette Di 50 G)
 Mollica Sbriciolata Di Pane Casereccio Raffermo
-Ceci In Scatola Già Lessati
+Ceci In Scatola Giï¿½ Lessati
 Pajata (intestini Di Vitello)
 Pesce Misto Da Frittura
 Formaggio Caciotta Dolce
@@ -12867,7 +12867,7 @@ Piselli Tenerissimi
 Riso Vialone Nano
 Burro (o Olio D''oliva E Formaggio)
 Basilico E Prezzemolo Tritati
-Baccalà Già Ammorbidito
+Baccalï¿½ Giï¿½ Ammorbidito
 Pomodori Maturi (o 200 G Di Pomodori Pelati)
 Fave Fresche (o Fave Surgelate)
 Salsa Al Curry
@@ -12949,7 +12949,7 @@ Seppie Pulite Con La Vescichetta Del Nero
 Finocchietti Selvatici (o 4 Cuori Di Finocchio Con Le Barbe)
 Riso Selvatico
 Trito Di Prezzemolo, Basilico, Cerfoglio
-Barbabietola Già Cotta
+Barbabietola Giï¿½ Cotta
 Spuma Di Salmone Affumicato
 Funghi Secchi Cinesi Profumati
 Riso Selvaggio Lesso
@@ -12982,7 +12982,7 @@ Riso Carnaroli (o Riso Arborio)
 Poca Farina
 Brodo Di Pollo (o Brodo Di Dado)
 Brodo Di Pesce (o Acqua Calda Salata)
-Tartufi Bianchi Puliti Dalla Terra E Lavati O L''equivalente In Tartufo A Fettine O In Paté
+Tartufi Bianchi Puliti Dalla Terra E Lavati O L''equivalente In Tartufo A Fettine O In Patï¿½
 Brodo Vegetale (carota, Sedano E Cipolla)
 Pesce Misto (carpa, Tinca, Pesce Gatto, Anguilla)
 Prezzemolo Per La Decorazione
@@ -13052,7 +13052,7 @@ Cipolla Non Molto Grande
 Brodo Di Verdure Leggero
 Riso Per Risotto
 Carciofi Novelli
-Funghi Già Cotti
+Funghi Giï¿½ Cotti
 Tranci Di Grongo
 Tonno Sott''olio Scolato
 Tinche Da 300 G
@@ -13112,7 +13112,7 @@ Insalata Rucola Tritata Grossa
 Castagne Bianche Secche
 Roast-beef (pezzi Da 700 G)
 Spinaci Filanti Findus
-Roast-beef Già Cotto
+Roast-beef Giï¿½ Cotto
 Roast Beef
 Controgirello Di Vitello (o Codone Di Vitello)
 Vodka Cristall
@@ -13155,14 +13155,14 @@ Rombo Da 1000 G
 Vermouth Rosso Cinzano
 Mandarinetto Siciliano
 Amaro Averna
-Vino Rosé Ghiacciato
+Vino Rosï¿½ Ghiacciato
 Ciliegina Cherry Rocher
 Palline Di Zucchero Argentate
 Lievito (+30% In Inverno)
 Menta Cedrina
 Noci Moscate
 Cedri (scorza)
-Caffè Macinato Grossolanamente
+Caffï¿½ Macinato Grossolanamente
 Scorza Di Cedro (solo Parte Colorata)
 Zucchero Bianco Fine In Polvere
 Fragola Per Decorare
@@ -13182,7 +13182,7 @@ Gelatina O Confettura Di Lamponi
 Prosciutto Cotto (250 G)
 Trito Aromatico (salvia, Rosmarino, Prezzemolo, Basilico)
 Arrosto Di Vitello Da 1000 G
-Purè Di Castagne Non Dolcificato
+Purï¿½ Di Castagne Non Dolcificato
 Zucchero Semolato Per Arrotolare
 Panna Fresca (facoltativo)
 Purea Di Marroni
@@ -13245,7 +13245,7 @@ Carne Bovina
 Pasta Tipo Lasagnette All''uovo Fresche
 Pasta Tipo Sagnette All''uovo Fatte A Mano
 Ronymas Cocco
-Bignè Piccoli Vuoti
+Bignï¿½ Piccoli Vuoti
 Maizena (o Fecola)
 Carne Di Maiale (scrofa Adulta)
 Salama Da Sugo Di 1000 G Stagionata Per Almeno 6 Mesi
@@ -13268,7 +13268,7 @@ Condimenti Assortiti
 Burro Freddo Di Frigorifero
 Misto Di Erbe Secche (salvia, Rosmarino, Maggiorana, Santoreggia)
 Sale Integrale
-Punte Di Asparagi Già Lessate
+Punte Di Asparagi Giï¿½ Lessate
 Crostini Di Pane Leggermente Imburrati
 Scaloppe Di Salmone Fresco
 Salmone Fresco (tranci Da 200 G L''uno)
@@ -13411,7 +13411,7 @@ Roux Biondo
 Liquido Di Cottura Di Funghi
 Burro D''acciuga
 Acciughe Filettate
-Anatra Piccola Già Pulita
+Anatra Piccola Giï¿½ Pulita
 Brodo Caldo (anche Di Dado)
 Limone (succo E Scorze Tagliate A Cubetti)
 Besciamella Spessa Fredda
@@ -13538,13 +13538,13 @@ Pomodori Tritati Finemente
 Peperoncini Jalapeno Tritati (o Peperoncini Serranos Tritati)
 Coriandolo Sminuzzato
 Salsa Demi-glace (v. Ricetta)
-Formaggio Comtè Grattugiato
+Formaggio Comtï¿½ Grattugiato
 Formaggio Brinz Grattugiato
 Formaggio Gruviera Grattugiato (o Formaggio Parmigiano Grattugiato)
 Pepe Di Caienna In Polvere
 Burro Di Gamberetti
 Fondo Di Cottura Di Frutti Di Mare
-Purè Di Funghi
+Purï¿½ Di Funghi
 Salsa Vellutata Calda
 Brodo Chiaro (brodo Di Pollo O Brodo Di Vitello
 Trito Di Carota, Cipolla E Grasso
@@ -13591,7 +13591,7 @@ Prosciutto Crudo Grasso E Magro Tritato
 Roux Bruno
 Carote A Dadini
 Pomodori Pelati Privati Dei Semi E Tagliati A Filetti
-Consommè Di Pollo (o Consommè Di Gallina)
+Consommï¿½ Di Pollo (o Consommï¿½ Di Gallina)
 Mele Cotte Al Vino Bianco
 Formaggini Senza Polifosfati
 Olive Nere Piuttosto Grosse
@@ -13608,7 +13608,7 @@ Brodo Chiaro (di Pollo O Vitello) Caldo
 Pepe Biondo
 Sangue Di Selvaggina
 Marinata Di Selvaggina
-Purè Di Spinaci
+Purï¿½ Di Spinaci
 Panini Al Latte (mollica)
 Panino (mollica Bagnata In Aceto Di Vino Bianco)
 Tuorlo D''uovo Lesso
@@ -13628,7 +13628,7 @@ Sciroppo Di Cocco Monin
 Salsiccette Di Maiale
 Salsicce Di Maiale Fresche Piccole
 Salsiccette Fresche
-Pancarré Ammollato Nell''aceto
+Pancarrï¿½ Ammollato Nell''aceto
 Crostoni Di Polenta
 Dadini Di Pane Fritto
 Pomodori Pelati (scatole Da 450 G)
@@ -13642,7 +13642,7 @@ Vin Santo Secco
 Prosciutto Crudo (o Pancetta Stesa)
 Polpa Di Vitello A Fettine
 Fesa Di Vitello Tagliata A Fette
-Piselli Già Lessati
+Piselli Giï¿½ Lessati
 Pesche Frullate
 Pesca (facoltativo)
 Aperitivo Rosso
@@ -13654,7 +13654,7 @@ Pannocchie Di Mais Fresco Tagliate In 3 Parti
 Banane Platanos Verdi Sbucciate Tagliate A Pezzi
 Banane Rosse (hartones Pintones) Sbucciate Tagliate A Pezzi
 Tuberi Di Manioca (yuca) Sbucciati Tagliati A Pezzi
-Patate Sbucciate Tagliate A Metà
+Patate Sbucciate Tagliate A Metï¿½
 Coriandolo Fresco (cilantro) Tritato
 Carne Di Manzo (fesa)
 Insalata Lattuga A Fette Sottili
@@ -13670,7 +13670,7 @@ Bastoncino Di Cannella
 Frutti Di Bosco (lamponi, More, Ribes)
 Cocomero A Cubetti
 Sciroppo Allo Zenzero
-Vino Rosé Freddo
+Vino Rosï¿½ Freddo
 Arancia Non Sbucciata
 Pera Tagliata A Tocchetti
 Fragole Affettate
@@ -13697,7 +13697,7 @@ Mollica Di Pane Duro (possibilmente Casereccio)
 Cipolla Di Tropea Grande
 Farina Per L''impanatura
 Cipolle Bianche (2 Cipolle Da 200 G)
-Sarde Già Pulite E Aperte A Libro
+Sarde Giï¿½ Pulite E Aperte A Libro
 Sardine Fresche
 Olio D''oliva Per Ungere La Pirofila
 Sardine Sott''olio Grandi
@@ -13791,7 +13791,7 @@ Cipolle Lunghe
 Carne Di Maiale Tritata E Condita
 Pomodoro Tritato E Sgocciolato
 Formaggio Erborinato
-Spinaci Già Cotti
+Spinaci Giï¿½ Cotti
 Vino Rosso Amabile
 Succo Di Amarene
 Polpa Di Semi Di Melagrana
@@ -13811,7 +13811,7 @@ Gardenia
 Scorzobianca
 Carne Di Pollo, Vitello, Maiale, Agnello
 Carne Di Coniglio, Faraona
-Caffè Doppio Lavazza
+Caffï¿½ Doppio Lavazza
 Whisky Bell''s
 Ginger-ale
 Olive Nere Di Grecia
@@ -13834,8 +13834,8 @@ Salsa Di Tofu
 Formaggio Caciocavallo Silano Fresco
 Pezzo Di Sella Di Capriolo Di 4000 G
 Mirtilli Rossi Conservati
-Porri Tagliati A Metà
-Paté Di Fegato Di Vitello
+Porri Tagliati A Metï¿½
+Patï¿½ Di Fegato Di Vitello
 Gelatina Di Selvaggina
 Sella Di Coniglio (da Circa 800 G)
 Carne Di Coniglio (coscia)
@@ -13843,12 +13843,12 @@ Sella Di Lepre Grande (le Due Parti)
 Vino Cabernet
 Selle Di Lepre Pulite Di 300 G Ognuna
 Vino Dolcetto D''alba
-Carré Di Maialino Da Latte
+Carrï¿½ Di Maialino Da Latte
 Fegato Di Maialino Da Latte
 Retina Di Maiale Ben Lavata E Asciugata
 Erbe Aromatiche Fresche (rosmarino, Timo, Salvia, Maggiorana, Finocchietto)
 Marmellata Ai Frutti Di Bosco
-Purè Di Marroni Da 400 G
+Purï¿½ Di Marroni Da 400 G
 Mandorlato
 Latte Quanto Basta
 Fiori Di Camomilla (sacchetti Da 200 G)
@@ -13861,7 +13861,7 @@ Melagrane Ben Mature
 Yogurth Intero Al Naturale
 Panna Da Montare Freschissima
 Miele D''acacia O Millefiori
-Acini D''uva Misti (moscato, Rosé)
+Acini D''uva Misti (moscato, Rosï¿½)
 Purea Di Fragole
 Uva Di Malaga
 Vino Di Malaga
@@ -13872,7 +13872,7 @@ Semi Di Senape Freschi
 Seppie Tagliate A Strisce
 Seppie Freschissime
 Seppie Pulite Tagliate A Tocchetti
-Bietola Già Lessata
+Bietola Giï¿½ Lessata
 Preparato Granulare Per Brodo Di Pesce
 Seppie Grandi
 Seppie Di 250 G Ognuna
@@ -13881,10 +13881,10 @@ Seppie Medio-piccole
 Filetti Di Spigola
 Striscioline Di Seppia
 Seppioline (anche Surgelate)
-Seppioline Già Pulite
+Seppioline Giï¿½ Pulite
 Seppioline Surgelate
 Trito Di Prezzemolo E Basilico
-Seppioline Minute Già Pulite
+Seppioline Minute Giï¿½ Pulite
 Seppie Fresche Intere
 Pomodori Da Sugo Scottati E Pelati
 Brodo Di Pesce (o Brodo Vegetale)
@@ -13910,10 +13910,10 @@ Pasta Sfoglia (quadrati Di 12 Cm)
 Pasta Sfoglia (rotoli Da 250 G)
 Aringhe Dissalate
 Foglie Di Spinaci Novelli
-Broccoletti Calabresi Già Puliti
+Broccoletti Calabresi Giï¿½ Puliti
 Besciamella Vegetale (con Acqua Di Cottura Del Cavolfiore E Yogurth)
 Polpa Di Zucca Marina Di Chioggia
-Crescione Già Pulito
+Crescione Giï¿½ Pulito
 Patata Grande Lessa
 Conserva Di Pesche
 Carne Di Manzo (o Carne Di Vitello Lessato)
@@ -13939,7 +13939,7 @@ Crema Di Sesamo (tahin)
 Verza Lessata
 Polpa Pulita Di Zucca
 Albicocche Sciroppate (scatole Di 500 G)
-Spinaci Già Lessati
+Spinaci Giï¿½ Lessati
 Pane Casereccio Cotto A Legna
 Sgombri Da Porzione
 Sgombri Da 150 G
@@ -13962,11 +13962,11 @@ Carne Avanzata
 Verdure E Ricotta Legate Con Uovo
 Pesce Condito Con Besciamella Densa
 Granchi Cinesi
-Tè Verde Cinese
+Tï¿½ Verde Cinese
 Vodka Liscia Francoli
 Sherry Vino
 Vodka Krakus
-Caffè Lungo Lavazza
+Caffï¿½ Lungo Lavazza
 Melone Mixybar
 Melone Frullato
 Succo Di Pesca Noce
@@ -13997,12 +13997,12 @@ Erbe Fresche Miste Tritate (prezzemolo, Erba Cipollina, Cerfoglio, Aneto)
 Erbe Per Guarnire
 Sogliole Surgelate
 Sogliola (pesci Da 250 G L''uno)
-Medaglioni Di Paté Di Fegato D''oca
+Medaglioni Di Patï¿½ Di Fegato D''oca
 Sogliole Di 250 G
 Sogliole (pesci Da 250 G L''uno)
 Sogliole Di 600 G
 Salsa Tartara
-Sogliole Di Limanda Già Pulite
+Sogliole Di Limanda Giï¿½ Pulite
 Zucchine (parte Verde)
 Gamberi Sgusciati A Crudo
 Trito Di Maggiorana, Prezzemolo E Salvia
@@ -14072,7 +14072,7 @@ Succo Di Pompelmo Rosa
 Prugne Rosse Grandi Mature E Sode
 Prugne Rosse (santa Rosa O California)
 Grappa Di Prugne
-Ribes Già Sgranato
+Ribes Giï¿½ Sgranato
 Cherry Brandy (o Alchermes)
 Frutta Mista Congelata A Pezzi
 Limone Pelato A Vivo Senza Semi
@@ -14106,7 +14106,7 @@ Latte Condensato Zuccherato
 Odore Di Vaniglia (o Odore Di Cannella)
 Rosette Di Meringa
 Liquore Alle Fragole
-Vino Brulè
+Vino Brulï¿½
 Formaggio Emmenthal (o Formaggio Groviera)
 Pane Francese (baguette)
 Latte Tiepido (o Acqua)
@@ -14185,7 +14185,7 @@ Polipo Fresco
 Cipollotto Bianco
 Pasta Tipo Spaghetti Cinesi Freschi
 Funghi Cinesi Secchi
-Germogli Di Bambù Lessati
+Germogli Di Bambï¿½ Lessati
 Porri (o Cipollotti)
 Gomasio (sale Di Sesamo)
 Funghi Surgelati Findus
@@ -14231,7 +14231,7 @@ Spalle D''agnello Da Latte
 Spalle D''agnello Piccole
 Spalla Di Maialetto Con Cotenna
 Anice Selvatico
-Pompelmo (spicchi Tagliati A Metà)
+Pompelmo (spicchi Tagliati A Metï¿½)
 Farina Gialla Fina
 Polpa Di Vitello (spalla O Petto)
 Polpa Di Manzo Tagliata A Cubetti
@@ -14259,7 +14259,7 @@ Mela Gialla
 Spalla Di Cervo
 Carote (per Bouquet Garni)
 Carne D''agnello In Piccoli Pezzi
-Tartufi Bianchi Tritati O In Paté
+Tartufi Bianchi Tritati O In Patï¿½
 Spalla Di Capriolo Giovane Da 1200 G
 Coscio Di Capretto
 Spalla Di Cervo Pronta Per La Cottura
@@ -14324,7 +14324,7 @@ Salsicce Da Cocktail
 Pesce Spada Tagliato A Fettine Sottili
 Pesce Spada (fette Da 200 G)
 Formaggio Groviera (fette Da 200 G)
-Polenta Bianca Già Pronta
+Polenta Bianca Giï¿½ Pronta
 Olive Verdi Al Peperoncino
 Polpa Di Pollo A Cubetti
 Pomodorini Sodi
@@ -14356,7 +14356,7 @@ Spigola Da 1200 G
 Spigola Di 1200 G
 Spigola Di 400 G
 Spigole Da 300 G
-Mirin (o La Metà Di Sherry)
+Mirin (o La Metï¿½ Di Sherry)
 Spinaci Per Insalata
 Acciughe Sotto Sale (o Acciughe Sott''olio)
 Spinaci Freschi Tenerissimi
@@ -14402,7 +14402,7 @@ Foglie Di Cioccolato Fondente
 Pistacchi Pelati E Tritati
 Fogli Di Gelatina
 Pere Morbide Grandi
-Chicchi Di Caffè Interi
+Chicchi Di Caffï¿½ Interi
 Ricotta Morbida Freschissima
 Vino Rosso Novello
 Kiwi A Fettine
@@ -14429,7 +14429,7 @@ Fettine Di Lime
 Fette Di Controfiletto Di Manzo
 Farcie
 Pasta Sfoglia Surgelata (2 Sfoglie)
-Pancarré (macinate)
+Pancarrï¿½ (macinate)
 Mandorle Non Spellate Tritate Fini
 Tuorlo D''uovo Per Spennellare
 Patate Lesse Grandi
@@ -14451,7 +14451,7 @@ Capperi Interi
 Stoccafisso (merluzzo Essiccato)
 Filetto Di Stoccafisso Ammollato
 Formaggio Caciocavallo Fresco Grattugiato
-Stoccafisso Qualità Ragno (non Salato) Già Ammollato
+Stoccafisso Qualitï¿½ Ragno (non Salato) Giï¿½ Ammollato
 Stoccafisso Secco (o 800 G Di Stoccafisso Bagnato)
 Stoccafisso Da 500 G
 Mollica Grattugiata
@@ -14472,7 +14472,7 @@ Aneto O Cerfoglio O Prezzemolo
 Ribolla Friulana
 Filetto Di Storione
 Fettine Di Storione Affumicato (o Fettine Di Storione Bollito)
-Pancarré Grigliato Caldo
+Pancarrï¿½ Grigliato Caldo
 Trancio Di Storione Di 600 G
 Court-bouillon Al Vino Bianco
 Lemon Sour Boero Diluito
@@ -14481,7 +14481,7 @@ Straccetti Di Carne
 Finocchio Cotto
 Piselli E Fave Sbollentati
 Crostini Di Pane Tostati In Forno
-Pasta Sfoglia Pronta Già Stesa
+Pasta Sfoglia Pronta Giï¿½ Stesa
 Carote Rotonde
 Carne Di Manzo (girello)
 Lardo (o Prosciutto Cotto Grasso)
@@ -14496,7 +14496,7 @@ Pomodori Pelati (scatole Di 450 G)
 Salame Cotto (fette Di 50 G)
 Formaggio Gorgonzola Al Mascarpone
 Pasta Tipo Strangozzi
-Tartufi Interi Puliti Dalla Terra E Lavati O Tartufo In Fettine O In Paté
+Tartufi Interi Puliti Dalla Terra E Lavati O Tartufo In Fettine O In Patï¿½
 Acciuga Diliscata
 Schnapps Alle Fragole
 Radicchi Rossi Trevigiani Di Medie Dimensioni
@@ -14764,7 +14764,7 @@ Bistecca Di Entrecote Di Manzo
 Costata Di Manzo Spessa Di 4 Cm (500 G)
 Peperone Di Voghera
 Filetto Di Vitella
-Ragù Già Pronto (per La Pasta Al Forno)
+Ragï¿½ Giï¿½ Pronto (per La Pasta Al Forno)
 Pasta Tipo Tagliatelle All''uovo Fresche
 Santoreggia (o Basilico)
 Fagioli Cotti
@@ -14790,7 +14790,7 @@ Rosa Di Manzo
 Speck Tagliato Spesso
 Granchio Di Mare
 Sogliola Grande
-Salsa Di Pomodoro Già Pronta
+Salsa Di Pomodoro Giï¿½ Pronta
 Scalogno Intero
 Pesce Misto (pesce San Pietro, Scorfano)
 Piselli (scatole Da 500 G)
@@ -14813,7 +14813,7 @@ Carne Di Manza Tritata
 Pasta Tipo Tagliatelle Verdi Spinaci
 Pasta Tipo Tagliatelline All''uovo
 Fegato Di Pollo
-Pradè Intero Di Pollo
+Pradï¿½ Intero Di Pollo
 Scalogni Medi
 Zucchine Tagliate A Bastoncino
 Porri Tagliati A Bastoncino
@@ -14869,10 +14869,10 @@ Polpa Di Manzo Magra Tritata
 Limoni Gialli
 Filetto D''acciughe Tritato
 Aglio Pestato Con L''olio
-Pancarré Integrale Fresco (100 G)
+Pancarrï¿½ Integrale Fresco (100 G)
 Polpa Di Tonno Fresco
 Vino Moscato D''asti Naturale
-Cipolline Bianche Già Pelate
+Cipolline Bianche Giï¿½ Pelate
 Salmone Fresco A Fette Sottilissime
 Cipolle Grandi A Fettine
 Panna Fresca (o Formaggio Dolce Fresco)
@@ -14882,20 +14882,20 @@ Pasta Sfoglia Surgelata Scongelata
 Pere (circa 6)
 Tartellette Salate
 Lamponi Grandi Sani
-Tartellette Di Pasta Frolla Già Pronta
+Tartellette Di Pasta Frolla Giï¿½ Pronta
 Mirtilli Maturi
 Gelatina Al Limone
 Formaggio Fresco Petit Suisse
 Cocco Grattugiato Disidratato
 Liquore Cointreau
 Kiwi Non Troppo Maturo
-Chicchi Di Caffè Di Cioccolato
+Chicchi Di Caffï¿½ Di Cioccolato
 Caviale Di Melanzane
 Tartellette Vuote
 Nocciole Tritate Finemente
 Pisellini Novelli
-Pasta Frolla Già Stesa
-Tartellette Già Pronte
+Pasta Frolla Giï¿½ Stesa
+Tartellette Giï¿½ Pronte
 Lamelle Di Cioccolato Bianco
 Ricotta Piemontese Freschissima
 Rafano In Polvere
@@ -14912,14 +14912,14 @@ Bocconcini Di Pane Alle Noci
 Tartufo Fresco Macinato
 Robiole (formaggio)
 Pane Leggermente Tostato
-Pancarré Bianco
+Pancarrï¿½ Bianco
 Formaggini Caprini
-Pan Di Spagna Già Pronto
+Pan Di Spagna Giï¿½ Pronto
 Tartine Di Pasta Frolla
 Pane Pistoccu
 Salsa Rosamarina Calabrese Al Peperoncino
 Formaggini Petit-suisse Freschi
-Patš Di Olive Nere
+Patï¿½ Di Olive Nere
 Sfilatino Di Pane Integrale
 Gamberetti Surgelati Lessati
 Salsa Cocktail Allo Scotch Whisky
@@ -14943,8 +14943,8 @@ Cipolle Medie Affettate Sottilmente
 Peperone Verde Dolce A Pezzetti
 Vino Porto Bianco Offley Fine White (vino Bianco Porto)
 Seremeq Vodka Alla Pesca
-Tè Scuro Freddissimo
-Tè Bollente
+Tï¿½ Scuro Freddissimo
+Tï¿½ Bollente
 Cuori Di Insalata Lattuga
 Formaggio Edam Affettato Sottile
 Formaggio Scamorza Affettato Sottile
@@ -14986,7 +14986,7 @@ Filetti Di Sogliola Arrotolati E Scottati
 Foglie Di Spinaci Grandi
 Formaggio Fontina A Listarelle
 Spinaci Cotti Al Vapore
-Spinaci Già Puliti
+Spinaci Giï¿½ Puliti
 Bastoncini Di Verdura Per Guarnire
 Rose Di Carota Per Guarnire
 Ciuffi Di Prezzemolo Per Guarnire
@@ -14994,7 +14994,7 @@ Petto Di Tacchino A Cubetti
 Lardo Di Maiale A Cubetti
 Pancetta Tesa (o Bacon)
 Polenta Preparata Con 100 G Di Farina
-Crema Caffè
+Crema Caffï¿½
 Ciliegia Verde
 Vodka Russa
 Bacardi 151
@@ -15040,7 +15040,7 @@ Tinca Da 1000 G
 Tinche Di 500 G Ciascuna
 Bietole E Spinaci Misti
 Olio D''oliva Del Garda
-Sommità Fiorite E Foglie Di Camedrio
+Sommitï¿½ Fiorite E Foglie Di Camedrio
 Alcool A 75 Gradi
 Ricotta Vaccina Leggera
 Cacao Amaro Polvere
@@ -15054,7 +15054,7 @@ Mezzi Gusci D''uovo
 Scorza D''arancia Non Trattata
 Cognac (o Cointreau)
 Pan Di Spagna Di 22 Cm Di Diametro
-Pavesini Bagnati Nel Caffè Amaro
+Pavesini Bagnati Nel Caffï¿½ Amaro
 Vino Marsala (facoltativo)
 Biscotti Secchi Tipo Pavesini
 Pistacchi Verdi
@@ -15065,7 +15065,7 @@ Miele Di Tiglio
 Pulsatilla
 Artemisia
 Semi Di Lino
-Tè Caldo
+Tï¿½ Caldo
 Radice Di Artiglio Di Diavolo
 Uva Ursina (foglie)
 Elymus Repens (rizoma)
@@ -15097,7 +15097,7 @@ Scorze Di Lime
 Peperoncini Piccanti (facoltativo)
 Brodo Di Pesce (facoltativo)
 Erba Cipollina Tagliati Sottilmente E Schiacciati
-Lime (foglie Fresche Spezzate A Metà)
+Lime (foglie Fresche Spezzate A Metï¿½)
 Petto Di Pollo Disossato Tagliato A Fette
 Salsa Di Pesce
 Pasta Di Chili Nero
@@ -15115,7 +15115,7 @@ Scampi Reali
 Scampetti Sgusciati
 Teste Di Scampetti
 Tonnetto
-Tonnetto Da 1000 G Già Pulito
+Tonnetto Da 1000 G Giï¿½ Pulito
 Tonno Fresco (fette Di 150 G Ognuna)
 Tonno Fresco (fette Da 200 G)
 Tonno A Fette Sottili
@@ -15130,7 +15130,7 @@ Tonno In Trance
 Coniglio Intero Pulito
 Erbe Aromatiche Miste Legate Insieme (rosmarino, Salvia, Timo Alloro, Prezzemolo)
 Tonno (da 160 G)
-Piselli Surgelati Già Scongelati
+Piselli Surgelati Giï¿½ Scongelati
 Tonno Fresco (tranci Da 200 G)
 Foglie Di Maggiorana Fresche
 Tonno (tranci Da 150 G L''uno)
@@ -15159,7 +15159,7 @@ Fiori Di Mandorlo
 Cioccolato Amaro Fuso
 Biscotti Savoiardi (ognuno Diviso In 2)
 Panna (o Zucchero A Velo)
-Crema Al Caffè
+Crema Al Caffï¿½
 Pan Di Spagna (dischi Da 400 G)
 Banane Mature Non Troppo Grandi
 Wafer Al Cioccolato (sbriciolati Per La Crosta)
@@ -15185,7 +15185,7 @@ Cipolla A Dadini
 Peperoncini Finemente Tagliati
 Zucchina (per Guarnire)
 Olio D''oliva Per Condire
-Pasta Base Per Pizza Già Stesa
+Pasta Base Per Pizza Giï¿½ Stesa
 Zucchine In Fiore
 Fragoline Di Bosco (o Fragole Normali)
 Yogurth Intero Da 125 G
@@ -15193,13 +15193,13 @@ Burro O Margarina Per La Teglia
 Yogurth All''albicocca
 Albicocche Medie
 Yogurth Intero (vasetti Da 125 G)
-Crema Zabaglione Al Caffè
+Crema Zabaglione Al Caffï¿½
 Cioccolato Sciolto
 Zenzero Candito Tagliato A Dadini
 Arancia Grattugiata
-Caffè Ristretto Forte
-Burro (più Quello Per Imburrare)
-Pasta Brisée Già Pronta
+Caffï¿½ Ristretto Forte
+Burro (piï¿½ Quello Per Imburrare)
+Pasta Brisï¿½e Giï¿½ Pronta
 Verdure (spinaci O Bieta O Insalata Cicoria)
 Margarina O Burro
 Mandorle Tritate Con La Buccia
@@ -15217,7 +15217,7 @@ Fogli Di Cioccolata
 Crema Pasticciera Classica
 Limone (succo E Scorza Tritata)
 Semolino (o Pangrattato)
-Pancarré Sbriciolato
+Pancarrï¿½ Sbriciolato
 Marmellata Di Arance (non A Pezzi)
 Vaniglina Zuccherata
 Coste Di Sedano Tenero
@@ -15253,11 +15253,11 @@ Olio Non Aromatico
 Mele Sbucciate Tagliate A Dadi
 Zucchero Per L''impasto
 Pane Senza Crosta
-Nocciole Varietà Tonda Gentile Delle Langhe
+Nocciole Varietï¿½ Tonda Gentile Delle Langhe
 Nocciole Sgusciate Tostate
 Uova Sbattute A Temperatura Ambiente
 Carote Bollite Setacciate
-Base Per Torte Già Pronta (da Cuocere)
+Base Per Torte Giï¿½ Pronta (da Cuocere)
 Noci A Pezzetti
 Frutta Candita Mista A Dadini
 Distillato Di Pere (o Rum)
@@ -15276,7 +15276,7 @@ Ricotta Di Pecora Setacciata
 Mandorle Pelate E Macinate
 Cacao Non Zuccherato
 Burro Per Ungere La Teglia
-Riso E Latte Già Cotto
+Riso E Latte Giï¿½ Cotto
 Cipolla Bionda Piccola
 Limone (scorza Tritata Finemente)
 Frutti Di Bosco (lamponi E Mirtilli)
@@ -15315,7 +15315,7 @@ Mandorle Tagliate A Julienne
 Vino Bianco (o Vino Marsala O Brandy)
 Lievito Liofilizzato
 Prosciutto Cotto A Fette Sottili
-Pasta Brisée Surgelata (confezioni Da 250 G)
+Pasta Brisï¿½e Surgelata (confezioni Da 250 G)
 Farina Per La Tortiera
 Pastinache
 Cipolle (o Scalogni)
@@ -15336,7 +15336,7 @@ Pomodori Verdi Grandi (circa 600 G)
 Pistacchi Verdi Sbucciati
 Pan Di Spagna Di 30 Cm Di Diametro
 Decorazioni Varie (pastiglie Colorate Di Cioccolato O Altro)
-Cioccolato Fondente Di Ottima Qualità In Tranci
+Cioccolato Fondente Di Ottima Qualitï¿½ In Tranci
 Crema Al Burro (v. Ricetta)
 Colorante Giallo Per Alimenti
 Farina Per Le Teglie
@@ -15396,13 +15396,13 @@ Limone (o Arancia)
 Formaggio Caciotta Tagliato A Dadini
 Totani Da 20 Cm Bolliti
 Carne Pesta
-Pancarré (stessa Forma Della Carne)
+Pancarrï¿½ (stessa Forma Della Carne)
 Tournedos Di Manzo Alti 3 Cm
 Vodka Alla Mela
 Ricard
 Orzata Fabbri
-Pancarré (fette Tagliate A Triangolo)
-Tartufi Bianchi Affettati O In Purè
+Pancarrï¿½ (fette Tagliate A Triangolo)
+Tartufi Bianchi Affettati O In Purï¿½
 Formaggio Spalmabile Light
 Pomodoro Tagliato A Fettine
 Pane (40 G)
@@ -15487,7 +15487,7 @@ Corn Flakes (non Aromatizzati)
 Gamberetti Crudi
 Peperone Rosso Sott''aceto Tritato
 Marroni Grandi
-Tè Earl Grey
+Tï¿½ Earl Grey
 Foglie D''edera
 Mondine (castagne Mondate E Lessate)
 Sorbetto Al Mango
@@ -15588,17 +15588,17 @@ Piselli Freschi Sbucciati
 Grissini Al Sesamo
 Nasello Lesso
 Uovo Di Struzzo Di Circa 1500 G
-Crostini Di Pancarré
+Crostini Di Pancarrï¿½
 Zucchina (parte Verde)
 Gusci Di Conchiglia
-Pancarré A Fettine
+Pancarrï¿½ A Fettine
 Vino Borgogna
-Cocco Già Pulito
+Cocco Giï¿½ Pulito
 Maionese (o Salsa Di Tofu)
 Besciamella Molto Densa
 Maionese Ai Capperi
 Cipolle Abbastanza Grandi
-Paté Di Fegato D''oca (o Paté Di Fegato Di Vitello)
+Patï¿½ Di Fegato D''oca (o Patï¿½ Di Fegato Di Vitello)
 Caviale Di Olive
 Formaggio Parmigiano (o Formaggio Groviera)
 Brodo Bollente
@@ -15709,23 +15709,23 @@ Soda O Acqua Di Seltz
 Vino Rosso (barbera)
 Mosto Di Vino Rosso
 Acacia (fiori Essiccati)
-Sommità Fiorite Di Artemisia
+Sommitï¿½ Fiorite Di Artemisia
 Foglie E Fiori Essiccati Di Assenzio
 Acquavite Di 28 Gradi
-Sommità Fiorite Essiccate Di Camedrio
+Sommitï¿½ Fiorite Essiccate Di Camedrio
 Fiori Di Camomilla Romana
 Scorza Di Radici Secche Di Capperi
 Corteccia Di Frassino
 Foglie E Radici Di Cardo Mariano
-Sommità Fiorite Di Cardo Santo
-Sommità Fiorite Secche Di Centaurea Minore
+Sommitï¿½ Fiorite Di Cardo Santo
+Sommitï¿½ Fiorite Secche Di Centaurea Minore
 Mela Cotogna (polpa In Pezzetti)
 Genziana Maggiore (radice Secca)
 Radici Essiccate Spezzettate Di Genziana Minore
 Liquirizia (radice A Pezzetti)
-Sommità Fiorite E Foglie Essiccate Di Marrubio
+Sommitï¿½ Fiorite E Foglie Essiccate Di Marrubio
 Melissa (foglie E Fiori)
-Sommità Fiorite Di Melissa
+Sommitï¿½ Fiorite Di Melissa
 Foglie Secche Di Pervinca
 Radici Secche Di Rabarbaro
 Germogli Di Ribes Rosso
@@ -15777,7 +15777,7 @@ Cipolla Steccata Con Alloro E Chiodi Di Garofano
 Tonno Sgocciolato (160 G)
 Uova Sode In Quarti
 Vodka A 40 Gradi
-Vol-au-vent Già Pronti
+Vol-au-vent Giï¿½ Pronti
 Bianco Di Pollo Bollito O Arrosto
 Scampi (code Sgusciate)
 Vol Au Vent Di Sfoglia Pronti
@@ -15785,10 +15785,10 @@ Formaggio Robiola Tenero
 Vol-au-vent Piccoli
 Vol-au-vent Surgelati
 Polpa D''agnello Privata Di Scarti E Pellicine
-Vol-au-vent Già Cotti
+Vol-au-vent Giï¿½ Cotti
 Uova Non Nate
 Vol-au-vent Piccoli Acquistati Pronti
-Vol-au-vent Freschi Già Pronti
+Vol-au-vent Freschi Giï¿½ Pronti
 Vol Au Vent Piccoli Surgelati (formato Cocktail)
 Vol-au-vent Grande
 Vol-au-vent Di 25 Cm Di Diametro
@@ -15810,12 +15810,12 @@ Sciroppo Di Latte Di Cocco Fabbri
 Whisky Misti
 Liquore Alle Erbe
 Crema Banana Marie Brizard
-Caffè Il Polvere Lavazza Club
+Caffï¿½ Il Polvere Lavazza Club
 Peperoni Rossi Sott''aceto In Falde
 Albicocca A Pezzetti
 Gamberetti (o Granchi)
 Pasta Di Noci Di Loto
-Pane Bianco (o Pancarré)
+Pane Bianco (o Pancarrï¿½)
 Liquore Millefiori
 Purea Di Guava
 Vodka Nicolai
@@ -15829,7 +15829,7 @@ Farina Di Mais Macinata Sottile
 Zampetti Di Vitello
 Speck Per Lardellare
 Brodo (o Fondo Marrone)
-Zampone Già Pronto In Busta Sigillata
+Zampone Giï¿½ Pronto In Busta Sigillata
 Zampone Di 1000 G
 Cipolla Piccola Tagliata Finemente
 Petti Di Pollo Divisi In Filetti
@@ -15872,7 +15872,7 @@ Peperoni Di Senise Secchi Macinati
 Zucchine Piccole E Sode
 Zucchine Non Molto Grandi
 Pomodori Non Molto Grandi
-Fagioli Già Lessati
+Fagioli Giï¿½ Lessati
 Zucchine Piccole E Sode (fresche)
 Cipolline In Agrodolce (o Sott''olio)
 Carne Trita Cotta
@@ -15881,7 +15881,7 @@ Zucchine Rotonde
 Zucchine Di Uguali Dimensioni
 Formaggio Fresco Tritato
 Carne Di Salsiccia
-Sakè (o Sherry Secco)
+Sakï¿½ (o Sherry Secco)
 Canditi A Dadini
 Miele D''acacia Integrale
 Liquore Alchermes
@@ -15894,7 +15894,7 @@ Tranci Larghi E Sottili Di Cernia
 Pane Raffermo In Fette
 Battuto Di Prosciutto Crudo
 Costine Di Maiale (o Pancetta Di Maiale)
-Carne Di Capriolo Già Cotta
+Carne Di Capriolo Giï¿½ Cotta
 Milza Di Selvaggina (daino, Cinghiale)
 Fegato Di Selvaggina (daino, Cinghiale)
 Cipolle Dorate
@@ -15909,7 +15909,7 @@ Pagnotta Di Pane Casereccio
 Cavolo Cappuccio Piccolo
 Battuto Di Cipolla E Sedano
 Salsiccia Affumicata A Pezzi
-Carne Di Pollo Già Cotta E Disossata
+Carne Di Pollo Giï¿½ Cotta E Disossata
 Cipolline Selvatiche (cipuddizze)
 Cerfoglio (o Prezzemolo) Per Decorare
 Sedano Tritato Finissimo
@@ -15920,7 +15920,7 @@ Pane (fettine Fritte Con L''olio)
 Carciofi Invernali
 Cavolo Verza Di 1000 G
 Cavolo Cappuccio Grande (o 2 Cavoli Cappuccio Piccoli)
-Cavolo Nero Già Pulito
+Cavolo Nero Giï¿½ Pulito
 Origano (o Prezzemolo)
 Erba Pepe
 Yogurth Di Latte Intero
@@ -15929,12 +15929,12 @@ Carote Gialle
 Crostoni Di Pane Casereccio Abbrustoliti
 Brodo Di Carne Ben Aromatizzato Con Le Verdure
 Formaggio Emmenthal Francese
-Formaggio Gruyère (o Formaggio Parmigiano O Formaggio Emmenthal)
+Formaggio Gruyï¿½re (o Formaggio Parmigiano O Formaggio Emmenthal)
 Carpa Di 1500 G Con Interiora E Uova
 Friselle Napoletane
 Zucchine Lunghe
 Pane Giallo Affettato
-Fagioli Secchi Già Ammollati
+Fagioli Secchi Giï¿½ Ammollati
 Chiodo Di Garofano Pestato
 Ossa Di Midollo
 Fagioli Bruni
@@ -15943,9 +15943,9 @@ Fagioli Rossi Di Soia
 Pasta Tipo Maltagliati All''uovo Freschi
 Pancetta Affumicata A Striscioline
 Pomodori Freschi Tagliati A Pezzetti
-Fave Fresche Già Sgusciate (o Fave Secche A Bagno Un''intera Notte)
+Fave Fresche Giï¿½ Sgusciate (o Fave Secche A Bagno Un''intera Notte)
 Fave Sbucciate Fresche
-Fave Fresche Già Sgranate
+Fave Fresche Giï¿½ Sgranate
 Funghi Porcini Essiccati
 Funghi Autunnali Misti
 Gamberi Di Fiume Puliti
@@ -15997,7 +15997,7 @@ Pomodori Freschi (o Pomodori In Scatola)
 Acqua Calda (o Brodo Ristretto Caldo)
 Carne Di Selvaggina
 Cognac E Vino Madera
-Lenticchie Già Cotte
+Lenticchie Giï¿½ Cotte
 Porri Invernali
 Piselli Da Sgusciare
 Pane Casereccio Biscottato
@@ -16022,7 +16022,7 @@ Alchermes Misto A Vino Rosolio
 Cioccolato A Scaglie (o Frutta Di Bosco)
 Pan Di Spagna Di 8 Uova
 Zucchero A Velo Per La Panna
-Caffè Ristretto Amaro
+Caffï¿½ Ristretto Amaro
 Gherigli Di Noci O Avanzi Frutta Secca
 Cioccolato O Cacao
 Pane Raffermo Tostato In Fette
