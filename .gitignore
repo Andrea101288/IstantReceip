@@ -1,8 +1,8 @@
-../database/settings.py
-../database/dividedEnglishIngredients
-../database/dividedIngredients
-../database/subCategories
-../database/ingEn.doc
-../database/trans.py
-../database/receips.txt
-../database/receipsNew.txt
+database/settings.py
+/database/dividedEnglishIngredients/*
+/database/dividedIngredients/*
+/database/subCategories*
+/database/ingEn.doc
+/database/trans.py
+/database/receips.txt
+/database/receipsNew.txt
