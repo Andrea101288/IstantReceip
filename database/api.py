@@ -2,10 +2,10 @@ import json
 from flask import Flask, request
 from flask_restful import Resource, Api
 import mysql.connector as mysql
-
 from manager import Manager
 import settings
 i = {}
+
 class Receips(Resource):
     """Manages events requests"""
     
@@ -73,7 +73,6 @@ class Ingredients(Resource):
         
 class IstantReceipSearch(Resource):
     """Manages events requests"""
-
     def get(self, ingredients):
         # Return value
         rv = []
@@ -82,7 +81,6 @@ class IstantReceipSearch(Resource):
 
 class StandardReceipSearch(Resource):
     """Manages events requests"""
-
     def get(self, ingredients):
         # Return value
         rv = []
@@ -95,7 +93,7 @@ if __name__ == '__main__':
     app = Flask(__name__)
     api = Api(app)
 
-    PORT = 8080
+    PORT = 8081
 
     # Create new db manager
     manager = Manager(settings.host,
@@ -115,6 +113,6 @@ if __name__ == '__main__':
         manager.connect()
 
         # Start API
-        app.run(host='192.168.1.17', port=PORT)
+        app.run(host='localhost', port=PORT)
     finally:
         manager.close()
