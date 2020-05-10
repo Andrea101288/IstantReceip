@@ -1,9 +1,10 @@
 database/settings.py
 /database/dividedEnglishIngredients/*
 /database/dividedIngredients/*
-/database/subCategories*
+/database/subCategories/*
 /database/ingEn.txt
-/database/transPy.py
+/database/translator/transPy.py
 /database/receips.txt
 /database/receipsNew.txt
 /database/IngEnGoogle.txt
+/databse/transator/*

@@ -4,7 +4,7 @@ import mysql.connector as mysql
 class Manager:
     """This class manages all the connection and operations on the database"""
 
-    def __init__(self, host, username, password, database, charset="UTF8"):
+    def __init__(self, host, username, password, database, charset="UTF8", auth='mysql_native_password', port=3306):
         """Constructor function"""
         # Get credentials to enstablish connection
         self.host = host
@@ -12,6 +12,8 @@ class Manager:
         self.password = password
         self.database = database
         self.charset = charset
+        self.auth = auth
+        self.port = port
 
         # Database stuff
         self.connection = None
@@ -22,7 +24,8 @@ class Manager:
         self.connection = mysql.connect(host=self.host,
                                         user=self.username,
                                         password=self.password,
-                                        database=self.database)
+                                        database=self.database,
+                                        auth_plugin=self.auth)
         self.cursor = self.connection.cursor()
 
     def close(self):
@@ -30,7 +33,7 @@ class Manager:
         self.cursor.close()
         self.connection.close()
         
-    def insert_receip(self, name, description):
+    def insert_receipe(self, name, description):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
@@ -51,20 +54,20 @@ class Manager:
             # Close connection
             self.close()
             
-    def insert_ingredient(self, ingredient_name, calories):
+    def insert_ingredient(self, en_name, ingredient_name, calories):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
         try:
             # Prepare query 
-            query = "INSERT INTO ingredient VALUES({0}, '{1}', '{2}')".format(0, ingredient_name, calories)
+            query = "INSERT INTO ingredient VALUES({0}, '{1}', '{2}', '{3}')".format(0, ingredient_name, en_name, calories)
             # Execute query
             self.cursor.execute(query)
             self.connection.commit()
 
         except mysql.Error as e:
             if e.errno == 1062:
-                print("Entry '{0}' exists. Skipping".format(name))
+                print("Entry '{0}' exists. Skipping".format(ingredient_name))
             else:
                 print("Unknown error! Exiting...")
                 raise e
@@ -125,8 +128,7 @@ class Manager:
             query = "select id from ingredient where name = '" + name + "'"
             # Execute query
             self.cursor.execute(query)
-            return self.cursor.fetchall()
-            
+            return self.cursor.fetchall()            
         finally:
             # Close connection
             self.close()

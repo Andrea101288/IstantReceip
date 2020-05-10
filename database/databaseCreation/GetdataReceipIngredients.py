@@ -2,7 +2,7 @@ from manager import Manager
 import settings
 import time
 # get datas from txt file to save receips data
-file = open("ricette.txt", "r") 
+file = open("../receips.txt", "r")
  
 findI = False
 findMI = False 
@@ -18,7 +18,7 @@ manager.connect()
 i = 0
 
 # seraching for the ingredient names and amount in the text file
-for line in file: 
+for line in file.readlines(): 
     
     if "-Ingredienti" in line:
         findI = True
@@ -29,12 +29,14 @@ for line in file:
         continue
     if findI:
         ingredient = line.split("= ")[1].replace("\n", "")
-        amount = line.split(" =")[0]
+        print(ingredient)
+        amount = line.split(" =")
         if ":" in ingredient:
             continue
         # Insert the new ingredient in the database
         ing = manager.ingredientByName(ingredient)
-        manager.insert_Receip_ingredient(ing[0][0], i, amount)    
+        print(ing)
+        manager.insert_Receip_ingredient(ing, i, amount, ingredient)    
     
 print("DONE")
              
