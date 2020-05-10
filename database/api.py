@@ -2,42 +2,14 @@ import json
 from flask import Flask, request
 from flask_restful import Resource, Api
 import mysql.connector as mysql
-from manager import Manager
-import settings
+from database.manager import Manager
+from database import settings
 i = {}
 
 class Receips(Resource):
-    """Manages events requests"""
+    """Manages receipe requests"""
     
     def get(self):
-        # Return value
-        # rv = []
-        # receip = []
-        # res = {}
-        # currLett = ""
-        # rv = manager.select("receipt", "id, name") 
-        # oldLetter = ""
-        # for rec in rv:
-            # try: 
-                # int(rec[1][0])
-                # receip.append(rec[1])                
-            # except ValueError:
-                # currLett = rec[1][0].upper()
-                # if oldLetter == "":
-                    # res['#'] = receip
-                    # receip = []
-                    # oldLetter = "A"                   
-                # if currLett == oldLetter:
-                    # receip.append(rec[1])
-                
-                # else:
-                    # res[oldLetter] = receip
-                    # receip = []
-                    # oldLetter = currLett  
-           
-        # return json.dumps(res)
-        
-        # Return value
         global i 
         print(i)
         rv = []
@@ -55,7 +27,7 @@ class Receips(Resource):
         return json.dumps(res)
 
 class Ingredients(Resource):
-    """Manages events requests"""
+    """Manages ingredient requests"""
 
     def get(self):
         # Return value
@@ -89,6 +61,7 @@ class StandardReceipSearch(Resource):
 
 
 if __name__ == '__main__':
+
     # Init flask
     app = Flask(__name__)
     api = Api(app)
@@ -104,14 +77,13 @@ if __name__ == '__main__':
 
     # Routes configuration
     api.add_resource(Ingredients, '/ingredients/')
-    api.add_resource(Receips, '/receips/')
-    api.add_resource(IstantReceipSearch,'/istantReceipSerch/')
-    api.add_resource(StandardReceipSearch,'/standardReceipSerch/')
+    api.add_resource(Receips, '/receipes/')
+    api.add_resource(IstantReceipSearch, '/istantReceipeSearch/')
+    api.add_resource(StandardReceipSearch, '/standardReceipeSearch/')
     
     try:
         # Connect to DB
         manager.connect()
-
         # Start API
         app.run(host='localhost', port=PORT)
     finally:

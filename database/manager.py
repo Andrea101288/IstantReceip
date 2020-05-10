@@ -4,9 +4,9 @@ import mysql.connector as mysql
 class Manager:
     """This class manages all the connection and operations on the database"""
 
-    def __init__(self, host, username, password, database, charset="UTF8", auth='mysql_native_password', port=3306):
+    def __init__(self, host, username, password, database, charset="utf-8", auth='mysql_native_password', port=3306):
         """Constructor function"""
-        # Get credentials to enstablish connection
+        # Get credentials to establish connection
         self.host = host
         self.username = username
         self.password = password
@@ -128,25 +128,24 @@ class Manager:
             query = "select id from ingredient where name = '" + name + "'"
             # Execute query
             self.cursor.execute(query)
-            return self.cursor.fetchall()            
+            return self.cursor.fetchall()
         finally:
             # Close connection
             self.close()
             
-    def insert_Receip_ingredient(self, id_ingredient, id_receipe, amount, name):
+    def insert_Receip_ingredient(self, id_ingredient, id_receipe, amount, main_ing):
         """Insert events in the database"""
         # Connect to DB
         self.connect()
         try:
             # Prepare query                     
-            query = "INSERT INTO receiptingredients VALUES({0}, {1}, {2}, '{3}')".format(0, id_ingredient,  id_receipe, amount)
+            query = "INSERT INTO recipeingredients VALUES({0}, {1}, {2}, '{3}', '{4}')".format(0, id_ingredient,  id_receipe, amount, main_ing)
             # Execute query
             self.cursor.execute(query)
             self.connection.commit()
-
         except mysql.Error as e:
             if e.errno == 1062:
-                print("Entry '{0}' exists. Skipping".format(name))
+                print("Entry id :'{0}' exists. Skipping".format(id_ingredient))
             else:
                 print("Unknown error! Exiting...")
                 raise e
@@ -191,7 +190,7 @@ class Manager:
         
         try:
             found_receipe = []
-            query_receipe = "select distinct id_receipeeipt from receiptingredients where " 
+            query_receipe = "select distinct id_receipeeipt from receipeingredients where "
             for ing in ingredients: 
                 query_receipe +=  "id_ingredientredient = " + str(ing) + " or "
             
@@ -210,11 +209,11 @@ class Manager:
                 result = self.cursor.fetchall()
                 if len(ingredients) < len(result):
                     continue
-                #print("receip" + str(id_receipe[0]))
+                # print("receip" + str(id_receipe[0]))
                 for ing in result:
-                    #print(ing)
+                    # print(ing)
                     if not any(ing[0] == s for s in ingredients):
-                    #if ing not in ingredients:
+                    # if ing not in ingredients:
                         #print(ing)
                         ok = False
                         break

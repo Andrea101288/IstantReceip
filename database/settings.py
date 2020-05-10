@@ -1,6 +1,6 @@
 host = "127.0.0.1"
 username = "root"
 passwd = ""
-database = "istantreceip"
-charset = "UTF8"
+database = "istantrecipe"
+charset = "utf8"
 auth_plugin = "mysql_native_password"
