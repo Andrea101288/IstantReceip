@@ -1,9 +1,7 @@
-from manager import Manager
-import settings
+from database.manager import Manager
+from database import settings
 import time
-import goslate
 import os 
-gs = goslate.Goslate()
 
 # get datas from txt file to save receips data
 file_2 = open("../IngEn.txt", "w")

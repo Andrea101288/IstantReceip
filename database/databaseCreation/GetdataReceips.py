@@ -2,7 +2,7 @@ from database.manager import Manager
 from database import settings
 import time
 
-fileNew = open("ReceipsNew.txt.txt", "r")
+fileNew = open("../ReceipsNew.txt", "r")
 
 # Create a new instance of db manager
 manager = Manager(settings.host,
@@ -20,11 +20,11 @@ for line in fileNew:
     
     # Insert the new event in the database
     manager.insert_receipe(name, description)
-    ++i
-    if i%100: 
-        time.sleep(1)
+    time.sleep(0.05)
+    i+=1
+
         
-print("DONE")
+print(f"DONE, {i} receipes inserted")
              
 manager.close()    
 

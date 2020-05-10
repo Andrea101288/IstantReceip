@@ -5,9 +5,9 @@ import time
 
 def insert_ingredient_to_database():
 	"""
-  insert ingredient data to database
+  insert ingredients to database
   """
-	# get data from txt file to save receipes data
+	# get data from txt file to save recipes data
 	with open("../IngEnGoogle.txt", "r") as file:
 		# create a new instance of db manager
 		manager = Manager(settings.host,
@@ -22,10 +22,10 @@ def insert_ingredient_to_database():
 		# searching for the ingredient names and amount in the text file
 		for line in file:
 			i += 1
-			ingredient = line.replace("\n", "")
+			ingredient = line.strip().replace("\n", "")
 			if not manager.contain_ingredient(ingredient):
 				manager.insert_ingredient("", ingredient, 0)
-				time.sleep(0.05)
+				time.sleep(0.025)
 
 		print(f"{i} ingredients inserted into database Complete")
 		manager.close()
